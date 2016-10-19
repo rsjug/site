@@ -31,7 +31,6 @@ A try to migrate http://www.rsjug.org/[RSJUG site^] to  https://jekyllrb.com/[Je
 * Posts based on Asciidoc (via http://asciidoctor.org/[Asciidoctor] and https://guides.github.com/features/mastering-markdown/[Markdown] (focus on content instead of markup)
 * Client side search
 
-
 == Running it locally
 
 . Fist you will need to https://www.ruby-lang.org/en/documentation/installation/[install Ruby^]
