@@ -1,0 +1,49 @@
+---
+layout: inner
+categories: blog development
+permalink: /sample/
+tags:
+- github
+- jekyll
+- asciidoc
+excerpt: This is a sample page composed in AsciiDoc.
+comments: true
+---
+= Sample Page
+:toc:
+:revdate: 2016-03-20 10:30:00 -0600
+:uri-asciidoctor: http://asciidoctor.org
+
+This is a sample page composed in AsciiDoc.
+Jekyll converts it to HTML using {uri-asciidoctor}[Asciidoctor].
+
+== First Section
+
+* item 1
+* item 2
+
+[source,java,linenums]
+----
+public static main(String[] args) {
+	System.out::println("Hello Jekyll"); <1>
+}
+----
+<1> prints to output console
+
+NOTE: This is rendered by {uri-asciidoctor}[Asciidoctor^].
+
+=== A sub Section
+
+Subsection content.
+
+== Second section
+
+Another section with *bold* and _italics_ and nested lists:
+
+* List item 1
+**  List item 1.1
+* List item 2
+
+More details see Asciidoctor quick syntax referencefootnote:[http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/] or http://asciidoctor.org/docs/user-manual/[Asciidoctor user manual^].
+
+

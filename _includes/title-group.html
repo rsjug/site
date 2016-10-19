@@ -1,0 +1,47 @@
+{% if page.featured_image or page.featured_video_id %}
+    <div class="topper">
+        {% if page.featured_image %}
+        <span class="img" style="background-image: url('{{ page.featured_image }}');"> </span>
+        {% endif %}
+
+        {% if page.featured_video_id %}
+        <iframe src="https://www.youtube.com/embed/{{ page.featured_video_id }}" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+    </div>
+{% endif %}
+
+<div class="title-group">
+    <h1 class="special">
+        <span>
+        {% if page.title %}
+            {{ page.title }}
+        {% else %}
+          <div class="content" style="text-align: center">
+                 <img src="/site/img/rsjug_logo.png" alt="{{ site.data.global.title }}">
+          </div>
+        {% endif %}
+        </span>
+    </h1>
+    {% if page.id %}
+    <aside>
+        {{ page.date | date: "%d/%m/%Y %H:%M:%S" }}
+        {% if page.categories != empty %}
+            &middot;
+            {% for category in page.categories %}
+                <span>{{ category }}</span>
+            {% endfor %}
+        {% endif %}
+    </aside>
+    {% endif %}
+    <p class="lead" style="display: none">
+        {% if page.lead_text %}
+            {{ page.lead_text }}
+        {% elsif post.lead_text %}
+            {{ post.lead_text }}
+        {% else %}
+            {{ site.data.global.description }}
+        {% endif %}
+    </p>
+
+
+</div>

@@ -1,0 +1,29 @@
+---
+layout: inner
+title: Histórico
+permalink: /historico/
+---
+
+O RSJUG é o grupo de usuários da linguagem Java do Rio Grande do Sul - Brasil.
+O JUG começou na UFRGS (Universidade Federal do Rio Grande do Sul) , entre os alunos do http://www.inf.ufrgs.br/[Centro de Pós-Graduação em Ciências da Computação^].
+
+O principal idealizador e primeiro JUGLeader foi http://www-users.cs.york.ac.uk/~lsi/[Leandro Soares Indrusiak^].
+
+No seu inicio, o RSJUG se chamava http://www.inf.ufrgs.br/tools/java/[JavaRS^] e é o *primeiro JUG Brasileiro*, com suas atividades iniciadas desde abril de 1996.
+
+image::javars.gif[JavaRS,align="center"]
+
+Em 2001, Indrusiak enviou um comunicado à comunidade solicitando alguém que pudesse assumir a administração do JUG, pois ele estava cursando sua Pós-Graduação na Alemanha (ele ainda está lá!) , e o JUG necessitava de alguém com envolvimento local para levar adiante seus interesses.
+
+Passaram-se alguns meses e o JUG teve suas atividades praticamente paradas devido a ninguém ter assumido a administração neste período.
+
+No ano de 2002 finalmente o JUG retomou suas atividades, desta vez tendo à sua frente Mauro do Valle, que trabalha com Java desde 1996, em diversos projetos de diferentes empresas. Através desse acordo com o Indrusiak assumiu a administração do JUG.
+
+Desde então, o JUG tem se organizado internamente para retomar suas atividades no nível que a comunidade gaúcha merece.
+
+É claro que apenas uma pessoa não pode assumir todo o envolvimento de administrar um JUG deste porte. Devido a isso, o RSJUG montou seu http://wordpress.rsjug.org/?page_id=23[conselho administrativo^] através de voluntários com conhecimento e disponibilidade compatíveis com as atividades do grupo.
+
+
+image::jugmap.jpg[JavaRS,align="center"]
+
+Com o relançamento do RSJUG (inclusive com nova http://wordpress.rsjug.org/?page_id=82[identidade visual^]), espera-se a resposta da comunidade gaúcha e brasileira no apoio a este grupo que é de todos nós, amantes da linguagem *JAVA*.

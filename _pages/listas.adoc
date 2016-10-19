@@ -1,0 +1,16 @@
+---
+layout: inner
+title: Listas de Discussão
+permalink: /listas/
+---
+
+O RSJUG proporciona para a comunidade um espaço para discussões sobre os principais assuntos da linguagem Java.
+
+Para participar é necessário inscrever-se nas listas, escolhendo os assuntos de sua preferências.
+
+Atualmente as listas disponíveis são:
+
+* https://groups.google.com/d/forum/rsjug
+* https://www.facebook.com/groups/rsjug/
+* java-l@rsjug.dev.java.net
+* https://twitter.com/rsjug[@rsjug^]

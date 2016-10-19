@@ -1,0 +1,13 @@
+---
+layout: inner
+title: Objetivos
+permalink: /objetivos/
+---
+
+Divulgar a linguagem Java, distribuindo o conhecimento e o desenvolvimento do uso da mesma, envolvendo os profissionais e estudantes da área.
+
+* O RSJUG tem como foco a comunidade gaúcha, mas considera fundamental a integração com as comunidades dos demais estados do Brasil;
+* Enriquecer o conhecimento do grupo, proporcionando ao mercado profissionais qualificados e certificados;
+* Proporcionar a organização de eventos educacionais, objetivando sempre um baixo custo para os participantes;
+* Aliar às ações do grupo um fim social, estabelecendo um canal de distribuição de donativos da comunidade às entidades sociais cadastradas;
+* Incentivar a utilização da linguagem Java em sua plenitude;

@@ -1,0 +1,161 @@
+= https://rsjug.github.io/site/[RSJUG Site^]
+:page-layout: base
+:source-language: java
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:!numbered:
+:doctype: book
+:toc: preamble
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+
+image:https://travis-ci.org/rsjug/site.svg[Build Status (Travis CI), link=https://travis-ci.org/rsjug/site]
+
+== What's it?
+
+A try to migrate http://www.rsjug.org/[RSJUG site^] to  https://jekyllrb.com/[Jekyll] and github pages.
+
+==  Features
+
+* Responsive layout
+* Mobile 'friendly'
+* https://disqus.com/[Disqus] integration
+* Based on github pages 
+* Promotes contribution (as it is hosted on github)
+* Automatically build on git push
+* Posts based on Asciidoc (via http://asciidoctor.org/[Asciidoctor] and https://guides.github.com/features/mastering-markdown/[Markdown] (focus on content instead of markup)
+* Client side search
+
+
+== Running it locally
+
+. Fist you will need to https://www.ruby-lang.org/en/documentation/installation/[install Ruby^]
++
+NOTE: Use `Ruby 2.1` or superior
+. Install `Bundler` gem:
++ 
+----
+gem install bundler
+----
++
+TIP: You can skip this step if you want to install gems individually, see https://github.com/rsjug/site/blob/master/Gemfile.xml[required gems here]
+. Clone the project:
++
+----
+git clone https://github.com/rsjug/site rsjug-site
+cd rsjug-site
+----
+. Run 
++
+----
+bundle install
+----
++
+NOTE: It will install gems declared in `Gemfile`. You can skip this step if gems are already installed
++
+IMPORTANT: If you receive the error `can't find header files for ruby at /usr/share/include/ruby.h` you need to install ruby development kit in your operating system:
++
+----
+//fedora
+sudo dnf install -y gcc ruby-devel rubygems libxml2 libxml2-devel libxslt libxslt-devel
+//ubuntu
+sudo apt-get install ruby-dev 
+//or
+sudo apt-get install ruby2.0-dev
+//or
+sudo apt-get install ruby2.2-dev
+----
++
+IMPORTANT: if you get `ERROR: Failed to build gem native extension.`, you need to install native extensions:
++
+----
+//ubuntu
+sudo apt-get install libgmp-dev
+//or
+sudo apt-get install libgmp3-dev
+//fedora
+sudo dnf install rpm-build
+----
++
+NOTE: output should be:
++
+----
+Bundle complete! 7 Gemfile dependencies, 27 gems now installed.
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+----
+. Then run Jekyll 
++
+----
+jekyll serve
+----
+. And finally access http://localhost:4000/site/
+
+
+TIP: Every file change is automatically published locally by Jekyll.
+
+== Site Anatomy
+
+[source]
+----
+   SITE
+    |
+    ├──_data
+    │   ├── global.yml <1>
+    │   ├── nav.yml <2>
+    ├──_includes <3>
+    │   ├── disqus-comments.html <4>
+    │   ├── tile.html <5>
+    │   ├── title-group.html <6>
+    ├──_layout
+    │   ├── default.html <7>
+    │   ├── inner.html <8>
+    │   │
+    ├──_pages <9>
+    │
+    ├──_posts <10>
+    │
+    ├──_site <11>
+    │
+    ├── RakeFile <12>
+    └── _config.yml <13>
+----
+<1> Global settings variables
+<2> Navigation menu bar labels and navigation urls.
+<3> Page includes of html fragments
+<4> Disqus integration
+<5> Layout of posts rendered in initial page (mainly a excerpt of the post with a link to read the full post)
+<6> Post detail layout
+<7> Main site layout (/site)
+<8> Inner pages layout like posts, menus and internal pages
+<9> Every page (except posts) that have an url, eg: `/sobre`, `/busca` etc...
+<10> Site posts
+<11> Generated site after `jekyll serve` or `jekyll build`
+<12> Build and deploy rake task (executed by travisci after git push)
+<13> Global Jekyll configuration like serving settings, plugins, includes/excludes etc...
+
+== Publishing
+
+Every git push triggers `travisci` which will run the `deploy` Rake task (see RakeFile) which will deploy the site to github pages.
+
+NOTE: Travis and the rake task is only needed because `jekyll-asciidoctor` gem is not installed in github pages, https://github.com/asciidoctor/jekyll-asciidoc-quickstart#github-pages-and-asciidoc[see details here^].  
+
+
+== Work done
+
+. Forked this https://github.com/scotch-io/scotch-io.github.io[Jekyll with bootstrap theme^];
+. Added https://github.com/asciidoctor/jekyll-asciidoc[Asciidoc integration^];
+. Played a bit with webfonts;
+. Added `tags` page;
+. Added `client side search` using http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/[lunr.js^];
+. Added `archive` to list pages by year/month;
+. http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/[Disqus integration^]
+. Played a bit with performance analysis sites like google-speed-test, webpagetest.org and pingdom.
+
+== TODO
+
+https://github.com/rsjug/site/issues/

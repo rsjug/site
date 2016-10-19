@@ -1,0 +1,27 @@
+{% include header.html %}
+
+    {% include title-group.html %}
+
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    {% for post in paginator.posts %}
+                        {% include tile.html %}
+                    {% endfor %}
+
+                    {% include pagination.html %}
+                </div>
+            </div>
+            <hr/>
+            <form action="/site/busca/" method="get">
+                <div style="text-align: center;margin: 20px">
+                    <input type="text" id="search-box" class="form-control form-control-lg" type="text" placeholder="Busca rápida..." name="query" title="Busca rápida baseada no conteúdo">
+                    <br/>
+                    <input class="btn btn-primary btn-lg" type="submit" value="Buscar" title="Busca rápida baseada no conteúdo">
+                </div>
+            </form>
+        </div>
+    </main>
+
+{% include footer.html %}

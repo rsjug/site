@@ -1,0 +1,6 @@
+main:
+    - { url: '/site/historico', text: 'Histórico' }
+    - { url: '/site/sobre', text: 'Quem somos?' }
+    - { url: '/site/objetivos', text: 'Objetivos' }
+    - { url: '/site/listas', text: 'Listas' }
+    - { url: '/site/arquivo', text: 'Arquivo' }
