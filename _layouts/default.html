@@ -5,12 +5,17 @@
     <main>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div id="post" class="col-md-10">
                     {% for post in paginator.posts %}
                         {% include tile.html %}
                     {% endfor %}
 
                     {% include pagination.html %}
+                </div>
+                <div id="side" class="col-md-2" style="max-height: 400px;overflow-y:auto">
+                    <i class="fa fa-times fa-2x fa-fw" aria-hidden="true" style="float:right;cursor:pointer;" title="Fechar" onclick="$('#side').hide();$('#post').toggleClass('col-md-10 col-md-12');"> </i>
+                    <a class="twitter-timeline" href="https://twitter.com/rsjug">Tweets by rsjug</a>
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div>
             <hr/>
