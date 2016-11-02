@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2016-10-20T14:19:34+00:00</updated>
+ <updated>2016-11-02T12:50:41+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -13,9 +13,1111 @@
 
  
  <entry>
+   <title>Evento do RSJUG 30/janeiro/2014! Construindo uma DSL com Java e ANTLR</title>
+   <link href="https://rsjug.github.io/site/Evento-do-RSJUG-30-janeiro-2014!-Construindo-uma-DSL-com-Java-e-ANTLR.html"/>
+   <updated>2014-01-22T15:21:42+00:00</updated>
+   <id>https://rsjug.github.io/site/Evento-do-RSJUG-30-janeiro-2014!-Construindo-uma-DSL-com-Java-e-ANTLR</id>
+   <content type="html">&lt;p&gt;Temos evento confirmado no dia 30/janeiro/2014!&lt;/p&gt;
+
+&lt;p&gt;Palestrante: &lt;span&gt;Marcos Vinícius (ThoughtWorks)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/coding-dojo-palestras-rsjug-janeiro2014&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição&lt;/a&gt;. As vagas são limitadas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Confira a agenda de eventos do RSJUG para 2014! </title>
+   <link href="https://rsjug.github.io/site/Confira-a-agenda-de-eventos-do-RSJUG-para-2014!.html"/>
+   <updated>2013-11-16T00:50:35+00:00</updated>
+   <id>https://rsjug.github.io/site/Confira-a-agenda-de-eventos-do-RSJUG-para-2014!-</id>
+   <content type="html">&lt;p&gt;Confira o &lt;a href=&quot;http://www.sucesurs.org.br/definido-calendario-de-eventos-do-rsjug-para-2014&quot; target=&quot;_blank&quot;&gt;post no site da SUCESU-RS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;E estamos procurando empresas interessadas em patrocinar o grupo e também pessoas interessadas em palestrar nos nossos eventos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coding Dojo de Junho foi show! E que venham outros! </title>
+   <link href="https://rsjug.github.io/site/Coding-Dojo-de-Junho-foi-show!-E-que-venham-outros!.html"/>
+   <updated>2013-07-10T11:45:26+00:00</updated>
+   <id>https://rsjug.github.io/site/Coding-Dojo-de-Junho-foi-show!-E-que-venham-outros!-</id>
+   <content type="html">&lt;p&gt;Dia 24 de junho fizemos um &lt;a href=&quot;http://blog.danielwildt.com/2013/06/06/quer-praticar-programacao-coding-dojo/&quot; target=&quot;_blank&quot;&gt;Coding Dojo&lt;/a&gt; lá na PUC-RS, reunindo a galera. O &lt;a href=&quot;http://twitter.com/dionatanmoura&quot; target=&quot;_blank&quot;&gt;Dionatan Moura&lt;/a&gt; selecionou um problema bem legal e fizemos um dojo bacana pensando sobre &lt;a href=&quot;http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals&quot; target=&quot;_blank&quot;&gt;números romanos&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Tiramos umas fotos com a galera que participou &lt;a href=&quot;http://t.co/Ng0rNx12lc&quot; target=&quot;_blank&quot;&gt;[1]&lt;/a&gt; &lt;a href=&quot;http://t.co/J45S4ppXSF&quot; target=&quot;_blank&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quer ver papo sobre Akka e Torquebox? Venha para o GUDay!</title>
+   <link href="https://rsjug.github.io/site/Quer-ver-papo-sobre-Akka-e-Torquebox-Venha-para-o-GUDay!.html"/>
+   <updated>2013-04-25T08:45:59+00:00</updated>
+   <id>https://rsjug.github.io/site/Quer-ver-papo-sobre-Akka-e-Torquebox?-Venha-para-o-GUDay!</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/inscricao&quot; target=&quot;_blank&quot;&gt;No dia 27 de abril ocorre na PUC-RS, lá no prédio 32, o GUDay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;É uma iniciativa para reunir os diversos &lt;a href=&quot;http://www.sucesurs.org.br/gu&quot; target=&quot;_blank&quot;&gt;Grupos de Usuários da SUCESU-RS&lt;/a&gt;. O tema deste ano é Convergência.&lt;/p&gt;
+
+&lt;p&gt;O RSJUG vai fazer palestras falando sobre o Java convergente. Iremos fazer papos sobre &lt;a href=&quot;http://akka.io/&quot; target=&quot;_blank&quot;&gt;Akka&lt;/a&gt; e sobre &lt;a href=&quot;http://torquebox.org/&quot; target=&quot;_blank&quot;&gt;Torquebox&lt;/a&gt;! &lt;a href=&quot;http://twitter.com/diego_pacheco&quot; target=&quot;_blank&quot;&gt;Diego Pacheco&lt;/a&gt; e &lt;a href=&quot;http://twitter.com/guilhermelias&quot; target=&quot;_blank&quot;&gt;Guilherme Elias&lt;/a&gt; serão os palestrantes! É um espaço misturando RSJUG e GURU-RS, o Grupo de usuários Ruby do RS.&lt;/p&gt;
+
+&lt;p&gt;Veja o &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/programa&quot; target=&quot;_blank&quot;&gt;programa do evento&lt;/a&gt; e &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/inscricao&quot; target=&quot;_blank&quot;&gt;venha participar&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dia 4 de abril tem evento do RSJUG! Vamos "scalar"!</title>
+   <link href="https://rsjug.github.io/site/Dia-4-de-abril-tem-evento-do-RSJUG!-Vamos-scalar!.html"/>
+   <updated>2013-04-01T23:04:56+00:00</updated>
+   <id>https://rsjug.github.io/site/Dia-4-de-abril-tem-evento-do-RSJUG!-Vamos-scalar!</id>
+   <content type="html">&lt;p&gt;No dia 4 de abril, na parte da noite, faremos o &lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;primeiro evento do RSJUG de 2013&lt;/a&gt;. Vamos nos reunir na PUC-RS, na sala 516 do prédio 32 a partir das 19h!&lt;/p&gt;
+
+&lt;p&gt;Teremos duas palestras para falar sobre &lt;a href=&quot;http://www.scala-lang.org/&quot; target=&quot;_blank&quot;&gt;Scala&lt;/a&gt;, uma linguagem da JVM. Depois das duas palestras, iremos fazer um bate papo no formato &lt;a href=&quot;http://en.wikipedia.org/wiki/Fishbowl_(conversation)&quot; target=&quot;_blank&quot;&gt;fishbowl&lt;/a&gt; para encerrar a discussão.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição pelo site da SUCESU-RS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O evento inicia com uma palestra de &lt;a href=&quot;http://www.linkedin.com/in/nilseupadilha&quot; target=&quot;_blank&quot;&gt;Nilseu Padilha&lt;/a&gt;, com o título &lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;strong&gt;Programação Funcional para Desenvolvedores Java&lt;/strong&gt;. O que vai ser apresentado? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Estruturas de Dados Recursivas, Recursividade e Side-Effect-Functions do ponto de vista do programador Java serão abordados. O objetivo é facilitar a migração do programador OO para o paradigma de programação funcional. &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Quem é o Nilseu? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Nilseu Padilha é consultor independente em Arquitetura de Software e Engenharia de Processos e Professor Universitário. Possui mais de 15 anos de experiência em TI nas áreas de desenvolvimento, engenharia de software e gerência de projetos, e arquitetura de software.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Depois quem segue nas apresentações é o &lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;a href=&quot;http://www.linkedin.com/in/diegopachecors&quot; target=&quot;_blank&quot;&gt;Diego Pacheco&lt;/a&gt;, com a palestra &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;strong&gt;Scala 2.10: Da Programação funcional até as novas Features&lt;/strong&gt;. &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Veja como ter o máximo de produtividade e diversão com programação funcional utilizando scala 2.10. Quem é o Diego? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Profisional com mais de 10 anos de experiencia em TI, Arquiteto de Software / Agile coach com experiencia em projetos internacionais com Kanban/XP, SOA, Scala e Java. Guitarrista nas horas vagas, apreciador de linguagens funcionais como clojure e haskell. “Mantem” o blog: &lt;a href=&quot;http://diego-pacheco.blogspot.com.br/&quot; target=&quot;_blank&quot;&gt;http://diego-pacheco.blogspot.com.br/&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Para fechar a noite, vamos fazer um &lt;a href=&quot;http://en.wikipedia.org/wiki/Fishbowl_(conversation)&quot; target=&quot;_blank&quot;&gt;fishbowl&lt;/a&gt; para encerrar perguntas a definir o próximo evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JUDCon 2013 ocorre em São Paulo no mês de abril! </title>
+   <link href="https://rsjug.github.io/site/JUDCon-2013-ocorre-em-S%C3%A3o-Paulo-no-m%C3%AAs-de-abril!.html"/>
+   <updated>2013-03-01T10:38:42+00:00</updated>
+   <id>https://rsjug.github.io/site/JUDCon-2013-ocorre-em-São-Paulo-no-mês-de-abril!-</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.jboss.org/events/JUDCon/2013/brazil/&quot; target=&quot;_blank&quot;&gt;JBoss Users &amp;#38; Developers conference&lt;/a&gt;! Durante os dias 19 e 20 de abril, a comunidade JBoss se reúne em São Paulo para tratar de uma série de assuntos legais! Desenvolvimento Java, Cloud, Arquitetura, tudo o que um desenvolvedor Java precisa para participar de um evento show de bola.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;http://www.jboss.org/events/JUDCon/2013/brazil/agenda&quot; target=&quot;_blank&quot;&gt;agenda do evento já foi disponibilizada&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chamada de trabalhos! JustJava 2013! </title>
+   <link href="https://rsjug.github.io/site/Chamada-de-trabalhos!-JustJava-2013!.html"/>
+   <updated>2013-02-21T01:18:58+00:00</updated>
+   <id>https://rsjug.github.io/site/Chamada-de-trabalhos!-JustJava-2013!-</id>
+   <content type="html">&lt;p&gt;Semana que vem termina a &lt;a href=&quot;http://soujava.org.br/2013/02/04/submissao-de-palestras-para-o-justjava-2013/&quot; target=&quot;_blank&quot;&gt;chamada de trabalhos para o JustJava 2013&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Até o dia 28, você pode mandar a sua contribuição para este evento clássico da comunidade Java brasileira, que ocorre nos dias 7 e 8 de junho no SENAC Santo Amaro, em São Paulo!&lt;/p&gt;
+
+&lt;p&gt;Então, &lt;a href=&quot;http://soujava.org.br/2013/02/04/submissao-de-palestras-para-o-justjava-2013/&quot; target=&quot;_blank&quot;&gt;mande a sua palestra&lt;/a&gt; e aguarde a resposta que deve chegar até 30 de março.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RSJUG! Retomada da comunidade! Reunião almoço!</title>
+   <link href="https://rsjug.github.io/site/RSJUG!-Retomada-da-comunidade!-Reuni%C3%A3o-almo%C3%A7o!.html"/>
+   <updated>2012-11-05T16:30:18+00:00</updated>
+   <id>https://rsjug.github.io/site/RSJUG!-Retomada-da-comunidade!-Reunião-almoço!</id>
+   <content type="html">&lt;p&gt;O RSJUG, Rio Grande do Sul Java Users Group é reconhecido como o &lt;a href=&quot;http://www.rsjug.org/?page_id=2&quot;&gt;primeiro JUG Brasileiro&lt;/a&gt;, iniciado em 1996, na época chamado de JavaRS, por &lt;a href=&quot;http://www.facebook.com/indrusiak&quot;&gt;Leandro Indrusiak&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2002, o grupo teve uma renovação, com a entrada de &lt;a href=&quot;http://www.linkedin.com/in/maurovalle&quot;&gt;Mauro do Valle&lt;/a&gt; e uma galera que apoiou a iniciativa.&lt;/p&gt;
+
+&lt;p&gt;Ao longo dos anos, vários eventos legais aconteceram, e chegou a hora de uma retomada da comunidade Java do RS.&lt;/p&gt;
+
+&lt;p&gt;Então você se pergunta: quem deve se inscrever neste evento? Pessoas que querem ajudar o grupo para fazer eventos, apoiar no processo de localizar palestrantes. Fazer parte da comunidade de voluntários que vão ajudar o RSJUG a se tornar novamente uma das grandes comunidades Java do Brasil!&lt;/p&gt;
+
+&lt;p&gt;E aí, está a fim do desafio?&lt;/p&gt;
+
+&lt;p&gt;Requisitos e ou desafios para quem estiver no grupo:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Ter disponibilidade para apoiar nos eventos mensais do grupo. Normalmente os eventos são organizados em pares. Queremos ter um grupo de 6-8 coordenadores e mais alguns colaboradores. Em 2013, iremos fazer eventos em Março, Junho, Agosto, Outubro e Dezembro. Sendo que em Outubro iremos fazer um RSJUG Day, evento maior. Também iremos apoiar iniciativas como TDC e GUDay.&lt;/li&gt;
+	&lt;li&gt;Querer criar conhecimento e ajudar a comunidade a se desenvolver. Ajudar a manter o grupo através das listas de discussão e outros canais de comunicação (Blog, Twitter, Facebook).&lt;/li&gt;
+	&lt;li&gt;Ajudar na organização de iniciativas no interior do estado, através de apoio para organizar eventos. Bom para quem tem família no interior ou mora no interior e quer apoiar o RSJUG.&lt;/li&gt;
+	&lt;li&gt;Estar a fim de trabalhar em um grupo de voluntários, que tem suas vidas para viver e querem disponibilizar algumas horas por mês para apoiar a comunidade Java.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Importante deixar claro que:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;É um trabalho voluntário. Você não vai ser remunerado financeiramente por isto.&lt;/li&gt;
+	&lt;li&gt;É um trabalho voluntário. Você deve se divertir ao fazer isto. Se não estiver sendo uma diversão, lembre que você pode sair a qualquer momento, e dar a chance a outras pessoas que querem desenvolver voluntariado e apoiar a comunidade Java através do RSJUG.&lt;/li&gt;
+	&lt;li&gt;É um trabalho voluntário. O RSJUG vai ajudar você a aumentar sua rede de contatos (networking) e ajudar a desenvolver características de liderança, cooperação e comunicação.&lt;/li&gt;
+	&lt;li&gt;Já falei que é um trabalho voluntário? :-)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Era isto. &lt;strong&gt;&lt;a href=&quot;https://www.sympla.com.br/rsjug-retomada-da-comunidade-reuniao-almoco__11316.html?lang=pt&quot;&gt;Se você entende que esta causa é sua, se inscreva, e nos falamos no dia 22/novembro lá na PUC-RS para este almoço!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evento RSJUG de 14 de dezembro de 2011</title>
+   <link href="https://rsjug.github.io/site/Evento-RSJUG-de-14-de-dezembro-de-2011.html"/>
+   <updated>2011-12-15T02:30:10+00:00</updated>
+   <id>https://rsjug.github.io/site/Evento-RSJUG-de-14-de-dezembro-de-2011</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://rsjug-2011-dez.eventbrite.com/&quot;&gt;Tivemos um evento do RSJUG&lt;/a&gt; para terminar 2011 e iniciar 2012 com planos e planos.&lt;/p&gt;
+
+&lt;p&gt;Temos algumas &lt;a href=&quot;http://www.flickr.com/photos/dwildt/sets/72157628424805787/&quot;&gt;fotos disponíveis no Flickr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/dwildt&quot; target=&quot;_blank&quot;&gt;Daniel Wildt&lt;/a&gt; fez uma apresentação “repeteco” do JavaOne Brasil 2011.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Integração e entrega contínua de produtos? Que venha o eXtreme Programming!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ser capaz de realizar um deploy de forma contínua não requer apenas habilidades no processo de deploy. E não tem nada a ver com reações rápidas a mudanças ou iterações curtas. Tem a ver com prevenção e aplicação de práticas de engenharia de software efetivas. O objetivo desta palestra é falar como as práticas do eXtreme Programming podem ajudar times Java a alcançarem a qualidade de código necessária para que se possa liberar software em produção de forma contínua e segura. Veremos ferramentas opensource, métricas, automação e riscos minimizados. Com participação da equipe toda e melhoria contínua. Lembre-se: entregar software em produção, para fazer bug fix / patching, não é entrega contínua. É bagunça generalizada, que pode ser evitada.
+&amp;lt;/em&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/dwildt/integrao-e-entrega-contnua-de-produtos-que-venha-o-extreme-programming&quot;&gt;A apresentação está disponível no Slideshare&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O fonte apresentado, relacionado a Build e Deploy no TomCat 7, está por aqui: 
+&lt;a href=&quot;https://github.com/dwildt/BankAccount&quot;&gt;https://github.com/dwildt/BankAccount&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O fonte relacionado ao Play Framework, fazendo deploy no Heroku não está liberado ainda, então fica o link para um tutorial mostrando Play no Heroku:
+&lt;a href=&quot;http://blog.heroku.com/archives/2011/8/29/play/&quot;&gt;http://blog.heroku.com/archives/2011/8/29/play/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tivemos 11 participantes de 15 inscritos no evento. Ainda arrecadamos alguns kilos de alimentos que vamos levar para a Kinder &lt;a href=&quot;http://www.kindernet.org.br/&quot;&gt;http://www.kindernet.org.br/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;E no final do evento foram discutidas ações que a comunidade pode fazer em 2012. Aqui estão:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tutoriais do RSJUG&lt;/li&gt;
+  &lt;li&gt;Eventos com Cases&lt;/li&gt;
+  &lt;li&gt;Patrocínios para o site para ajudar nos eventos&lt;/li&gt;
+  &lt;li&gt;Almoços técnicos para reunir a comunidade&lt;/li&gt;
+  &lt;li&gt;Trabalhar para termos o modelo tchê linux, podendo fazer eventos no interior. Buscar integração com o tchê linux.&lt;/li&gt;
+  &lt;li&gt;Fazer mini-eventos. Noites ou sábados pela manhã.&lt;/li&gt;
+  &lt;li&gt;Realizar Coding Dojos, com apoio do Dojo-Poa&lt;/li&gt;
+  &lt;li&gt;Eventos em parceria com outros Grupos, exemplo Testes, Arquitetura, Ruby, Métodos Ágeis&lt;/li&gt;
+  &lt;li&gt;Evento falando sobre Deploy de aplicações (devops)&lt;/li&gt;
+  &lt;li&gt;Evento sobre Certificações&lt;/li&gt;
+  &lt;li&gt;Eventos sobre Mercado de Trabalho&lt;/li&gt;
+  &lt;li&gt;Evento sobre Java como Plataforma, trazendo outras linguagens suportadas pela JVM.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pessoal, era isto! Muito legal o evento e espero que possamos fazer muito em 2012.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vagas Java na Purebros</title>
+   <link href="https://rsjug.github.io/site/Vagas-Java-na-Purebros.html"/>
+   <updated>2011-03-10T14:56:12+00:00</updated>
+   <id>https://rsjug.github.io/site/Vagas-Java-na-Purebros</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;img/pure_bros1.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-486 alignnone&quot; title=&quot;pure_bros1&quot; src=&quot;img/pure_bros1.jpg&quot; alt=&quot;Pure Bros&quot; width=&quot;175&quot; height=&quot;51&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;color: #000066;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;A Pure Bros uma integradora de SVA que atua nos mercados do Brasil, Itália e México, e tem como grande diferencial o foco em integração de empresas mobile com operadoras celulares. &lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;color: #000066;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Desenvolvedor Java Pleno - web (1 vaga)
+&lt;/span&gt;&lt;/strong&gt;Necessária experiência em programação Java, Spring MVC e My SQL. Formação superior completa ou em andamento em Tecnologia ou áreas afins e inglês nível intermediário. Desejável experiência em desenvolvimento web utilizando JSP, Javascript, Prototype, JSTL, Jasper Report, JDBC e Tomcat.&lt;/span&gt;
+
+&lt;p class=&quot;MsoNormal&quot; style=&quot;color: #000066;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;text-decoration: none;&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;p class=&quot;MsoNormal&quot; style=&quot;color: #000066;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Desenvolvedor Java Pleno - Backend (1 vaga)&lt;/span&gt;&lt;/strong&gt;
+Necessária experiência em programação Java (backend), My SQL, Linux, Shell Script e programação concorrente e distribuída. Formação superior completa ou em andamento em tecnologia ou áreas afins e inglês nível intermediário. Desejável conhecimento em frameworks de desenvolvimento Java e protocolos de comunicação (HTTP, SMPP).&lt;/span&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Interessados encaminhar e-mail para &lt;a href=&quot;mailto:rh@purebros.com&quot; target=&quot;_blank&quot;&gt;rh@purebros.com&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;span style=&quot;color: #17365d;&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Problemas com as listas de discussão</title>
+   <link href="https://rsjug.github.io/site/Problemas-com-as-listas-de-discuss%C3%A3o.html"/>
+   <updated>2011-03-01T19:04:08+00:00</updated>
+   <id>https://rsjug.github.io/site/Problemas-com-as-listas-de-discussão</id>
+   <content type="html">&lt;p&gt;[caption id=”attachment_479” align=”alignleft” width=”97” caption=”Maling List”]&lt;a href=&quot;img/maling-list.gif&quot;&gt;&lt;img class=&quot;size-medium wp-image-479&quot; title=&quot;maling-list&quot; src=&quot;img/maling-list.gif&quot; alt=&quot;Maling List&quot; width=&quot;97&quot; height=&quot;117&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Hoje, dia 1° de março foi concluída a migração do portal java.net, com isso passamos a ter uma limitação na quantidade das listas de discussão.&lt;/p&gt;
+
+&lt;p&gt;A questão já está sendo resolvida junto a administração do portal e espera-se estar normalizada em breve.&lt;/p&gt;
+
+&lt;p&gt;Temporariamente todas as listas de discussão do RSJUG estão desabilitadas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Software Freedom Day 2010 - Porto Alegre</title>
+   <link href="https://rsjug.github.io/site/Software-Freedom-Day-2010-Porto-Alegre.html"/>
+   <updated>2010-09-14T18:35:00+00:00</updated>
+   <id>https://rsjug.github.io/site/Software-Freedom-Day-2010---Porto-Alegre</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O Dia da Liberdade de software (ou Freedom Software Day em inglês) é um dia comemorado todos anos, em diversas nações, para celebrar o software livre e sistemas livres/de código aberto.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-475&quot; style=&quot;border: 5px solid white;&quot; title=&quot;sfd2010&quot; src=&quot;img/logo.png&quot; alt=&quot;&quot; width=&quot;201&quot; height=&quot;87&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Oficialmente o &lt;a href=&quot;http://softwarefreedomday.org/&quot; target=&quot;_blank&quot;&gt;SFD2010 &lt;/a&gt;vai ocorrer em &lt;a href=&quot;http://softwarefreedomday.org/map/index.php?year=2010&quot; target=&quot;_blank&quot;&gt;diversas cidades do mundo&lt;/a&gt;, dia 18 de setembro. &lt;strong&gt;Específicamente em Porto Alegre e demais cidades do RS o evento será realizado dia 25 de setembro&lt;/strong&gt; devido ao feriadão do 20 de setembro.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A grade conta com diversos temas relacionados a software livre, incluindo algumas de desenvolvimento de software, especificamente Java, Python e Ruby.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Resumindo:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;O que ? Software Freedom Day 2010 – Ed. Porto Alegre&lt;/li&gt;
+	&lt;li&gt;Quando ? 25 de setembro de 2010, das 13:30 até 18h&lt;/li&gt;
+	&lt;li&gt;Onde ? SindBancários, Rua General Câmara, 424&lt;/li&gt;
+	&lt;li&gt;Grade ? &lt;a href=&quot;http://bit.ly/bxOteo&quot; target=&quot;_blank&quot;&gt;http://bit.ly/bxOteo&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Inscrição ? &lt;a href=&quot;https://spreadsheets.google.com/viewform?hl=pt_BR&amp;#38;formkey=dDhiVnhybldsZHFoZVhxQUJ1UWNrVXc6MQ#gid=0&quot; target=&quot;_blank&quot;&gt;Gratuita, porém necessária (faça a inscrição clicando aqui)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Video Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/my-first-video-post.html"/>
+   <updated>2010-08-31T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/my-first-video-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/example-post.html"/>
+   <updated>2010-08-31T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/example-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Normal Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/my-first-normal-post.html"/>
+   <updated>2010-08-15T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/my-first-normal-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FISL 11 - Novidades do OpenJDK 7</title>
+   <link href="https://rsjug.github.io/site/FISL-11-Novidades-do-OpenJDK-7.html"/>
+   <updated>2010-07-25T17:25:41+00:00</updated>
+   <id>https://rsjug.github.io/site/FISL-11---Novidades-do-OpenJDK-7</id>
+   <content type="html">&lt;p&gt;Material da palestra “Novidades do OpenJDK7”, apresentadas no FISL 11 por&lt;a href=&quot;http://leandron.wordpress.com&quot; target=&quot;_blank&quot;&gt; Leandro Nunes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A palestra abrange:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Project Coin
+&lt;ul&gt;
+	&lt;li&gt;Mudanças na linguagem Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;Project Jigsaw
+&lt;ul&gt;
+	&lt;li&gt;Suporte a modularização&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;Da vinci Machine Project
+&lt;ul&gt;
+	&lt;li&gt;melhorias no suporte as linguagens dinâmicas que rodam na JVM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;Lambda Project
+&lt;ul&gt;
+	&lt;li&gt;Suporte a expressões Lambda&lt;/li&gt;
+	&lt;li&gt;Também conhecido como &quot;suporte a &lt;em&gt;Closures&lt;/em&gt;&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/LeandroNunes85/fisl-11-novidades-do-openjdk-7&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-469&quot; style=&quot;border: 5px solid #DDDDDD;&quot; title=&quot;OpenJDK 7&quot; src=&quot;img/fisl11-openjdk7.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;224&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FISL 11 - NoSQL</title>
+   <link href="https://rsjug.github.io/site/FISL-11-NoSQL.html"/>
+   <updated>2010-07-22T23:57:04+00:00</updated>
+   <id>https://rsjug.github.io/site/FISL-11---NoSQL</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/julioviegas/nosql-livre&quot; target=&quot;_blank&quot;&gt;Slides da palestra sobre NoSQL&lt;/a&gt;, feita pelo &lt;a href=&quot;http://twitter.com/julioviegas&quot;&gt;Julio Viegas&lt;/a&gt; dentro da programação do &lt;a href=&quot;http://www.fisl.org.br&quot; target=&quot;_blank&quot;&gt;FISL&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/julioviegas/nosql-livre&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-466&quot; style=&quot;border: 5px solid #DDDDDD;&quot; title=&quot;nosql-fisl11&quot; src=&quot;img/nosql-fisl11.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;222&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FISL 11 - Ecossistema Spring</title>
+   <link href="https://rsjug.github.io/site/FISL-11-Ecossistema-Spring.html"/>
+   <updated>2010-07-21T22:59:13+00:00</updated>
+   <id>https://rsjug.github.io/site/FISL-11---Ecossistema-Spring</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/julioviegas/ecosistema-spring-aplataformaenterprisejav&quot; target=&quot;_blank&quot;&gt;Slides da palestra&lt;/a&gt; do Julio Viegas sobre Spring, no FISL 11.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/julioviegas/ecosistema-spring-aplataformaenterprisejav&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-463&quot; style=&quot;border: 5px solid #DDDDDD;&quot; title=&quot;Ecossistema Spring - Julio Viegas&quot; src=&quot;img/spring-fisl11.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;223&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FISL 11 - iBatis - Desenvolvendo em java sem perder o poder do SQL</title>
+   <link href="https://rsjug.github.io/site/FISL-11-iBatis-Desenvolvendo-em-java-sem-perder-o-poder-do-SQL.html"/>
+   <updated>2010-07-21T16:55:35+00:00</updated>
+   <id>https://rsjug.github.io/site/FISL-11---iBatis---Desenvolvendo-em-java-sem-perder-o-poder-do-SQL</id>
+   <content type="html">&lt;p&gt;Material da palestra do Gustavo Bahnert sobre iBatis, realizada na programação do FISL 11.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/20100721347.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-458&quot; title=&quot;palestraibatisfisl11&quot; src=&quot;img/20100721347.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Projeto exemplo: &lt;a href=&quot;http://www.4shared.com/file/JUuNyPar/iBatisFISL.html&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Slides: &lt;a href=&quot;http://www.slideshare.net/LeandroNunes85/apresentacao-fisl-ibatis&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nova lista de discussão</title>
+   <link href="https://rsjug.github.io/site/Nova-lista-de-discuss%C3%A3o.html"/>
+   <updated>2010-07-02T20:28:19+00:00</updated>
+   <id>https://rsjug.github.io/site/Nova-lista-de-discussão</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;O RSJUG anuncia a criação de uma nova lista de discussão, específica para &lt;strong&gt;anúncios e discussão  sobre vagas de trabalho&lt;/strong&gt; relacionadas à Java. Essa nova lista também se dispõe a anúncios de oferta de mão de obra e freelancers.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Para se inscrever, basta enviar um e-mail para&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;mailto: vagas-subscribe@rsjug.dev.java.net&quot;&gt;&lt;strong&gt;vagas-subscribe@rsjug.dev.java.net&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Para postar sua vaga, uma vez que esteja inscrito na lista, envie e-mails para &lt;a href=&quot;mailto:vagas@rsjug.dev.java.net&quot;&gt;vagas@rsjug.dev.java.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Com a criação dessa lista, torna-se &lt;strong&gt;vedado o envio de vagas de trabalho para a Java-L&lt;/strong&gt;, mantendo o foco desta para assuntos de cunho &lt;strong&gt;exclusivamente técnico&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Essas ações visam prezar pela qualidade das discussões técnicas na Java-L, direcionando conteúdo não-técnico para listas especializadas. Ao mesmo tempo, o conteúdo de vagas de trabalho será direcionado e facultado àquelas pessoas que estiverem cadastradas na lista destinada ao tema.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx 2010</title>
+   <link href="https://rsjug.github.io/site/Devoxx-2010.html"/>
+   <updated>2010-06-24T11:15:56+00:00</updated>
+   <id>https://rsjug.github.io/site/Devoxx-2010</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.devoxx.com&quot;&gt;&lt;img class=&quot;alignleft size-full wp-image-444&quot; style=&quot;border: 5px solid white;&quot; src=&quot;img/devoxx10-120x240-black.gif&quot; alt=&quot;&quot; width=&quot;120&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;size-full wp-image-447 alignright&quot; style=&quot;border: 5px solid white;&quot; src=&quot;img/logo.gif&quot; alt=&quot;&quot; width=&quot;140&quot; height=&quot;83&quot; /&gt;O &lt;strong&gt;Devoxx &lt;/strong&gt;é um dos maiores evento sobre Java, reunindo cerca de 3000 desenvolvedores. O evento é promovido pelo &lt;a href=&quot;http://www.bejug.org/confluenceBeJUG/display/BeJUG/Home&quot; target=&quot;_blank&quot;&gt;BEJUG&lt;/a&gt;, que ocorre em Antuérpia, na Bélgica.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O RSJUG participa desde 2009 como &lt;a href=&quot;http://www.devoxx.com/display/Devoxx2K10/JUGs&quot; target=&quot;_blank&quot;&gt;Grupo de Usuários parceiro do evento&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Se você não pode estar presencialmente no evento não se desespere! Parte do conteúdo apresentado no Devoxx é disponibilizado através do portal Parleys, cuja tradução para português do Brasil foi feita pelo RSJUG.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Mais informações sobre o evento podem ser obtidas no &lt;a href=&quot;http://www.devoxx.com&quot; target=&quot;_blank&quot;&gt;site oficial&lt;/a&gt; e na newsletter do evento.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Para receber a newsletter, cadastre-se &lt;a href=&quot;http://www.devoxx.com/display/Devoxx2K10/News&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JBossInBossa 2010</title>
+   <link href="https://rsjug.github.io/site/JBossInBossa-2010.html"/>
+   <updated>2010-04-12T22:53:00+00:00</updated>
+   <id>https://rsjug.github.io/site/JBossInBossa-2010</id>
+   <content type="html">&lt;blockquote style=&quot;text-align: justify;&quot;&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O JBossInBossa 2010 é a conferência anual da comunidade JBoss brasileira, ele contará com palestrantes internacionais que são líderes de projetos opensource, bem como palestras da comunidade brasileira que desenvolve e fomenta tecnologias relaciodas além do time brasileiro JBoss que atua em diversos projetos de missão crítica que usam tecnologias de ponta em projetos em todos os lugares do Brasil.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;img/jbossinbossa_header.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-440 aligncenter&quot; title=&quot;jbossinbossa_header&quot; src=&quot;img/jbossinbossa_header.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;78&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O evento ocorre nos dias 07 e 08 de maio, nas dependências da Universidade Anhembi/Morumbi, em São Paulo.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Entre os destaques da programação do evento estão:&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+	&lt;li&gt;&lt;strong&gt;Pete Muir&lt;/strong&gt;, que é o Líder do projeto Seam e do Weld(Implementação de referência da JSR 299 - Contexts and Dependency Injection for Java EE), além de desenvolvedor líder do Aquillian, um conjunto de utilitários para testes de Servidores de Aplicação.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Benjamin Mestrallet&lt;/strong&gt;, CEO da eXo Platform, uma empresa francesa que ele fundou logo após a universidade para atender seu primeiro cliente: Departamento de Defesa Americano.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Mauricio Salatino&lt;/strong&gt;, CTO na PlugTree (http://www.plugtree.com), uma empresa especializada no fornecimento de soluções usando a plataforma Drools com escritórios em Miami, EUA e Buenos Aires, Argentina.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;As inscrições estão abertas. Você poderá obter mais informações diretamente no &lt;a href=&quot;http://www.jbossinbossa.com.br/app/precosinscricoes.html&quot; target=&quot;_blank&quot;&gt;site do evento&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FLISOL 2010 - Porto Alegre</title>
+   <link href="https://rsjug.github.io/site/FLISOL-2010-Porto-Alegre.html"/>
+   <updated>2010-04-12T22:44:20+00:00</updated>
+   <id>https://rsjug.github.io/site/FLISOL-2010---Porto-Alegre</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Ocorrerá no dia 24 de Abril, a edição deste ano do FLISOL (Festival Latino-Americano de Instalação de Software Livre). Este evento ocorre simultaneamente em várias cidades de América Latina e tem o objetivo de incentivar e apresentar Software Livre, num formato de Install Fest e palestras.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-436&quot; title=&quot;FLISOL 2010&quot; src=&quot;img/logo_flisol.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;141&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.flisol.net/FLISOL2010/Brasil/PortoAlegre&quot; target=&quot;_blank&quot;&gt;Em Porto Alegre&lt;/a&gt;, o evento ocorrerá nas dependências do SindBancários, com programação no turno da tarde (das 13h às 18h). Ocorre programação em duas salas paralelamente:&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+	&lt;li&gt;Na primeira, serão realizadas palestras envolvendo membros de alguns grupos de usuários (PoaOSUG, Ubuntu-BR, RSJUG, Debian-RS, entre outros) onde serão discutidos temas relacionados à software livre, desenvolvimento, instalação de sistemas operacionais, bem como, apresentação de projetos relacionados ao ecossistema de Software Livre.&lt;/li&gt;
+	&lt;li&gt;No segundo ambiente será disponibilizado aos grupos de usuários que queiram participar do install fest, e as pessoas que desejarem levar suas máquinas para instalação de software livre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O RSJUG participa da organização do evento e também apresentará a palestra &lt;strong&gt;&quot;Novidades do Java 7&quot;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O evento tem entrada franca, apenas é necessário realizar uma pré-inscrição, para que a organização tenha uma estimativa de público. As vagas são limitadas devido à lotação máxima do ambiente.&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+	&lt;li&gt;&lt;strong&gt;O que ?&lt;/strong&gt; FLISOL 2010 (Festival latino-americano de instalação de software livre)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Quando ?&lt;/strong&gt; 24/04/2010&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Onde ?&lt;/strong&gt; SindBancários (Rua General Câmara, 424 - Porto Alegre/RS)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Quanto ?&lt;/strong&gt; R$ 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Faça sua inscrição &lt;a title=&quot;Inscrição no FLISOL 2010 - Porto Alegre&quot; href=&quot;http://tinyurl.com/flisolpoa2010&quot; target=&quot;_blank&quot;&gt;clicando aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Notícia triste para a comunidade Java brasileira e internacional</title>
+   <link href="https://rsjug.github.io/site/Not%C3%ADcia-triste-para-a-comunidade-Java-brasileira-e-internacional.html"/>
+   <updated>2010-03-07T01:58:14+00:00</updated>
+   <id>https://rsjug.github.io/site/Notícia-triste-para-a-comunidade-Java-brasileira-e-internacional</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Ontem, dia 5 de março de 2010, faleceu &lt;strong&gt;Felipe Gaúcho&lt;/strong&gt;, conhecido internacionalmente na comunidade Java. Felipe atualmente era conselheiro do CEJUG, mantinha diversos projetos open-source, além de ser o criador do PUJ (Prêmio Universitário Java) que premia estudantes por projetos desenvolvidos na tecnologia Java.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;size-medium wp-image-433 aligncenter&quot; style=&quot;border: 5px solid white;&quot; title=&quot;felipegaucho&quot; src=&quot;img/felipegaucho.png&quot; alt=&quot;&quot; width=&quot;182&quot; height=&quot;212&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Felipe Gaúcho era membro ativo da lista do RSJUG. A última vez que esteve em Porto Alegre, reuniu-se com a coordenação do RSJUG, ocasião que ficou registrada em seu &lt;a href=&quot;http://weblogs.java.net/blog/felipegaucho/archive/2009/07/rsjug_bbq.html&quot; target=&quot;_blank&quot;&gt;blog pessoal&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chamada de trabalhos para a Agile Brazil 2010</title>
+   <link href="https://rsjug.github.io/site/Chamada-de-trabalhos-para-a-Agile-Brazil-2010.html"/>
+   <updated>2010-02-17T11:35:54+00:00</updated>
+   <id>https://rsjug.github.io/site/Chamada-de-trabalhos-para-a-Agile-Brazil-2010</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;img/logo.png?1265029639&quot;&gt;&lt;img class=&quot;alignleft&quot; title=&quot;Agile Brazil&quot; src=&quot;img/logo.png?1265029639&quot; alt=&quot;&quot; width=&quot;83&quot; height=&quot;75&quot; /&gt;&lt;/a&gt;A Conferência Brasileira sobre Métodos Ágeis de Desenvolvimento de Software – &lt;a href=&quot;http://www.agilebrazil.com&quot;&gt;Agile Brazil 2010&lt;/a&gt; – é uma conferência nacional sem fins lucrativos organizada por representantes das principais comunidades ágeis brasileiras. O evento tem como propósito promover a comunicação e a colaboração entre seus integrantes visando à disseminação coordenada da cultura Ágil por todo o país.&lt;/p&gt;
+
+&lt;p&gt;O Agile Brazil 2010 acontecerá no campus central da PUCRS, em Porto Alegre, de 22 a 25 de junho, contando com cursos, apresentação de trabalhos e relatos de experiência provenientes de várias regiões do país, alem da participação de convidados reconhecidos internacionalmente. &lt;strong&gt;Martin Fowler&lt;/strong&gt;, cientista chefe da ThoughtWorks, e &lt;strong&gt;Philippe Kruchten&lt;/strong&gt;, professor da UBC em Vancouver (Canadá) e conhecido também por ter liderado a equipe do RUP na Rational Software, são alguns dos nomes já confirmados para o evento. Prepare desde já a &lt;a href=&quot;http://www.agilebrazil.com/2010/viagem.html&quot; target=&quot;_blank&quot;&gt;sua viagem&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A comissão organizadora gostaria de convidá-lo para participar como palestrante deste grande evento. Conte para o Brasil suas experiências, apresente suas pesquisas e compartilhe seus produtos e aprendizados! Fique atento às &lt;a href=&quot;http://submissoes.agilebrazil.com/guidelines&quot; target=&quot;_blank&quot;&gt;regras de submissão&lt;/a&gt; e às datas importantes e submeta sua proposta:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Crie um &lt;a href=&quot;http://submissoes.agilebrazil.com/signup&quot; target=&quot;_blank&quot;&gt;usuário&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Proponha uma sessão&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Datas importantes&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;31/01/2010: Abertura do formulário de submissão de propostas&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;28/02/2010: Submissão de propostas - &lt;/strong&gt;&lt;strong&gt;&lt;a title=&quot;Link&quot; href=&quot;http://submissoes.agilebrazil.com/&quot; target=&quot;_blank&quot;&gt;LINK&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;16/04/2010: Notificação aos autores selecionados&lt;/li&gt;
+	&lt;li&gt;30/04/2010: Limite para inscrição no evento dos autores selecionados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Realização&lt;/strong&gt;: Faculdade de Informática (FACIN) - PUCRS
+&lt;strong&gt;Promoção&lt;/strong&gt;: Sucesu-RS, através do GUMA (Grupo de Usuários de Métodos Ágeis)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Confraternização de Final de Ano SUCESU-RS</title>
+   <link href="https://rsjug.github.io/site/Confraterniza%C3%A7%C3%A3o-de-Final-de-Ano-SUCESU-RS.html"/>
+   <updated>2009-12-05T22:27:49+00:00</updated>
+   <id>https://rsjug.github.io/site/Confraternização-de-Final-de-Ano-SUCESU-RS</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/anuario_sucesu_rs_2009.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-416&quot; style=&quot;border: 10px solid white;&quot; title=&quot;anuario_sucesu_rs_2009&quot; src=&quot;img/anuario_sucesu_rs_2009.jpg&quot; alt=&quot;&quot; width=&quot;121&quot; height=&quot;162&quot; /&gt;&lt;/a&gt;Ocorreu ontem, dia 04 de dezembro de 2009, nas dependências do &lt;a href=&quot;http://pt.wikipedia.org/wiki/Jockey_Club_do_Rio_Grande_do_Sul&quot; target=&quot;_blank&quot;&gt;Jockey Club  do Rio Grande do Sul&lt;/a&gt;, em Porto Alegre, a confraternização de final de ano da &lt;a title=&quot;SUCESU-RS&quot; href=&quot;http://www.rs.sucesu.org.br/&quot; target=&quot;_blank&quot;&gt;SUCESU-RS&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Durante a cerimônia foram anunciados os ganhadores do Prêmio SUCESU-RS 2009 e o lançamento do Anuário SUCESU-RS 2009.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O Prêmio SUCESU-RS tem o objetivo de &quot;&lt;em&gt;homenagear personalidades, empresas e entidades que constroem a história da Tecnologia da Informação e Comunicação do Estado do Rio Grande do Sul&lt;/em&gt;&quot;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/rsjug_mencao_honrosa_sucesu_2009.jpg&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-418&quot; style=&quot;border: 10px solid white;&quot; title=&quot;rsjug_mencao_honrosa_sucesu_2009&quot; src=&quot;img/rsjug_mencao_honrosa_sucesu_2009.jpg&quot; alt=&quot;&quot; width=&quot;108&quot; height=&quot;113&quot; /&gt;&lt;/a&gt;O RSJUG, grupo de Usuários associado à SUCESU-RS, foi &lt;strong&gt;indicado&lt;/strong&gt; em três categorias: Grupo de Usuários, Coordenador de GU e SUCESU-RS e Menção Cultural de SUCESU-RS. Dessas três, &lt;strong&gt;o RSJUG recebeu dois prêmios&lt;/strong&gt;: Coordenador de GU de SUCESU-RS, para o &lt;a href=&quot;http://www.rsjug.org/?page_id=23&quot; target=&quot;_self&quot;&gt;JUG Leader, Igor Montezano&lt;/a&gt;, e Menção Cultural de SUCESU-RS.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx 2009</title>
+   <link href="https://rsjug.github.io/site/Devoxx-2009.html"/>
+   <updated>2009-11-30T23:35:22+00:00</updated>
+   <id>https://rsjug.github.io/site/Devoxx-2009</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/dsc02934-50.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-407&quot; style=&quot;border: 10px solid white;&quot; title=&quot;dsc02934-50&quot; src=&quot;img/dsc02934-50.jpg&quot; alt=&quot;&quot; width=&quot;145&quot; height=&quot;113&quot; /&gt;&lt;/a&gt;O Devoxx é um evento anual sobre Java, promovido pelo &lt;a href=&quot;http://www.bejug.org&quot; target=&quot;_blank&quot;&gt;BEJUG,&lt;/a&gt; que ocorre em &lt;a href=&quot;http://pt.wikipedia.org/wiki/Antu%C3%A9rpia&quot; target=&quot;_blank&quot;&gt;Antuérpia, na Bélgica.&lt;/a&gt; Neste ano, o RSJUG participou como &lt;strong&gt;Grupo de Usuários parceiro do evento&lt;/strong&gt;, e na &lt;strong&gt;tradução do portal de conteúdo técnico, o Parleys, para Português do Brasil.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Esse é o relato da participação do &lt;a href=&quot;http://diegomrosa.uuuq.com&quot; target=&quot;_blank&quot;&gt;Diego Moreira da Rosa&lt;/a&gt;, em sua segunda participação no evento:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt; &quot;Depois de algumas horas de viagem, cheguei ao MetroPolis Business Center em Antuérpia no início da tarde de quarta-feira para iniciar a minha participação no Devoxx 2009. Logo de cara, algumas constatações saltavam aos olhos. &lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/dsc02933-50.jpg&quot;&gt;&lt;img class=&quot;size-thumbnail wp-image-406 alignleft&quot; style=&quot;border: 10px solid white;&quot; title=&quot;dsc02933-50&quot; src=&quot;img/dsc02933-50.jpg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;112&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;Em primeiro lugar, em pleno horário de almoço, o saguão não estava lotado como costumava acontecer no ano passado. Além disso, também em relação ao evento anterior, havia menos estandes de patrocinadores e, no lugar onde costumava ficar o vibrante estande da Sun, se via um tímido e apagado estande da Oracle. Parecia que em meio à crise econômica e às incertezas a respeito da compra da Sun e do futuro do Java, o Devoxx havia perdido um pouco do seu brilho. Para completar, durante as palestras da manhã, Mark Reinholds havia feito o anúncio que viria a se tornar a grande notícia do evento: closures no JDK7. Menos mal que estava para começar a palestra de James Gosling, ou seja, nem tudo estava perdido.&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;a href=&quot;img/dsc02937-50.jpg&quot;&gt;&lt;img class=&quot;alignright size-thumbnail wp-image-408&quot; style=&quot;border: 10px solid white;&quot; title=&quot;dsc02937-50&quot; src=&quot;img/dsc02937-50.jpg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;112&quot; /&gt;&lt;/a&gt;&lt;em&gt; O pai do Java fez uma apresentação interessante, porém sem muito brilho, sobre a Java Store, ferramenta para compra e venda de programas Java. Depois dele, Antonio Gonçalves apresentou as novidades do JEE6, enquanto Chet Haase e Romain Guy apresentaram a sua já tradicional palestra sobre rich clients, dessa vez, falando especificamente sobre animações. O segundo dia começou com as ótimas palestras de Ivar Jacobson e Robert C. Martin, este último dando um show de carisma e eloquência falando sobre o profissionalismo (e a falta dele) entre desenvolvedores de software. Sua palestra foi tão entusiasmante que o seu último lançamento, o livro &quot;Clean Code&quot;, se esgotou minutos depois na loja do evento. Ainda no segundo dia, destaque para a palestra de Stephen Chin sobre as novidades do JavaFX, incluindo as novas APIs de componentes gráficos. Sem uma grande estrela como foi o lançamento do JavaFX em 2008, a edição deste ano ficou marcada pelas novas versões e importantes atualizações dos principais frameworks, como foram os casos do JDK7, JavaFX 1.2, JEE6, GlassFish v3 e Spring 3.0. Destaque também para o grande número de palestras sobre Scala, comprovando que essa linguagem veio para ficar.&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;&lt;/em&gt;&lt;a href=&quot;img/dsc02941-50.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-409&quot; style=&quot;border: 10px solid white;&quot; title=&quot;dsc02941-50&quot; src=&quot;img/dsc02941-50.jpg&quot; alt=&quot;&quot; width=&quot;149&quot; height=&quot;111&quot; /&gt;&lt;/a&gt;&lt;em&gt;Em resumo, estava tudo lá (a infraestrutura impecável, palestrantes renomados, a deliciosa cerveja belga...), mas parecia que faltava alguma coisa. Talvez fosse a falta de um grande anúncio ou simplesmente o ar de incerteza sobre o futuro da tecnologia Java que pairava no ar. A verdade é que, em meio a crises e fusões, a edição do próximo ano será crucial para o Devoxx, assim como o Java, provar que continua forte.&lt;/em&gt;&quot;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Palestra - Desenvolvendo Soluções com Android</title>
+   <link href="https://rsjug.github.io/site/Palestra-Desenvolvendo-Solu%C3%A7%C3%B5es-com-Android.html"/>
+   <updated>2009-11-03T10:09:26+00:00</updated>
+   <id>https://rsjug.github.io/site/Palestra---Desenvolvendo-Soluções-com-Android</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;alignleft&quot; style=&quot;border: 5px solid white;&quot; title=&quot;Google Android&quot; src=&quot;img/google_android_.jpg&quot; alt=&quot;&quot; width=&quot;68&quot; height=&quot;68&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Palestrante João Birk que esteve presente no JUGDay 2009 realiza palestra nas dependências da Target Trust disseminando seu  sobre sistema Android para dispositivos móveis, sua história e sua utilidade.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Data: 25/11/2009&lt;/li&gt;
+	&lt;li&gt;Local: T@rgetTrust&lt;/li&gt;
+	&lt;li&gt;Maiores informações: &lt;a href=&quot;http://www.targettrust.com.br/web/evento/Evento.aspx?id=17&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JUGDay 2009: Slides das palestras/tutoriais</title>
+   <link href="https://rsjug.github.io/site/JUGDay-2009-Slides-das-palestras-tutoriais.html"/>
+   <updated>2009-10-24T14:51:04+00:00</updated>
+   <id>https://rsjug.github.io/site/JUGDay-2009:-Slides-das-palestras-tutoriais</id>
+   <content type="html">&lt;p&gt;Esses são os slides fornecidos pelos palestrantes:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/lucastorri/programando-pra-celular-java-me-o-que-e-como-comear&quot; target=&quot;_blank&quot;&gt;Java ME&lt;/a&gt; (palestrante: Lucas Torri)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/LeandroNunes85/palestra-hudson-jugday-2009&quot; target=&quot;_blank&quot;&gt;Integracão Contínua com Hudson&lt;/a&gt; (palestrante: Leandro Nunes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2009/10/jetty.pdf&quot; target=&quot;_blank&quot;&gt;Jetty&lt;/a&gt; (palestrante: Julio Viegas)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/LeandroNunes85/prticas-geis-para-obteno-de-certificao-mpsbr-g-e-f&quot;&gt;Práticas ágeis para obtenção da certificação MPS.BR G e F&lt;/a&gt; (palestrante: Taner Pereira)&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Slides do Tutorial Ruby on Rails&quot; href=&quot;http://www.urubatan.com.br/jugday-2009-slides-e-codigo-do-exemplo-da-palestra/&quot; target=&quot;_blank&quot;&gt;Gerenciando Projetos com Ruby on Rails e jQuery&lt;/a&gt; (Rodrigo Urubatan)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx 2009</title>
+   <link href="https://rsjug.github.io/site/Devoxx-2009.html"/>
+   <updated>2009-10-10T00:27:58+00:00</updated>
+   <id>https://rsjug.github.io/site/Devoxx-2009</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Ocorrerá entre os dias 16 a 20 de novembro o Devoxx 2009 (antigo JavaPolis) em Antuérpia na Bélgica.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.devoxx.com&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;img/Devoxx09-486x60_wit.gif&quot; alt=&quot;&quot; width=&quot;486&quot; height=&quot;60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Parte do conteúdo apresentado no evento é disponibilizado através do portal &lt;a href=&quot;http://www.parleys.com&quot;&gt;Parleys&lt;/a&gt;, cuja tradução para português foi feita pelo RSJUG.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Mais informações sobre o evento podem ser obtidas no &lt;a href=&quot;http://www.devoxx.com&quot;&gt;site oficial&lt;/a&gt; e na &lt;a href=&quot;http://www.devoxx.com/display/DV09/Newsletter&quot;&gt;newsletter do evento&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Software Freedom Day 2009 – Porto Alegre</title>
+   <link href="https://rsjug.github.io/site/Software-Freedom-Day-2009-Porto-Alegre.html"/>
+   <updated>2009-09-17T08:19:25+00:00</updated>
+   <id>https://rsjug.github.io/site/Software-Freedom-Day-2009-–-Porto-Alegre</id>
+   <content type="html">&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-357&quot; style=&quot;border: 5px solid white;&quot; src=&quot;img/sfd2009.jpg&quot; alt=&quot;&quot; width=&quot;226&quot; height=&quot;159&quot; /&gt;O Dia da Liberda de de Software (ou Freedom Software Day em inglês) é um dia comemorado todos anos, emdiversas nações, para celebrar o software livre e sistemas livres/de código aberto.  A primeira edição ocorreu em 2004. Em 2009, o Software Freedom Day será comemorado no dia 19 de setembro.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; &quot;&gt;Na edição de Porto Alegre, teremos uma programação com palestras com diversos temas relevantes no contexto de software livre. O evento ocorrerá nas dependências do SindiBancários, no turno da tarde &lt;em&gt;(ver resumo abaixo)&lt;/em&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;img class=&quot;alignright size-full wp-image-358&quot; style=&quot;border: 5px solid white;&quot; title=&quot;hudson&quot; src=&quot;img/hudson.jpg&quot; alt=&quot;&quot; width=&quot;97&quot; height=&quot;103&quot; /&gt;O RSJUG estará presente no evento através de uma palestra, abordando &lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;Integração Contínua em projetos Java com Hudson&lt;/span&gt;&lt;/strong&gt;. Esta palestra tem o objetivo de ser uma introdução aos procedimentos de Integração Contínua utilizando Hudson, em um projeto exemplo feito em Java, criado com Maven 2.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify; &quot;&gt;A palestra será realizada através de demonstrações práticas de integração dos projetos utilizando a IDE NetBeans com testes, geração e publicação de relatórios além da criação de métricas gráficas através do Hudson.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;strong&gt;O que ?&lt;/strong&gt;
+Software Freedom Day 2009 – Porto Alegre/RS
+
+&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;strong&gt;Quando?&lt;/strong&gt;
+19 de setembro de 2009, das 13:30 até 18:30
+
+&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;strong&gt;Onde?&lt;/strong&gt;
+SindBancários – Porto Alegre/RS
+Rua General Câmara, 424
+
+&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;strong&gt;Inscrições ?&lt;/strong&gt;
+Não é necessário inscrever-se antecipadamente. Evento Gratuito.
+Mais informações no &lt;a title=&quot;Software Freedom Day 2009 - Porto Alegre&quot; href=&quot;http://softwarefreedomday.org/teams/centralandsouthamerica/Brasil/portoalegre&quot; target=&quot;_blank&quot;&gt;site oficial do evento&lt;/a&gt;.&amp;lt;/blockquote&amp;gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>[CANCELADO] Tutorial 2009/3 - Ferramentas Java para o Desenvolvimento Ágil de Bases de Dados</title>
+   <link href="https://rsjug.github.io/site/CANCELADO-Tutorial-2009-3-Ferramentas-Java-para-o-Desenvolvimento-%C3%81gil-de-Bases-de-Dados.html"/>
+   <updated>2009-08-18T16:38:45+00:00</updated>
+   <id>https://rsjug.github.io/site/[CANCELADO]-Tutorial-2009-3---Ferramentas-Java-para-o-Desenvolvimento-Ágil-de-Bases-de-Dados</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;size-medium wp-image-342 alignleft&quot; style=&quot;margin-right: 10px; margin-bottom: 10px; border: 10px solid white;&quot; title=&quot;database&quot; src=&quot;img/database.jpg&quot; alt=&quot;&quot; width=&quot;152&quot; height=&quot;140&quot; /&gt;Garanta uma evolução da base de dados do seu projeto de maneira paralela ao código fonte do sistema utilizando ferramentas e técnicas para o desenvolvimento dinâmico e versionamento de banco de dados.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Palestrante:&lt;/strong&gt; &lt;span class=&quot;il&quot;&gt;Diego&lt;/span&gt; Moreira da Rosa
+&lt;strong&gt;Local:&lt;/strong&gt; &lt;span style=&quot;text-decoration: line-through;&quot;&gt;FACIN/PUCRS (prédio 32 - sala 517)&lt;/span&gt;
+&lt;strong&gt;Data:&lt;/strong&gt; &lt;span style=&quot;text-decoration: line-through;&quot;&gt;24/08/2009&lt;/span&gt;
+&lt;strong&gt;Horário:&lt;/strong&gt; &lt;span style=&quot;text-decoration: line-through;&quot;&gt;19:00 até as 22:30&lt;/span&gt;
+&lt;strong&gt;Inscrição: &lt;span style=&quot;color: #ff0000;&quot;&gt;[Evento Cancelado]&lt;/span&gt;&lt;/strong&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Tutorial cancelado.&lt;/strong&gt;&lt;/h2&gt;
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Call for Papers do JUGDay 2009</title>
+   <link href="https://rsjug.github.io/site/Call-for-Papers-do-JUGDay-2009.html"/>
+   <updated>2009-06-25T22:04:14+00:00</updated>
+   <id>https://rsjug.github.io/site/Call-for-Papers-do-JUGDay-2009</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Está disponível o &lt;a href=&quot;http://jugday.rsjug.org/?page_id=3&quot;&gt;Call for Papers do JUGDay 2009&lt;/a&gt;, promovido pelo RSJUG e SUCESU-RS.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O evento consiste em um dia inteiro dedicado à tecnologia Java. São palestras, cursos básicos, tutoriais avançados e demais atrações destinada para programadores experientes e iniciantes!&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Esta edição ocorrerá nas dependências da Faculdade Dom Bosco de Porto Alegre, no dia 24 de outubro, das 9h às 18h. Obtenha mais informações no &lt;a href=&quot;http://jugday.rsjug.org&quot;&gt;site do evento&lt;/a&gt; ou através do e-mail &lt;a href=&quot;maito:call4papers@rsjug.org&quot;&gt;call4papers@rsjug.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RSJUG no FISL10</title>
+   <link href="https://rsjug.github.io/site/RSJUG-no-FISL10.html"/>
+   <updated>2009-06-24T12:12:41+00:00</updated>
+   <id>https://rsjug.github.io/site/RSJUG-no-FISL10</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/gbahnert/sets/72157620315971155/&quot;&gt;&lt;img class=&quot;alignleft&quot; style=&quot;border: 10px solid white;&quot; src=&quot;img/3657071446_1f871f8865_m.jpg&quot; alt=&quot;Stand RSJUG FISL10&quot; width=&quot;152&quot; height=&quot;194&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O RSJUG está com um stand no espaço para grupos de usuário do FISL. Venha nos visitar e tirar uma foto do Duke!!&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;No stand temos camisetas e bonés do RSJUG para venda e inscrições promocionais para o JUGDay.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Algumas personalidades que passaram em nosso stand: &lt;a href=&quot;http://picasaweb.google.com/lnunix/FISL10#5351305396057356226&quot;&gt;Simon Phipps&lt;/a&gt; (Gerente mundial de OpenSource da Sun), &lt;a href=&quot;http://picasaweb.google.com/lnunix/FISL10#5351305114870879106&quot;&gt;Arun Gupta&lt;/a&gt; (Desenvolvedor do GlassFish), Rafael Vanoni (Desenvolvedor do Kernel do OpenSolaris), &lt;a href=&quot;http://weblogs.java.net/blog/brinkley/&quot;&gt;Roger Brinkley&lt;/a&gt; (Comunidade de Mobile e Embeded da Sun), entre outros.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Acompanhe também a participação do RSJUG pelo &lt;a href=&quot;http://twitter.com/rsjug&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; e receba novidades sobre nossos eventos.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;LInk para as fotos do evento &lt;a title=&quot;Fotors RSJUG FISL10&quot; href=&quot;http://www.flickr.com/photos/gbahnert/sets/72157620315971155/&quot; target=&quot;_blank&quot;&gt;flickr&lt;/a&gt; ou PicasaWeb:&lt;a href=&quot;http://picasaweb.google.com/lnunix/FISL10&quot;&gt; JavaLi + fisl&lt;/a&gt;, &lt;a href=&quot;http://picasaweb.google.com/lnunix/FISL103&quot;&gt;fisl 26/06&lt;/a&gt; e &lt;a href=&quot;http://picasaweb.google.com/lnunix/FISL104&quot;&gt;fisl 27/06&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Material da apresentação &lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2009/06/slides-jmonkey-fisl.pdf&quot;&gt;jMonkeyEngine: Desenvolvimento 3D com Java&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Javali - A Comunidade Java, Livre! </title>
+   <link href="https://rsjug.github.io/site/Javali-A-Comunidade-Java,-Livre!.html"/>
+   <updated>2009-06-16T10:34:57+00:00</updated>
+   <id>https://rsjug.github.io/site/Javali---A-Comunidade-Java,-Livre!-</id>
+   <content type="html">&lt;dl id=&quot;attachment_289&quot; class=&quot;wp-caption alignleft&quot; style=&quot;width: 114px;&quot;&gt; &lt;dt class=&quot;wp-caption-dt&quot;&gt;&lt;a href=&quot;img/javali.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-289&quot; title=&quot;javali&quot; src=&quot;img/javali.png&quot; alt=&quot;JAVALI&quot; width=&quot;104&quot; height=&quot;125&quot; /&gt;&lt;/a&gt;&lt;/dt&gt; &lt;/dl&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span class=&quot;postbody&quot;&gt;O Evento JAVALI, pré-evento do FISL (Fórum Internacional de Software Livre), promete agitar as comunidades Java e Software Livre brasileiras. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span class=&quot;postbody&quot;&gt;Este evento gratuito, organizado pelo &lt;a href=&quot;http://www.soujava.org.br/&quot;&gt;SouJava&lt;/a&gt; e &lt;a href=&quot;../&quot;&gt;RSJUG&lt;/a&gt;, reúne grupos de usuários e desenvolvedores Java de todo o país, além de grandes palestrantes internacionais, para um momento único de confraternização e discussão sobre software livre para a comunidade Java brasileira.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;JavaLi&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Quando?&lt;/strong&gt; Terça-feira, 23 de junho de 2009
+&lt;strong&gt;Onde?&lt;/strong&gt; Auditório do SERPRO, Av. Augusto de Carvalho, 1133 - Porto Alegre
+Inscrições e Informações: &lt;a class=&quot;snap_shots&quot; rel=&quot;nofollow&quot; href=&quot;http://javali.org.br/&quot; target=&quot;_new&quot;&gt;http://javali.org.br&lt;/a&gt;
+&lt;strong&gt; Evento Gratuito: Vagas Limitadas!&lt;/strong&gt;&amp;lt;/blockquote&amp;gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;E durante o FISL, um dos principais eventos de software livre do mundo, a trilha exclusiva sobre tecnologia Java do Javali traz a discussão sobre desenvolvimento de aplicações Java para o público de software livre presente no fórum. O FISL reune profissionais de vários países, entre comunidades, grupos de usuários, administrações públicas, empresários e acadêmicos, interessados em discutir sobre software livre em diversas áreas de atuação.&lt;/p&gt;
+
+&lt;blockquote&gt;FISL
+&lt;ul&gt;
+	&lt;li&gt;Dia: 24 a 27 de junho de 2009&lt;/li&gt;
+	&lt;li&gt;Local: Centro de Eventos PUCRS&lt;/li&gt;
+	&lt;li&gt;Inscrições e Informações: &lt;a class=&quot;snap_shots&quot; rel=&quot;nofollow&quot; href=&quot;http://fisl.softwarelivre.org/&quot; target=&quot;_new&quot;&gt;http://fisl.softwarelivre.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Não perca tempo! Faça agora sua inscrição para o Javali e para o FISL, e acompanhe as discussões sobre software livre no âmbito da tecnologia Java.&lt;/p&gt;
+&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evento realizado na FTEC - Tutorial de EJB 3</title>
+   <link href="https://rsjug.github.io/site/Evento-realizado-na-FTEC-Tutorial-de-EJB-3.html"/>
+   <updated>2009-05-26T21:11:48+00:00</updated>
+   <id>https://rsjug.github.io/site/Evento-realizado-na-FTEC---Tutorial-de-EJB-3</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;img/evento-ejb-rsjug.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-283 alignleft&quot; style=&quot;border: 10px solid white;&quot; title=&quot;evento-ejb-rsjug&quot; src=&quot;img/evento-ejb-rsjug.png&quot; alt=&quot;&quot; width=&quot;142&quot; height=&quot;133&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Realizou-se hoje, 26 de maio, o segundo tutorial do RSJUG, abordando EJB 3. O tutorial foi realizado na &lt;a title=&quot;FTEC&quot; href=&quot;http://www.ftec.com.br/&quot; target=&quot;_blank&quot;&gt;FTEC&lt;/a&gt; em Porto Alegre. Na sala, absolutamente lotada, estiveram presentes entre alunos da FTEC e inscritos no evento, cerca de 70 pessoas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O tema central da palestra foi apresentar os conceitos básicos da especificação &lt;a title=&quot;Site oficial de EJB na Sun&quot; href=&quot;http://java.sun.com/products/ejb/&quot; target=&quot;_blank&quot;&gt;EJB 3&lt;/a&gt;. Em seguida, foram mostrados diversos exemplos de código, utilizando a &lt;a title=&quot;NetBeans IDE&quot; href=&quot;http://www.netbeans.org/&quot; target=&quot;_blank&quot;&gt;IDE NetBeans&lt;/a&gt; para demonstrar os conceitos abordados.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Os certificados serão disponibilizados em breve, através do &lt;a title=&quot;Sistema de certificados RSJUG&quot; href=&quot;http://www.rsjug.org/eventos/certificateM/start.jsf&quot; target=&quot;_blank&quot;&gt;sistema de certificados&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Agredecemos a presença de todos! Quaisquer sugestões e comentários podem ser direcionados à &lt;a href=&quot;mailto:rsjug@rsjug.org&quot; target=&quot;_blank&quot;&gt;rsjug@rsjug.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Material do evento:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2009/05/2009-rsjug-ejb3tut-ftec.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Fotos do evento&quot; href=&quot;http://picasaweb.google.com/lnunix/Tutorial2009_EJB&quot; target=&quot;_blank&quot;&gt;Fotos do evento&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2009/05/projetos-netbeans.rar&quot;&gt;Códigos-fonte exemplo&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Bibliografia recomendada: Mastering Enterprise Java Beans 3.0. SRIGANESH, Rima; BROSE, Gerald e SILVERMAN, Micah.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tutorial 2009/2 - Desenvolvendo com EJB 3.0</title>
+   <link href="https://rsjug.github.io/site/Tutorial-2009-2-Desenvolvendo-com-EJB-3.0.html"/>
+   <updated>2009-05-19T19:08:48+00:00</updated>
+   <id>https://rsjug.github.io/site/Tutorial-2009-2---Desenvolvendo-com-EJB-3.0</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Neste tutorial serão abordados conceitos e novas características do EJB 3.0. De forma prática os conceitos mais usados no desenvolvimento de componentes EJB 3 em aplicações Java serão apresentados.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Palestrante:&lt;/strong&gt; Mauro do Valle&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Local:&lt;/strong&gt; FTEC (Unidade III - prédio Tumelero - Rua Comendador Manoel Pereira, 237).&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; 26/05/2009&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Horário:&lt;/strong&gt; 19:00 até as 22:30&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Programação&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;strong&gt;Revisao de conceitos de EJB&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;EJB Object&lt;/li&gt;
+	&lt;li&gt;Acesso indireto&lt;/li&gt;
+	&lt;li&gt;Diretorio JNDI&lt;/li&gt;
+	&lt;li&gt;Container/deploy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;Principais caracteristicas de EJB 3&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;JSR 220&lt;/li&gt;
+	&lt;li&gt;Roda sob Java EE 5 / Java SE 5+&lt;/li&gt;
+	&lt;li&gt;Simplicidade de codificao / syntax sugar&lt;/li&gt;
+	&lt;li&gt;POJO com anotacoes&lt;/li&gt;
+	&lt;li&gt;Tipos de EJB: Session, Message, Timer&lt;/li&gt;
+	&lt;li&gt;E sobre JPA?&lt;/li&gt;
+	&lt;li&gt;Evolucao para EJB 3.1 (JSR-318)&lt;/li&gt;
+	&lt;li&gt;Evolucao para JPA 2.0 (JSR-317)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;Exemplos&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Classico HelloWorld&lt;/li&gt;
+	&lt;li&gt;Ciclo de vida&lt;/li&gt;
+	&lt;li&gt;Interceptor&lt;/li&gt;
+	&lt;li&gt;Exceptions&lt;/li&gt;
+	&lt;li&gt;TimerBean&lt;/li&gt;
+	&lt;li&gt;Transacoes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O evento é realizado em parceria com a &lt;a href=&quot;http://www.rs.sucesu.org.br/&quot; target=&quot;_blank&quot;&gt;SUCESU-RS&lt;/a&gt; e &lt;a href=&quot;http://www.ftec.com.br/&quot; target=&quot;_blank&quot;&gt;FTEC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As inscrições podem ser realizadas &lt;a href=&quot;http://www.rsjug.org/eventos/&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>E assim começaram as atividades do RSJUG em 2009</title>
+   <link href="https://rsjug.github.io/site/E-assim-come%C3%A7aram-as-atividades-do-RSJUG-em-2009.html"/>
+   <updated>2009-03-19T00:03:55+00:00</updated>
+   <id>https://rsjug.github.io/site/E-assim-começaram-as-atividades-do-RSJUG-em-2009</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Aconteceu hoje, na PUCRS, em Porto Alegre, o primeiro evento da programação oficial do RSJUG em 2009. Foi uo tutorial de desenvolvimento de interfaces ricas para a Web, conduzido pelo Coordenador do JUG, Eleonor Vinícius Mayer.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://picasaweb.google.com/lnunix/RSJUGTutorial20091&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-266&quot; style=&quot;border: 5px solid white;&quot; title=&quot;tutorial1&quot; src=&quot;img/tutorial1.jpg&quot; alt=&quot;&quot; width=&quot;204&quot; height=&quot;153&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;No evento de aproximadamente três horas, foram abordadas as tecnologias Facelets e JSF, com apresentação de exemplos práticos utilizando as implementações MyFaces e IceFaces.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;As 87 vagas disponibilizadas, foram preenchidas rapidamente pelo site, mesmo assim, tivemos cerca de &lt;strong&gt;40%&lt;/strong&gt; de inscritos que não puderam comparecer ao evento. Sorte de quem apareceu na hora e conseguiu garantir sua vaga. O resultado foi um auditório praticamente lotado, como pode ser visto nas &lt;a href=&quot;http://picasaweb.google.com/lnunix/RSJUGTutorial20091&quot; target=&quot;_blank&quot;&gt;fotos do evento&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Além dos participantes presenciais, tivemos ainda cerca de &lt;strong&gt;23&lt;/strong&gt; expectadores online, através do streaming realizado em parceria com a &lt;a href=&quot;http://tv.softwarelivre.org&quot; target=&quot;_blank&quot;&gt;TV Software Livre&lt;/a&gt;. Essa prática, que será mantida para os próximos eventos, foi utilizada em caráter de teste no evento de hoje, devendo ser aprimorada nas próximas edições.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Com este evento, inicia-se uma série de tutoriais que serão realizados ao longo deste ano, sendo que o próximo já esta marcado para o dia &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;strong&gt;26 de maio&lt;/strong&gt;&lt;/span&gt;. Programe-se e participe!&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;Gostaríamos que os participantes deixassem sua opinião e sugestões para os próximos eventos nos comentários desse post.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Os &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;strong&gt;certificados&lt;/strong&gt;&lt;/span&gt; estarão disponíveis dentro de alguns dias e poderão ser acessados diretamente pelo menu à direita. Nós avisaremos pela lista quando todos tiverem sido gerados.&lt;strong&gt;
+&lt;/strong&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://picasaweb.google.com/lnunix/RSJUGTutorial20091&quot; target=&quot;_blank&quot;&gt;Fotos do evento&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;Arquivos da apresentação&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://dl.getdropbox.com/u/468289/ProjetoNaHora.zip&quot; target=&quot;_blank&quot;&gt;Projeto desenvolvido no tutorial&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://dl.getdropbox.com/u/468289/TutorialJSF.zip&quot; target=&quot;_blank&quot;&gt;Parte 2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://mind42.com/pub/mindmap?mid=46753cb2-a6dc-43e1-8dc3-935ac2dac49e&quot; target=&quot;_blank&quot;&gt;Diagrama utilizado&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;Não houve registro em vídeo da apresentação, apenas a transmissão ao-vivo via internet&lt;/span&gt;
+&lt;/strong&gt;&lt;/h2&gt;
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tutorial 2009/1 - Desenvolvendo interfaces web ricas com Java</title>
+   <link href="https://rsjug.github.io/site/Tutorial-2009-1-Desenvolvendo-interfaces-web-ricas-com-Java.html"/>
+   <updated>2009-03-10T17:32:48+00:00</updated>
+   <id>https://rsjug.github.io/site/Tutorial-2009-1---Desenvolvendo-interfaces-web-ricas-com-Java</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;alignleft&quot; src=&quot;img/tvsl.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: line-through;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;Transmissão do evento via Stream, clique aqui.&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;IMPORTANTE: &lt;/span&gt;Caso você nâo tenha o VLC Media Player, faça o download no site oficial,  clicando aqui.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/cup_o_java_small.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-253&quot; style=&quot;border: 5px solid white;&quot; title=&quot;cup_o_java_small&quot; src=&quot;img/cup_o_java_small.jpg&quot; alt=&quot;&quot; width=&quot;120&quot; height=&quot;137&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Estão abertas as inscrições para o primeiro tutorial de 2009 promovido pelo RSJUG.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Neste tutorial será apresentado como desenvolver interfaces web ricas de maneira rápida, padronizada e divertida utilizando &lt;a href=&quot;http://pt.wikipedia.org/wiki/AJAX_(programa%C3%A7%C3%A3o)&quot;&gt;AJAX&lt;/a&gt; e tecnologias Java, como Java Server Faces(JSF) e Facelets.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Palestrante:&lt;/strong&gt; Eleonor Vinicius Dudel Mayer&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; 18 de março (quarta-feira)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Horário:&lt;/strong&gt; 19:30&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Local:&lt;/strong&gt; Sala 517, prédio 32 (&lt;a href=&quot;http://www.pucrs.br/inf/&quot; target=&quot;_blank&quot;&gt;Faculdade de Informática&lt;/a&gt;) - &lt;a title=&quot;PUCRS&quot; href=&quot;http://www3.pucrs.br/portal/page/portal/pucrs/Servicos/como_chegar&quot; target=&quot;_blank&quot;&gt;PUCRS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Calendário 2009</title>
+   <link href="https://rsjug.github.io/site/Calend%C3%A1rio-2009.html"/>
+   <updated>2009-02-12T10:35:51+00:00</updated>
+   <id>https://rsjug.github.io/site/Calendário-2009</id>
+   <content type="html">&lt;p&gt;O RSJUG apresenta seu calendário de eventos para 2009.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Precisamos da ajuda de todos para definir os assuntos dos tutoriais e palestras visando sempre tornar nossas atividades mais interessantes para o grande público.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Mandem suas sugestões de temas para &lt;a href=&quot;mailto:sugestoes@rsjug.org&quot;&gt;sugestoes@rsjug.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Tutorial I 18/03 - 19h - PUCRS
+&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Tutorial II 26/05&lt;/strong&gt;&lt;strong&gt; - 19h - FTEC
+&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Tutorial III 24/08&lt;/strong&gt;&lt;strong&gt; - 19h&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;JUGDAY 24/10 - todo o dia
+&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Tutorial IV 17/11&lt;/strong&gt;&lt;strong&gt; - 19h&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OBS: Essas datas não são definitivas, ainda podem ser mudadas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RSJUG no OSUM</title>
+   <link href="https://rsjug.github.io/site/RSJUG-no-OSUM.html"/>
+   <updated>2009-01-29T01:31:07+00:00</updated>
+   <id>https://rsjug.github.io/site/RSJUG-no-OSUM</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;OSUM (pronuncia-se &quot;awesome&quot;) é uma comunidade global de estudantes apaixonados por Software Livre e por como isso está mudando o nosso mundo. Nós o chamamos de &quot;Meetup&quot; para incentivar a colaboração entre grupos acadêmicos para criar uma comunidade ainda mais forte em Open Source.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Enquanto eu escrevo esse post, temos exatamente 52 membros. o que é um número pequeno, perto das mais de 1000 pessoas que temos cadastradas na lista de discussão.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;É importante destacar que conforme o número de cadastrados cresce, a Sun oferece uma série de vantagens para as comunidades que mostram expressiva presença dentro do OSUM (a partir de 100 membros onde é paga uma rodada de pizza em um evento oficial do JUG, por exemplo).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Clique na imagem abaixo para inciar seu cadastro no OSUM:&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;RSJUG no OSUM&quot; href=&quot;http://osum.sun.com/group/rsjug&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-217&quot; title=&quot;osum&quot; src=&quot;img/osum.jpg&quot; alt=&quot;&quot; width=&quot;420&quot; height=&quot;79&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para você que ja é cadastrado, esse é o link direto para o RSJUG dentro do OSUM: &lt;a href=&quot;http://osum.sun.com/group/rsjug&quot; target=&quot;_blank&quot;&gt;http://osum.sun.com/group/rsjug&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Aprenda JavaFX com Paixão</title>
+   <link href="https://rsjug.github.io/site/Aprenda-JavaFX-com-Paix%C3%A3o.html"/>
+   <updated>2009-01-29T01:07:11+00:00</updated>
+   <id>https://rsjug.github.io/site/Aprenda-JavaFX-com-Paixão</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Direto do &lt;a title=&quot;CeJUG&quot; href=&quot;http://www.cejug.org&quot; target=&quot;_blank&quot;&gt;CEJUG&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nosso amigo Sang Shin do Java Passion nos avisa que está para começar a primeira turma do curso de programação de 15 semanas em JavaFX (com paixão!) está começando. O curso é online, gratuito e começa agora dia 30 de Janeiro em 2009.&lt;/p&gt;
+
+Para se inscrever envie um email em branco para &lt;a href=&quot;mailto:javafxprogramming-subscribe@googlegroups.com&quot;&gt;javafxprogramming-subscribe@googlegroups.com&lt;/a&gt;. É um curso mais ou menos como qualquer outro, espera-se que os estudantes façam suas lições de casa depois de estudar as apresentações e fazer alguns laboratórios práticos mas tudo isso gratuito e online. Também há uma lista onde os estudantes podem perguntar e responder perguntas.&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;img/ig_javafx_architecture.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-220&quot; title=&quot;ig_javafx_architecture&quot; src=&quot;img/ig_javafx_architecture.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;178&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para maiores informações, por favor visite um dos sites abaixo:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Site do curso: &lt;a href=&quot;http://www.javapassion.com/javafx&quot; target=&quot;_blank&quot;&gt;http://www.javapassion.com/javafx&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Tópicos do curso: &lt;a href=&quot;http://www.javapassion.com/javafx/#Topics&quot; target=&quot;_blank&quot;&gt;http://www.javapassion.com/javafx/#Topics&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Perguntas Frequentes: &lt;a href=&quot;http://www.javapassion.com/coursefaq.html&quot; target=&quot;_blank&quot;&gt;http://www.javapassion.com/coursefaq.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lembrando a todos que os cursos do Java Passion são todos em inglês.
+Aproveite essa oportunidade e passe a frente a notícia.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Relato de participação no DEVOXX 2008</title>
+   <link href="https://rsjug.github.io/site/Relato-de-participa%C3%A7%C3%A3o-no-DEVOXX-2008.html"/>
+   <updated>2009-01-14T23:05:32+00:00</updated>
+   <id>https://rsjug.github.io/site/Relato-de-participação-no-DEVOXX-2008</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Esse relato é da participação do &lt;a href=&quot;http://br.geocities.com/diegomrosa/&quot; target=&quot;_blank&quot;&gt;Diego Moreira da Rosa &lt;/a&gt;no evento Devoxx! Segue o relato na íntegra:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/logo_devoxx08.jpeg&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-210&quot; style=&quot;border: 5px solid white;&quot; title=&quot;logo_devoxx08&quot; src=&quot;img/logo_devoxx08.jpeg&quot; alt=&quot;&quot; width=&quot;156&quot; height=&quot;65&quot; /&gt;&lt;/a&gt;&quot;A mudança de nome parece não ter abalado a reputação do JavaPolis. Renomeado para Devoxx devido a uma pendenga judicial com a Sun, o evento continua honrando o título de maior conferência independente sobre Java do mundo. Nada menos que 3200 participantes de 35 países diferentes se reuniram entre os dias 08 e 12 de dezembro em Antuérpia na Bélgica, cidade que recebe o evento todos os anos. O local da conferência, o MetroPolis Business Center, também impressiona: seis salas de cinema com palestras para todos os gostos ocorrendo em paralelo.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Logo na chegada, ainda no hall do hotel, tive a grata surpresa de encontrar cinco membros do CEJUG, quatro deles atualmente morando na Europa. Além de dois dos seus coordenadores (Hildeberto Mendonça e Felipe Gaúcho), estava presente também o estudante de graduação Daniel Macedo, que ganhou um concurso promovido pelo JUG do Ceará e recebeu como prêmio a participação no Devoxx 100% financiada pelos patrocinadores. Conversando com o pessoal, é possível perceber que se trata de um grupo de usuários bastante ativo e organizado.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Por falar em grupos de usuários, o &lt;a href=&quot;http://www.bejug.org/&quot; target=&quot;_blank&quot;&gt;BeJUG (Belgian Java Users Group)&lt;/a&gt; também está de parabéns por ser o idealizador e organizador de um evento dessa magnitude. Apesar de não ser a organizadora do evento, a Sun é uma das principais patrocinadoras e também é responsável por boa parte das palestras. Entre as palestras promovidas pela Sun, destaque para o keynote de abertura sobre JavaFX, definitivamente o principal assunto do evento, e para o keynote de Mark Reinhold sobre as novidades do Java SE 7 com ênfase na questão da modularidade.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A palestra de Joshua Bloch (ex-Sun e agora na Google) apresentando a nova edição do clássico livro &quot;Effective Java&quot; também merece destaque. Outros palestrantes que se destacaram foram Brian Goetz, falando sobre APIs de concorrência e paralelismo no Java SE 7, Ivar Jacobson, com sua apresentação sobre metodologias ágeis, e Romain Guy e Chet Haase, com apresentações sobre rich clients. Além do JavaFX, embalado pelo lançamento de sua versão 1.0 uma semana antes do evento, outros assuntos que receberam atenção especial foram RESTful Web Services, HTML5/WebSockets e o sistema Android da Google para dispositivos móveis.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/devoxx250.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-211&quot; style=&quot;border: 5px solid white;&quot; title=&quot;devoxx250&quot; src=&quot;img/devoxx250.jpg&quot; alt=&quot;&quot; width=&quot;110&quot; height=&quot;102&quot; /&gt;&lt;/a&gt;Nas horas vagas, é possível degustar algumas das 500 marcas de cerveja que os belgas produzem ou apreciar os seus famosos chocolates. Apesar de não estar entre os principais destinos de quem viaja pela Europa, a Bélgica possui algumas atrações interessantes e a proximidade com outros países facilita o turismo. Mas voltando ao que interessa, boa parte dos slides já está disponível no site do evento (http://www.devoxx.com/) e os vídeos das apresentação devem aparecer ao longo de 2009 no Parleys.com: referências obrigatórias para quem quiser digerir esse mar de informações.&quot;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Fotos: &lt;a href=&quot;http://www.flickr.com/photos/25326538@N08/sets/72157612244919135/&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>"Java de guerrilha na Sun"</title>
+   <link href="https://rsjug.github.io/site/Java-de-guerrilha-na-Sun.html"/>
+   <updated>2009-01-14T22:46:51+00:00</updated>
+   <id>https://rsjug.github.io/site/Java-de-guerrilha-na-Sun</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Saiu no site da revista Info:&lt;/p&gt;
+
+&lt;blockquote style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;A cada dez empresas de serviços de TI ouvidas pelo INFO Professional, 11 disseram estar sedentas por profissionais especializados em Java. A Sun Microsystems está oferecendo até o mês de março alguns módulos especiais de capacitação para certificação em Java.&lt;/em&gt;
+
+&lt;em&gt;
+Os cursos intensivos reúnem aulas práticas, simulado via web e voucher para prova oficial. São cinco opções de treinamento, cada uma com 40 horas de aulas práticas, aplicada pela empresa Prometric, parceira global da Sun Microsystems.&lt;/em&gt;&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Segundo a matéria, existem cerca de 70.000 programadores Java no Brasil, sendo que destes, poucos são certificados na tecnologia. Além disso, o ritmo de crescimento do número de profissionais certificados não cresce juntamente com o de vagas abertas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Fonte: &lt;a href=&quot;http://info.abril.uol.com.br/professional/desenvolvimento/java-de-guerrilha-na-sun.shtml?2&quot; target=&quot;_blank&quot;&gt;Revista Info&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vagas na Datacom</title>
+   <link href="https://rsjug.github.io/site/Vagas-na-Datacom.html"/>
+   <updated>2009-01-07T17:24:00+00:00</updated>
+   <id>https://rsjug.github.io/site/Vagas-na-Datacom</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a title=&quot;DATACOM&quot; href=&quot;http://www.datacom.ind.br&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;alignleft size-full wp-image-199&quot; title=&quot;datacom_logo&quot; src=&quot;img/datacom_logo.jpg&quot; alt=&quot;&quot; width=&quot;276&quot; height=&quot;87&quot; /&gt;&lt;/a&gt;A &lt;strong&gt;Datacom&lt;/strong&gt;, desenvolvedora de equipamentos e software para operadoras de telecomunicações, acaba de abrir seleção para estágio no Grupo de Sistemas de Gerência de Redes. As vagas são para o Datacom Labs Central (bairro Navegantes) e Datacom Labs Tecnopuc.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A empresa é a única brasileira desenvolvendo equipamentos e software para SDH 10Gbit/s e Metro Ethernet voltados a operadoras de telefonia. Com sede na capital gaúcha, a empresa exporta seus produtos para mais de 30 países da América do Sul, Central e do Norte, África, Ásia, Europa e Oriente Médio, e atualmente conta com mais de 500 colaboradores.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A empresa procura &lt;strong&gt;graduandos, graduados e pós-graduados&lt;/strong&gt; para:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Desenvolvimento de Sistemas&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Desejável conhecimento em:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Java Desktop (Swing, Threads);&lt;/li&gt;
+	&lt;li&gt;Arquitetura cliente / servidor;&lt;/li&gt;
+	&lt;li&gt;Sistemas de Banco de Dados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Teste e Verificação de Sistemas&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Desejável conhecimento em:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Metodologias de teste;&lt;/li&gt;
+	&lt;li&gt;Sistemas de Integração Contínua;&lt;/li&gt;
+	&lt;li&gt;Ant e JUnit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;strong&gt;Os interessados devem encaminhar currículo para o e-mail &lt;a href=&quot;mailto:swgr@datacom.ind.br&quot;&gt;swgr@datacom.ind.br&lt;/a&gt;.&lt;/strong&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>E assim foi mais uma edição do JUG Day do RSJUG!</title>
+   <link href="https://rsjug.github.io/site/E-assim-foi-mais-uma-edi%C3%A7%C3%A3o-do-JUG-Day-do-RSJUG!.html"/>
+   <updated>2008-12-15T22:17:26+00:00</updated>
+   <id>https://rsjug.github.io/site/E-assim-foi-mais-uma-edição-do-JUG-Day-do-RSJUG!</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Ocorreu no último sábado, dia 13 de dezembro a segunda edição anual do JUG Day, promovido pelo Grupo de usuários Java do Rio Grande do Sul, com o apoio da SUCESU-RS e do IPA Metodista e patrocínio da Fontoura Education e Caelum.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://picasaweb.google.com/lnunix/JUGDay20082&quot;&gt;&lt;img class=&quot;size-thumbnail wp-image-190 alignleft&quot; title=&quot;jugday_photos&quot; src=&quot;img/jugday_photos.jpg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;139&quot; /&gt;&lt;/a&gt;Foram 12h de programação, que envoveram palestras, tutoriais, mini-cursos direcionados à todos os níveis de conhecimento dos usuários Java (clique na imagem à esquerda para acessar o álbum de fotos do evento).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Contamos com a presença de cerca de 50 pessoas, que puderam participar, ao final do evento, de um debate sobre mercado de trabalho com a presença de representantes das universidades e empresas onde foram debatidos diversos tema relevantes para quem está no mercado ou está planejando sua carreira.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Contamos ainda com a participação e apoio de grupos de usuários parceiros, como o &lt;a href=&quot;http://opensolaris.org/os/project/poaosug/&quot; target=&quot;_blank&quot;&gt;PoaOSUG (Porto Alegre OpenSolaris User Group)&lt;/a&gt; e o &lt;a href=&quot;https://fuja.dev.java.net/&quot;&gt;Grupo de Estudos Java da FACENSA (FUJA)&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Com este evento, o RSJUG encerra suas atividades oficiais no ano de 2008, agradecendo à todas aquelas pessoas que de alguma forma contribuiram para o crescimento e difusão de nosso grupo de usuários!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JUG Day 2008/2</title>
+   <link href="https://rsjug.github.io/site/JUG-Day-2008-2.html"/>
+   <updated>2008-11-12T23:22:58+00:00</updated>
+   <id>https://rsjug.github.io/site/JUG-Day-2008-2</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;size-full wp-image-175 alignleft&quot; title=&quot;header_2&quot; src=&quot;img/header_2.jpg&quot; alt=&quot;&quot; width=&quot;210&quot; height=&quot;157&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Estão abertas as inscrições para o JUG Day 2008/2, o evento semestral promovido pelo RSJUG e SUCESU-RS com o apoio do IPA Metodista e patrocínio da Wansoft/Caelum. Esta edição contará com uma programação distribuida em três ambientes, nas instalações do Campus Tecnológico DC Shopping do IPA Metodista.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A grade de programação ainda está em construção. Mesmo assim, vários temas já estão definidos. Consulte o &lt;a href=&quot;http://jugday.rsjug.org/&quot;&gt;site oficial&lt;/a&gt; para obter mais detalhes de programação, localização do evento e o formulário de inscrições.&lt;/p&gt;
+
+&lt;p&gt;Sua participação é fundamental para que o evento seja, mais uma vez, um grande sucesso!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Glassfish v3 Prelude</title>
+   <link href="https://rsjug.github.io/site/Glassfish-v3-Prelude.html"/>
+   <updated>2008-11-09T23:13:53+00:00</updated>
+   <id>https://rsjug.github.io/site/Glassfish-v3-Prelude</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/glassfish-logo-140_92.jpg&quot;&gt;&lt;img class=&quot;alignright size-full wp-image-168&quot; title=&quot;glassfish-logo-140_92&quot; src=&quot;img/glassfish-logo-140_92.jpg&quot; alt=&quot;&quot; width=&quot;140&quot; height=&quot;92&quot; /&gt;&lt;/a&gt;Na sexta-feira, dia 07 de novembro foi publicada uma versão prévia do&lt;a href=&quot;https://glassfish.dev.java.net/public/comparing_v2_and_v3.html&quot;&gt; Glassfish v3 Prelude&lt;/a&gt;, o servidor JEE opensource da Sun, e a implementação de referência JEE 6. Entre as muitas novidades desta versão, destaca-se a mudança arquitetural, &lt;a href=&quot;http://www.infoworld.com/article/08/11/05/Sun_offers_OSGi_app_server_1.html&quot;&gt;através de módulos gerenciados por um contêiner OSGi&lt;/a&gt; (que introduz essa tecnologia em produtos Sun e a iniciativa da empresa em apoiar esta especificação) e seu suporte à linguagens dinâmicas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Sobre o suporte à &lt;a href=&quot;http://www.infoworld.com/article/08/11/05/Sun_offers_OSGi_app_server_1.html&quot;&gt;OSGi&lt;/a&gt;, cabe salientar que o suporte é interno, para módulos do próprio servidor e não para aplicações que façam uso dessa tecnologia assim como no Spring DM Server. Atualmente é utilizado o projeto Apache Felix que, obviamente pode ser trocado por qualquer outra implementação OSGi, como o Eclipse Equinox.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Já sobre linguagens dinâmicas, a nova arquitetura permite instalar plugins para suporta-las. Estão disponíveis pacotes para Groovy e Grails, JRuby on Rail, PHP e Scala/Lift. Mais detalhes dessa integração podem ser vistos no blog do Vivek Pandey.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Além de todos os recursos citados acima, temos APIs relacionadas à JDK e JEE onde cabe destacar a implementação JPA 2.0, o framework jMaki com componentes JSF e taglibs JSP para AJAX, Grizzly para Comet, o projeto Metro para webservices e Jersey para serviços REST, JSF 2.0, EJB 3.1 e muito mais!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Call For Papers do evento JUGDay 2008/2</title>
+   <link href="https://rsjug.github.io/site/Call-For-Papers-do-evento-JUGDay-2008-2.html"/>
+   <updated>2008-10-31T09:46:13+00:00</updated>
+   <id>https://rsjug.github.io/site/Call-For-Papers-do-evento-JUGDay-2008-2</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img class=&quot;alignleft size-full wp-image-159&quot; title=&quot;logo-jugday1&quot; src=&quot;img/logo-jugday1.png&quot; alt=&quot;&quot; width=&quot;129&quot; height=&quot;144&quot; /&gt;Caros usuários de JAVA do Rio Grande do Sul,&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;É com grande satisfação que viemos por meio deste publicar o Call4Papers do segundo &lt;strong&gt;JUGDAY 2008&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: justify;&quot;&gt;O evento JUGDAY consiste em um dia inteiro dedicado à tecnologia Java. Esta edição (2008/2), ocorrerá no dia 13 de dezembro de 2008 em Porto Alegre/RS (local a ser definido nos próximos dias).&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Receberemos submissões de palestras e tutoriais para serem apresentados neste evento até o dia 01 de dezembro de 2008.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Para participar é simples, preencha e envie o formulário abaixo para &lt;a href=&quot;mailto:call4papers@rsjug.org&quot; target=&quot;_blank&quot;&gt;&lt;span&gt;call4papers&lt;/span&gt;@rsjug.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Sua proposta será avaliada pela comissão de conteúdo a qual entrará em contato para requisitar maiores informações, se necessário.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Envie juntamente no e-mail os seguintes dados:&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Nome:
+Email:
+Telefone:
+Currículo resumido:
+Tipo da apresentação*:
+Título da apresentação:
+Descrição do conteúdo:
+&lt;p style=&quot;text-align: justify;&quot;&gt;Opte por um item da lista:&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+	&lt;li&gt; Palestra: apresentação de 1h aproximadamente sobre um tema técnico, realizada de maneira resumida e introdutória. OU&lt;/li&gt;
+	&lt;li style=&quot;text-align: justify;&quot;&gt;Tutorial: apresentação de 3h aproximadamente sobre um tema técnico, realizada de maneira profunda e ampla.&lt;/li&gt;
+&lt;/ul&gt;
+&amp;lt;/blockquote&amp;gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;*Em breve abriremos a inscrições para participação no evento. Grupos de usuários ganham condições especiais, a partr de 05 pessoas.
+&lt;/strong&gt;
+
+O evento tem o apoio da SUCESU-RS, sempre presente nas promoções do RSJUG.
+
+Desde já o RSJUG agradece a sua participação,
+Coordenação RSJUG
+&lt;/p&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sony Ericsson Content Awards 2008</title>
+   <link href="https://rsjug.github.io/site/Sony-Ericsson-Content-Awards-2008.html"/>
+   <updated>2008-10-29T13:00:40+00:00</updated>
+   <id>https://rsjug.github.io/site/Sony-Ericsson-Content-Awards-2008</id>
+   <content type="html">&lt;p&gt;A Sony Ericsson está promovendo uma competição para desenvolvedores de aplicativos para dispositivos móveis, o &lt;a href=&quot;https://developer.sonyericsson.com/site/contentawards/p_index.jsp&quot; target=&quot;_blank&quot;&gt;Sony Ericsson Content Awards 2008&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/contentawards08_300transp_w.gif&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-145&quot; title=&quot;contentawards08_300transp_w&quot; src=&quot;img/contentawards08_300transp_w.gif&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As submissões podem ser feitas até dia 30 de novembro, existem premiações para as &lt;a href=&quot;https://developer.sonyericsson.com/site/contentawards/about/p_about_contest_categories.jsp&quot; target=&quot;_blank&quot;&gt;diversas categorias&lt;/a&gt; (games, gráficos e serviços, entre outros). Os vencedores serão anunciados em fevereiro do próximo ano.&lt;/p&gt;
+
+&lt;p&gt;Fonte: &lt;a href=&quot;https://developer.sonyericsson.com/site/global/newsandevents/latestnews/newsoct08/p_contentawards08_blogs.jsp?link_general=article-contentawards08blogs&quot; target=&quot;_blank&quot;&gt;Sony Ericsson&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mais um exame de certificação Beta! (SCJDWS 5)</title>
+   <link href="https://rsjug.github.io/site/Mais-um-exame-de-certifica%C3%A7%C3%A3o-Beta!-(SCJDWS-5).html"/>
+   <updated>2008-10-25T13:27:45+00:00</updated>
+   <id>https://rsjug.github.io/site/Mais-um-exame-de-certificação-Beta!-(SCJDWS-5)</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Aproximadamente duas semanas após finalizar as inscrições para o exame beta para certificação de Especialista em NetBeans (&lt;a title=&quot;Beta exam&quot; href=&quot;http://www.sun.com/training/certification/netbeans.html&quot; target=&quot;_blank&quot;&gt;SCSNI&lt;/a&gt;), a Sun anuncia mais um exame Beta. &lt;strong&gt;Desta vez, uma atualização para Java 5, do exame de Desenvolvedor de Web Services (SCJDWS 5).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/java07.jpg&quot;&gt;&lt;img class=&quot;alignright size-full wp-image-139&quot; title=&quot;java07&quot; src=&quot;img/java07.jpg&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;170&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;As inscrições vão de 29 de outubro à 05 de novembro de 2008. Os candidatos tem como &lt;strong&gt;pré-requisito obrigatório a certificação de programador Java (SCJP).&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Os exames Beta devem ser realizados nos centros autorizados da Prometric, entre os dias 31 de outubro até 21 de novembro de 2008. Os candidatos terão 240 minutos para responderem a um total de 160 questões (veja o conteúdo completo no anúncio oficial,&lt;a title=&quot;Beta SCJDWS 5&quot; href=&quot;http://www.sun.com/training/certification/beta_scdjws.html&quot; target=&quot;_blank&quot;&gt; disponível aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Grande parte das informações que tem aí já foram comentadas neste post, mas para formalizar, aí vai um trecho do anúncio oficial:&lt;/p&gt;
+
+&lt;blockquote style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;FREE BETA:&lt;/strong&gt; Sun Certified Developer for Java Web Services 5 Certification Exam
+
+Are you a Developer who is responsible for creating web services applications using Java technology components such as those supported by the Glassfish Metro Web service stack and the Java Enterprise Edition 5 platform? If so, this is your opportunity to get involved in the creation of the Java Web Services exam!!!!!
+
+As a beta tester, you officially test the test and will be able to provide Sun with valuable comments and technical feedback about the Java Web Services questions. The Sun beta exam counts towards official SCDJWS 5 Certification!
+
+&lt;strong&gt;Beta Dates: October 31st, 2008 thru November 21st, 2008&lt;/strong&gt;
+
+&lt;strong&gt;Registration Exam Start Date: October 29th, 2008 - November 5th, 2008&lt;/strong&gt;
+
+Passing the exam entitles you to the full status of Sun Certified Developer for Java Web Services 5, and you will receive a Sun &quot;certification kit”. A certification kit will have your certificate, Logo Agreement and Letter.
+
+Candidates will have 240 minutes to complete 160 questions, which should allow you time to respond to all questions and provide your valuable comments while taking the exam.
+
+This beta exam is offered Worldwide at any Authorized Prometric Testing Center!&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Lá no Fórum do &lt;a title=&quot;Grupo de Usuários Java&quot; href=&quot;http://www.guj.com.br&quot; target=&quot;_blank&quot;&gt;GUJ&lt;/a&gt;, está sendo organizado um &lt;a href=&quot;http://guj.com.br/posts/list/107392.java&quot; target=&quot;_blank&quot;&gt;grupo de estudos específico para esta certificação&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Maiores informações sobre o grupo de estudos: &lt;a href=&quot;http://groups.google.com.br/group/grupo-de-estudos-scjdws&quot; target=&quot;_blank&quot;&gt;http://groups.google.com.br/group/grupo-de-estudos-scjdws&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NetBeans completa 10 anos</title>
+   <link href="https://rsjug.github.io/site/NetBeans-completa-10-anos.html"/>
+   <updated>2008-10-24T21:56:03+00:00</updated>
+   <id>https://rsjug.github.io/site/NetBeans-completa-10-anos</id>
+   <content type="html">&lt;p&gt;Atualmente na versão estável 6.1, o NetBeans estará completando 10 anos no próximo dia 27 de outubro. Para esta data estão previstas diversas comemorações ao redor do mundo. Nas páginas do &lt;a href=&quot;http://www.netbeans.org/birthday/&quot; target=&quot;_blank&quot;&gt;site oficial &lt;/a&gt;criadas especialmente para tratar deste assunto é possível ler toda a história da ferramenta além de depoimentos de grande parte dos envolvidos com o desenvolvimento do projeto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/logo-10y-nb-outline-180.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-122&quot; title=&quot;logo-10y-nb-outline-180&quot; src=&quot;img/logo-10y-nb-outline-180.png&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O futuro:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pelo roadmap disponível no site oficial (e reproduzido aqui) ja é possível ver os planos de lançamento da versão 6.5 estável (que atualmente ja é disponível em RC) para o dia 15 de novembro, e da versão 7.0 para o mês de abril do próximo ano.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/roadmap-netbeans.gif&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-125&quot; title=&quot;roadmap-netbeans&quot; src=&quot;img/roadmap-netbeans.gif&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;255&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Palestra de JSF na FACENSA</title>
+   <link href="https://rsjug.github.io/site/Palestra-de-JSF-na-FACENSA.html"/>
+   <updated>2008-10-21T20:23:18+00:00</updated>
+   <id>https://rsjug.github.io/site/Palestra-de-JSF-na-FACENSA</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;img/20081016184257.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-107&quot; title=&quot;20081016184257&quot; src=&quot;img/20081016184257.jpg&quot; alt=&quot;&quot; width=&quot;350&quot; height=&quot;233&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O RSJUG foi convidado pelo senhor Guilherme Silva de Lacerda, coordenador do Curso de Sistemas de Informação da &lt;a title=&quot;FACENSA&quot; href=&quot;http://www.facensa.com.br&quot; target=&quot;_blank&quot;&gt;FACENSA&lt;/a&gt; a realizar uma palestra para os alunos desta faculdade na noite do dia 22/10 (quarta-feira).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O tema escolhido pelo palestrante Igor Montezano, foi uma introdução a &lt;a title=&quot;JSF na Wikipedia&quot; href=&quot;http://pt.wikipedia.org/wiki/JavaServer_Faces&quot; target=&quot;_blank&quot;&gt;Java Server Faces,&lt;/a&gt; visando apresentar aos estudantes todos os passos do desenvolvimento utilizando a especificação padrão de Java para web.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Você encontra aqui o material da palestra, &lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2008/10/jsf.pdf&quot; target=&quot;_blank&quot;&gt;apresentação&lt;/a&gt;, &lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2008/10/LoginJSF.zip&quot;&gt;projeto exemplo&lt;/a&gt; e &lt;a href=&quot;http://www.rsjug.org/wp-content/uploads/2008/10/instrucoes-loginjsf.txt&quot;&gt;instruções&lt;/a&gt; para execução do projeto.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tchelinux em Porto Alegre</title>
+   <link href="https://rsjug.github.io/site/Tchelinux-em-Porto-Alegre.html"/>
+   <updated>2008-10-21T09:32:34+00:00</updated>
+   <id>https://rsjug.github.io/site/Tchelinux-em-Porto-Alegre</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;img/logo-tchelinux.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-98&quot; title=&quot;logo-tchelinux&quot; src=&quot;img/logo-tchelinux.png&quot; alt=&quot;&quot; width=&quot;159&quot; height=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Ocorrerá dia 08 de novembro mais uma edição do Tchelinux, em Porto Alegre. O evento traz uma grade de programação com palestras sobre software livre, mercado de trabalho, desenvolvimento &lt;strong&gt;(inclusive Java!)&lt;/strong&gt;, entre outros temas relacionados. Abaixo, a nota oficial do site do evento:&lt;/p&gt;
+
+&lt;blockquote style=&quot;text-align: justify;&quot;&gt;Evento promovido pelo &lt;a href=&quot;http://www.tchelinux.org/&quot;&gt;Tchelinux&lt;/a&gt; em parceria com a &lt;a href=&quot;http://www.pucrs.br/inf/&quot;&gt;Faculdade de Informática da PUC-RS de Porto Alegre&lt;/a&gt;, com a finalidade de divulgar o Software Livre através de palestras e demonstrações práticas veiculadas de forma gratuita para estudantes e demais interessados.
+
+O temário desta edição será composto por 30 apresentações sobre temas relacionados ao Software Livre. Como já é de costume nos eventos do Tchelinux haverá apresentações para usuários de diferentes níveis de conhecimento e áreas de interesse. Dentre os palestrantes confirmados para esta edição teremos a presença dos Kernel Hackers da RedHat Arnaldo Carvalho Melo, Eduardo Habkost, Luis Claudio Gonçalves, Fábio Olivé Leite e Douglas Landgraf, do membro do Mozilla Brasil Clauber Halic e do desenvolvedor de Software Livre e escritor &lt;a href=&quot;http://www.aurelio.net/&quot;&gt;Aurélio Marinho Jargas&lt;/a&gt;.
+
+As pré-inscrições para as 500 vagas disponíveis estarão abertas a partir do dia 17/10. Não será cobrada inscrição em dinheiro, contudo cada participante deverá doar dois quilogramas de alimentos não perecíveis que serão encaminhados à instituições de caridade.&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Link para inscrições:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a title=&quot;Inscrições Tchelinux - POA&quot; href=&quot;http://www.tchelinux.org/2008/portoalegre/inscricoes.html&quot; target=&quot;_blank&quot;&gt;http://www.tchelinux.org/2008/portoalegre/inscricoes.html&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Identidade Visual do RSJUG</title>
+   <link href="https://rsjug.github.io/site/Identidade-Visual-do-RSJUG.html"/>
+   <updated>2008-10-19T23:20:34+00:00</updated>
+   <id>https://rsjug.github.io/site/Identidade-Visual-do-RSJUG</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Cores oficiais:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/cores-rsjug.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-85&quot; title=&quot;cores-rsjug&quot; src=&quot;img/cores-rsjug.png&quot; alt=&quot;&quot; width=&quot;288&quot; height=&quot;94&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Logo em formato PNG:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Médio (204x87):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/rsjug_logo.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-84&quot; title=&quot;rsjug_logo&quot; src=&quot;img/rsjug_logo.png&quot; alt=&quot;&quot; width=&quot;204&quot; height=&quot;87&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Grande (1387x594):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;img/rsjug_logo-big.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-83&quot; title=&quot;rsjug_logo-big&quot; src=&quot;img/rsjug_logo-big.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;128&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novo site do RSJUG</title>
+   <link href="https://rsjug.github.io/site/Novo-site-do-RSJUG.html"/>
+   <updated>2008-10-19T22:07:34+00:00</updated>
+   <id>https://rsjug.github.io/site/Novo-site-do-RSJUG</id>
+   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;É com muita satisfação que o Grupo de usuários Java do Rio Grande do Sul (RSJUG) anuncia o lançamento do nosso novo site, agora totalmente remodelado para ser um canal de comunicação direto com os membros do grupo de usuários.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;O objetivo é fornecer as novidades do mundo Java em âmbito mundial, informações das atividades do grupo, anúncio de eventos promovidos e apoiados, artigos técnicos, projetos desenvolvidos internamente e pelos componentes das listas, além de ser um local onde podemos disponibilizar vídeos, fotos e material dos eventos realizados.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Estamos às vésperas de mais uma edição do maior evento promovido exclusivamente pelo RSJUG: o &lt;strong&gt;JUGDAY 2008/2&lt;/strong&gt;, que será amplamente divulgado através do novo site, listas de discussão e outros grupos de usuários. Contamos com a presença de todos, para mais uma vez, mobilizar a comunidade para fazer deste evento, mais uma vez, um grande sucesso.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Este espaço é nosso, e dedicado ao debate constante de qualquer assunto relacionado à plataforma Java, por isso, sintam-se à vontade para manifestarem sua opinião com sugestões, críticas, elogios além de contribuição com conteúdo para que nosso novo site se consolide como sendo um pivô para o crescimento e divulgação de nosso grupo de usuários.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Sample Page</title>
    <link href="https://rsjug.github.io/site/sample/"/>
-   <updated>2016-03-20T16:30:00+00:00</updated>
+   <updated>2001-03-20T16:30:00+00:00</updated>
    <id>https://rsjug.github.io/site/sample</id>
    <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
 &lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
@@ -124,48 +1226,6 @@ This is rendered by &lt;a href=&quot;http://asciidoctor.org&quot; target=&quot;_
 &lt;a href=&quot;#_footnoteref_1&quot;&gt;1&lt;/a&gt;. &lt;a href=&quot;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&quot; class=&quot;bare&quot;&gt;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
- </entry>
- 
- <entry>
-   <title>My First Video Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/my-first-video-post.html"/>
-   <updated>2015-08-31T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/my-first-video-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>My First Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/example-post.html"/>
-   <updated>2015-08-31T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/example-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>My First Normal Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/my-first-normal-post.html"/>
-   <updated>2015-08-15T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/my-first-normal-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
  </entry>
  
 
