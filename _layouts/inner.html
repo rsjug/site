@@ -13,7 +13,7 @@
         </div>
     </article>
 
-{% if post.tags or page.tags %}
+{% if post.tags and page.tags != blank %}
 {% include post-tags.html %}
 {% endif %}
 {% include footer.html %}

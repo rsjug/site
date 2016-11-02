@@ -8,10 +8,11 @@ tags:
 - asciidoc
 excerpt: This is a sample page composed in AsciiDoc.
 comments: true
+post_author: rmpestano
 ---
 = Sample Page
 :toc:
-:revdate: 2016-03-20 10:30:00 -0600
+:revdate: 2001-03-20 10:30:00 -0600
 :uri-asciidoctor: http://asciidoctor.org
 
 This is a sample page composed in AsciiDoc.

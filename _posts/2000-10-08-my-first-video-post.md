@@ -1,12 +1,13 @@
 ---
 layout: inner
-title: 'My First Post on Jekyll'
-date: 2015-08-31 13:26:34
+title: 'My First Video Post on Jekyll'
+date: 2010-08-31 13:26:34
 categories: blog development
-tags: cats dogs code
-featured_image: 'http://placekitten.com/1500/1000'
+tags: mars videos
+featured_video_id: ej3ioOneTy8
 lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
 ---
+
 
 Steve Austin: Astronaut. A man barely alive. Gentlemen... we can rebuild him. We have the technology. We have the capability to make the world's first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.
 
