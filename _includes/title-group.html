@@ -26,9 +26,9 @@
     <aside>
         {{ page.date | date: "%d/%m/%Y %H:%M:%S" }}
         {% if page.categories != empty %}
-            &middot;
+            <span style="color:#ddd"> | </span>
             {% for category in page.categories %}
-                <span>{{ category }}</span>
+                <span><a href="/site/categories/#{{category|slugize}}">{{ category }}</a></span>
             {% endfor %}
         {% endif %}
     </aside>

@@ -42,7 +42,7 @@ NOTE: Use `Ruby 2.1` or superior
 gem install bundler
 ----
 +
-TIP: You can skip this step if you want to install gems individually, see https://github.com/rsjug/site/blob/master/Gemfile.xml[required gems here]
+TIP: You can skip this step if you want to install gems individually, see https://github.com/rsjug/site/blob/master/Gemfile[required gems here]
 . Clone the project:
 +
 ----
