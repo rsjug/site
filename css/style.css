@@ -6194,3 +6194,13 @@ body a.navbar-brand {
   width: 200px;
   height: 85px;
   margin-left: 0 !important; }
+  @media only screen and (max-width: 640px) {
+    body a.navbar-brand {
+      background: url("/site/img/logo-mobile.png") no-repeat;
+      padding: 25px 15px !important;
+      width: 130px;
+      height: 50px; } }
+
+@media only screen and (max-width: 640px) {
+  body nav.navbar {
+    height: 55px; } }
