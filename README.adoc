@@ -18,7 +18,8 @@ image:https://travis-ci.org/rsjug/site.svg[Build Status (Travis CI), link=https:
 
 == What's it?
 
-A try to migrate http://www.rsjug.org/[RSJUG site^] to  https://jekyllrb.com/[Jekyll] and github pages.
+A https://jekyllrb.com/[Jekyll] based site for RSJUG site, access it here: http://www.rsjug.org/
+
 
 ==  Features
 
@@ -74,9 +75,7 @@ IMPORTANT: if you get `ERROR: Failed to build gem native extension.`, you need t
 +
 ----
 //ubuntu
-sudo apt-get install libgmp-dev
-//or
-sudo apt-get install libgmp3-dev
+sudo apt-get install libgmp-dev libgmp3-dev
 //fedora
 sudo dnf install rpm-build
 ----
@@ -84,7 +83,7 @@ sudo dnf install rpm-build
 NOTE: output should be:
 +
 ----
-Bundle complete! 7 Gemfile dependencies, 27 gems now installed.
+Bundle complete! 7 Gemfile dependencies, 28 gems now installed.
 Use `bundle show [gemname]` to see where a bundled gem is installed.
 ----
 . Then run Jekyll 

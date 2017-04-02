@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6 { @extend %roboto; }
 }
 nav.navbar {
     margin: 0;
+    height: 90px;
 
     a {
         text-transform: uppercase;
@@ -68,7 +69,7 @@ nav.navbar {
 .title-group {
     text-align: center;
     padding: 0 15px;
-    margin: 70px 0 20px;
+    margin: 105px 0 20px;
 
     p {
         max-width: 800px;
@@ -82,9 +83,9 @@ h1.special {
     margin: 0;
     text-transform: uppercase;
     @extend %roboto;
-    font-size: 50px;
-    line-height: 50px;
-    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 600;
     color: $scotch-primary;
 
     span {
@@ -286,7 +287,7 @@ aside {
     h1.special,
     .tile h2 {
         font-size: 40px;
-        line-height: 44px;
+        line-height: 40px;
     }
 
     .tile .inner-guts {
@@ -325,3 +326,14 @@ aside {
 
 div.post-tags a:hover { color: #31B0D5!important; }
 
+body ul.navbar-right {
+    margin-top: 10px;
+}
+
+body a.navbar-brand {
+    background-size:cover!important;
+    background: url('{{ site.baseurl }}/img/logo-big.png') no-repeat;
+    width: 200px;
+    height: 85px;
+    margin-left: 0!important;
+}
