@@ -320,7 +320,7 @@ aside {
 .archive-item {
   margin-left: 5px;
 }
-.post-tags {	
+.post-tags {
   text-align: right;
 }
 
@@ -336,4 +336,16 @@ body a.navbar-brand {
     width: 200px;
     height: 85px;
     margin-left: 0!important;
+    @media only screen and (max-width : 640px) {
+        background: url('{{ site.baseurl }}/img/logo-mobile.png') no-repeat;
+        padding: 25px 15px!important;
+        width: 130px;
+        height: 50px;
+    }
+}
+
+body nav.navbar {
+    @media only screen and (max-width : 640px) {
+        height: 55px;
+    }
 }
