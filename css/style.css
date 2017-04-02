@@ -5987,7 +5987,7 @@ nav.navbar {
 .title-group {
   text-align: center;
   padding: 0 15px;
-  margin: 105px 0 20px; }
+  margin: 80px 0 20px; }
   .title-group p {
     max-width: 800px;
     margin: 20px auto 0; }
@@ -6151,15 +6151,15 @@ aside {
 
   h1.special,
   .tile h2 {
-    font-size: 40px;
-    line-height: 40px; }
+    font-size: 30px;
+    line-height: 30px; }
 
   .tile .inner-guts {
     padding: 15px 25px; }
 
   .tile .excerpt {
-    font-size: 22px;
-    line-height: 35px; } }
+    font-size: 18px;
+    line-height: 18px; } }
 .tag-cloud {
   list-style: none;
   padding: 0;
