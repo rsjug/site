@@ -6202,8 +6202,26 @@ body a.navbar-brand {
       background: url("/site/img/logo-mobile.png") no-repeat;
       padding: 25px 15px !important;
       width: 130px;
-      height: 50px; } }
+      height: 55px;
+      margin-left: 3px !important; } }
 
 @media only screen and (max-width: 640px) {
   body nav.navbar {
-    height: 55px; } }
+    height: 58px; } }
+
+#scrollTop {
+  display: none;
+  padding-top: 5px;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  width: 34px;
+  height: 34px;
+  color: #eeeeee;
+  line-height: 34px;
+  text-align: center;
+  background-color: #222d32;
+  cursor: pointer;
+  border-radius: 3px;
+  z-index: 99999;
+  opacity: 0.7; }
