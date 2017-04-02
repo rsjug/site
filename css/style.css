@@ -5969,7 +5969,8 @@ a {
   color: #fff; }
 
 nav.navbar {
-  margin: 0; }
+  margin: 0;
+  height: 90px; }
   nav.navbar a {
     text-transform: uppercase;
     font-size: 16px; }
@@ -5986,7 +5987,7 @@ nav.navbar {
 .title-group {
   text-align: center;
   padding: 0 15px;
-  margin: 70px 0 20px; }
+  margin: 105px 0 20px; }
   .title-group p {
     max-width: 800px;
     margin: 20px auto 0; }
@@ -5997,9 +5998,9 @@ h1.special {
   overflow: hidden;
   margin: 0;
   text-transform: uppercase;
-  font-size: 50px;
-  line-height: 50px;
-  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 600;
   color: #ff4545; }
   h1.special span {
     display: inline-block;
@@ -6151,7 +6152,7 @@ aside {
   h1.special,
   .tile h2 {
     font-size: 40px;
-    line-height: 44px; }
+    line-height: 40px; }
 
   .tile .inner-guts {
     padding: 15px 25px; }
@@ -6183,3 +6184,13 @@ aside {
 
 div.post-tags a:hover {
   color: #31B0D5 !important; }
+
+body ul.navbar-right {
+  margin-top: 10px; }
+
+body a.navbar-brand {
+  background-size: cover !important;
+  background: url("/site/img/logo-big.png") no-repeat;
+  width: 200px;
+  height: 85px;
+  margin-left: 0 !important; }
