@@ -390,6 +390,13 @@ body nav.navbar {
   }
 }
 
+nav div.container-fluid {
+  padding-right: 0;
+  @media (max-width: 768px) {
+    padding-right: 15px;
+  }
+}
+
 #scrollTop {
   display: none;
   padding-top: 5px;
