@@ -5988,7 +5988,7 @@ nav.navbar {
   text-align: center;
   padding: 0 15px;
   margin: 105px 0 20px; }
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: 768px) {
     .title-group {
       margin: 85px 0 20px; } }
   .title-group p {
@@ -6148,7 +6148,7 @@ aside {
   pre {
     margin-left: 0;
     margin-right: 0; } }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
   .tile .featurette, .topper {
     height: 300px; }
 
@@ -6197,7 +6197,7 @@ body a.navbar-brand {
   width: 200px;
   height: 85px;
   margin-left: 0 !important; }
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: 768px) {
     body a.navbar-brand {
       background: url("/site/img/logo-mobile.png") no-repeat;
       padding: 25px 15px !important;
@@ -6205,9 +6205,13 @@ body a.navbar-brand {
       height: 55px;
       margin-left: 3px !important; } }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 768px) {
   body nav.navbar {
-    height: 58px; } }
+    height: 60px; } }
+
+@media (max-width: 768px) {
+  .hidden-custom {
+    display: none !important; } }
 
 #scrollTop {
   display: none;
