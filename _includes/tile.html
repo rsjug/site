@@ -1,3 +1,4 @@
+{% assign author = site.data.authors[page.author]} %}
 <div class="tile">
     {% if post.featured_image or post.featured_video_id %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="featurette">
@@ -13,7 +14,10 @@
     <div class="inner-guts">
         <h2 ><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <aside>
-             {{ post.date | date: "%d/%m/%Y" }}
+            {% if author %}
+             <a href="{{author.site}}" target="_blank">{{author.name}}</a> -
+            {% endif %}
+            {{post.date | date: "%d/%m/%Y" }}
             {% if post.categories != empty %}
                 <span style="color:#ddd"> | </span>
                 {% for category in post.categories %}
