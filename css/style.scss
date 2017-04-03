@@ -87,7 +87,7 @@ nav.navbar {
   padding: 0 15px;
   margin: 105px 0 20px;
 
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: $screen-sm) {
     margin: 85px 0 20px;
   }
 
@@ -305,7 +305,7 @@ aside {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: $screen-sm) {
   .tile .featurette, .topper {
     height: 300px;
   }
@@ -368,7 +368,7 @@ body a.navbar-brand {
   width: 200px;
   height: 85px;
   margin-left: 0 !important;
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: $screen-sm) {
     background: url('{{ site.baseurl }}/img/logo-mobile.png') no-repeat;
     padding: 25px 15px !important;
     width: 130px;
@@ -378,8 +378,15 @@ body a.navbar-brand {
 }
 
 body nav.navbar {
-  @media only screen and (max-width: 640px) {
-    height: 58px;
+  @media only screen and (max-width: $screen-sm) {
+    height: 60px;
+  }
+}
+
+
+.hidden-custom {
+  @media (max-width: 768px) {
+    display: none!important;
   }
 }
 
