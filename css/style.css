@@ -6213,6 +6213,12 @@ body a.navbar-brand {
   .hidden-custom {
     display: none !important; } }
 
+nav div.container-fluid {
+  padding-right: 0; }
+  @media (max-width: 768px) {
+    nav div.container-fluid {
+      padding-right: 15px; } }
+
 #scrollTop {
   display: none;
   padding-top: 5px;
