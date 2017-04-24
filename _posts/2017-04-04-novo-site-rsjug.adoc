@@ -1,0 +1,79 @@
+---
+layout: inner
+categories: noticias
+permalink: /novo-site/
+tags:
+- rsjug
+- site
+- lançamento
+excerpt: O RSJug.org está de cara nova!
+comments: true
+post_author: rmpestano
+---
+= Novo site do RSJug
+:toc:
+:revdate: 2017-04-03 09:59:00 -0600
+:uri-rsjug-site: https://rsjug.org
+
+Após quase 3 anos sem posts, o site do *https://rsjug.org[RSJug^]* está de cara nova!
+
+image:posts/2017-04/rsjug.png[]
+
+
+== Melhorias com o novo site
+
+O novo site conta com as seguintes melhorias:
+
+* Roda sob o https://jekyllrb.com/[Jekyll^], uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);
+* Hospedado no github para `facilitar contribuições` e atualizações;
+* Utilização de frameworks modernos como o *Bootstrap* para tornar o site `responsívo` e acessivel em dispositivos móveis;
+* Utilização de linguagem de marcação leves, que focam no conteúdo ao invés da sintáxe, como `Markdown` e `Asciidoc` para criação dos posts;
+* Mecanismo de busca no síte do lado cliente usando http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/[lunr.js^];
+
+IMPORTANT: Os posts antigos foram migrados para o novo site, o código usado para a migração também está https://github.com/rsjug/blog-exporter[disponível no github^].
+
+== Como contribuir para o site
+
+Primeiramente faça um fork do site no https://github.com/rsjug/[github^]. A seguir siga os passos do README para https://github.com/rsjug/site#running-it-locally[subir o site localemente^] assim como https://github.com/rsjug/site#site-anatomy[entender como o site está organizado^].
+
+Após, basta enviar um pull request para iniciar o fluxo de aprovação do github com suas contribuições.
+
+TIP: https://github.com/rsjug/site/issues[Abra uma issue^] antes para discutirmos as possiveis contribuições.
+
+== Criando um novo post
+
+A criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:
+
+*ano*#-#*mes*#-#*dia*#-#*descrição*#.#*extensão*. onde extensão pode ser `md` para posts no formato https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet[Markdown^] ou `adoc` para o formato http://asciidoctor.org/[Asciidoc^].
+
+=== Metatados do post
+
+Os metados de um post no Jekyll são incluídos no inicio do post, delimitados por *trés hifens*. Abaixo seguem exemplo dos principais metadados de um post:
+
+.Metadados de um post em Asciidoc
+----
+---
+layout: inner <1>
+categories: blog development <2>
+permalink: /sample/ <3>
+tags: <4>
+- github
+- jekyll
+- asciidoc
+excerpt: This is a sample page composed in AsciiDoc. <5>
+comments: true
+author: rmpestano
+---
+----
+<1> layout/template padrão para posts
+<2> categorias para agrupamento de posts, podem ser acessadas posteriormente http://rsjug.org/categories/[neste link^].
+<3> Url "amigável" do post (invés do caminho absoluto até o html do post apenas o permalink pode ser usado)
+<4> tags do post. Todas tags podem ser acessadas http://rsjug.org/tags/[neste endereço^].
+<5> Pedaço de texto do post a ser exibido na listagem de posts, antes do usuário entrar no mesmo.
+
+
+=== Exemplos de posts
+
+Todos os posts estão no github https://github.com/rsjug/site/tree/master/_posts[neste caminho^] e podem ser usados como exemplo.
+
+

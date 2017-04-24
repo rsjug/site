@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'My First Video Post on Jekyll'
-date: 2010-08-31 13:26:34
+date: 2000-08-31 13:26:34
 categories: blog development
 tags: mars videos
 featured_video_id: ej3ioOneTy8

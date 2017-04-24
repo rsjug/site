@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'My First Post on Jekyll'
-date: 2010-08-31 13:26:34
+date: 2000-08-31 13:26:34
 categories: blog development
 tags: cats dogs code
 featured_image: 'http://placekitten.com/1500/1000'
