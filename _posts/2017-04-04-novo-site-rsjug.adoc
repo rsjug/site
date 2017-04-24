@@ -50,7 +50,7 @@ A criação de um novo post se dá através da criação de um arquivo na pasta 
 
 Os metados de um post no Jekyll são incluídos no inicio do post, delimitados por *trés hifens*. Abaixo seguem exemplo dos principais metadados de um post:
 
-.Metadados de um post em Asciidoc
+.Metadados de um post
 ----
 ---
 layout: inner <1>
