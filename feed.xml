@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Apr 2017 03:20:20 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2017 03:20:20 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2017 03:26:40 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2017 03:26:40 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -100,7 +100,7 @@ Os posts antigos foram migrados para o novo site, o código usado para a migraç
 &lt;h2 id=&quot;criando_um_novo_post&quot;&gt;Criando um novo post&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;A criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:&lt;/p&gt;
+&lt;p&gt;A criação de um novo post se dá através da criação de um arquivo na pasta &lt;code&gt;posts&lt;/code&gt;, esse arquivo deve seguir a seguinte convenção de nome:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;ano&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;mes&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;dia&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;descrição&lt;/strong&gt;&lt;mark&gt;.&lt;/mark&gt;&lt;strong&gt;extensão&lt;/strong&gt;. onde extensão pode ser &lt;code&gt;md&lt;/code&gt; para posts no formato &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot; target=&quot;_blank&quot;&gt;Markdown&lt;/a&gt; ou &lt;code&gt;adoc&lt;/code&gt; para o formato &lt;a href=&quot;http://asciidoctor.org/&quot; target=&quot;_blank&quot;&gt;Asciidoc&lt;/a&gt;.&lt;/p&gt;
