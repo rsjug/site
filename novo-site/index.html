@@ -35,7 +35,7 @@
                                   |  $$$$$$/
                                    \______/
     -->
-    <title>My First Post on Jekyll - RSJUG</title>
+    <title>Novo site do RSJug - RSJUG</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -124,39 +124,29 @@
 
 
     
-    <div class="topper">
-        
-        <span class="img" style="background-image: url('http://placekitten.com/1500/1000');"> </span>
-        
-
-        
-    </div>
-
 
 <div class="title-group">
     <h1 class="special">
         <span>
         
-            My First Post on Jekyll
+            Novo site do RSJug
         
         </span>
     </h1>
     
     <aside>
-        31/08/2000 13:26:34
+        03/04/2017 15:59:00
         
             <span style="color:#ddd"> | </span>
             
-                <span><a href="/site/categories/#blog">blog</a></span>
-            
-                <span><a href="/site/categories/#development">development</a></span>
+                <span><a href="/site/categories/#noticias">noticias</a></span>
             
         
     </aside>
     
     <p class="lead" style="display: none">
         
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.
+            Grupo de Usuários Java do Rio Grande do Sul
         
     </p>
 
@@ -168,15 +158,188 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
-                    <p>Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.</p>
-
-<p>My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!</p>
-
-<p>Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.</p>
-
-
+                    <div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#melhorias_com_o_novo_site">Melhorias com o novo site</a></li>
+<li><a href="#como_contribuir_para_o_site">Como contribuir para o site</a></li>
+<li><a href="#criando_um_novo_post">Criando um novo post</a>
+<ul class="sectlevel2">
+<li><a href="#metatados_do_post">Metatados do post</a></li>
+<li><a href="#exemplos_de_posts">Exemplos de posts</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Após quase 3 anos sem posts, o site do <strong><a href="https://rsjug.org" target="_blank">RSJug</a></strong> está de cara nova!</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><img src="/site/img/posts/2017-04/rsjug.png" alt="rsjug"></span></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="melhorias_com_o_novo_site">Melhorias com o novo site</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>O novo site conta com as seguintes melhorias:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Roda sob o <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);</p>
+</li>
+<li>
+<p>Hospedado no github para <code>facilitar contribuições</code> e atualizações;</p>
+</li>
+<li>
+<p>Utilização de frameworks modernos como o <strong>Bootstrap</strong> para tornar o site <code>responsívo</code> e acessivel em dispositivos móveis;</p>
+</li>
+<li>
+<p>Utilização de linguagem de marcação leves, que focam no conteúdo ao invés da sintáxe, como <code>Markdown</code> e <code>Asciidoc</code> para criação dos posts;</p>
+</li>
+<li>
+<p>Mecanismo de busca no síte do lado cliente usando <a href="http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/" target="_blank">lunr.js</a>;</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Os posts antigos foram migrados para o novo site, o código usado para a migração também está <a href="https://github.com/rsjug/blog-exporter" target="_blank">disponível no github</a>.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="como_contribuir_para_o_site">Como contribuir para o site</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Primeiramente faça um fork do site no <a href="https://github.com/rsjug/" target="_blank">github</a>. A seguir siga os passos do README para <a href="https://github.com/rsjug/site#running-it-locally" target="_blank">subir o site localemente</a> assim como <a href="https://github.com/rsjug/site#site-anatomy" target="_blank">entender como o site está organizado</a>.</p>
+</div>
+<div class="paragraph">
+<p>Após, basta enviar um pull request para iniciar o fluxo de aprovação do github com suas contribuições.</p>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+<a href="https://github.com/rsjug/site/issues" target="_blank">Abra uma issue</a> antes para discutirmos as possiveis contribuições.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="criando_um_novo_post">Criando um novo post</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>A criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:</p>
+</div>
+<div class="paragraph">
+<p><strong>ano</strong><mark>-</mark><strong>mes</strong><mark>-</mark><strong>dia</strong><mark>-</mark><strong>descrição</strong><mark>.</mark><strong>extensão</strong>. onde extensão pode ser <code>md</code> para posts no formato <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a> ou <code>adoc</code> para o formato <a href="http://asciidoctor.org/" target="_blank">Asciidoc</a>.</p>
+</div>
+<div class="sect2">
+<h3 id="metatados_do_post">Metatados do post</h3>
+<div class="paragraph">
+<p>Os metados de um post no Jekyll são incluídos no inicio do post, delimitados por <strong>trés hifens</strong>. Abaixo seguem exemplo dos principais metadados de um post:</p>
+</div>
+<div class="listingblock">
+<div class="title">Metadados de um post em Asciidoc</div>
+<div class="content">
+<pre>---
+layout: inner <i class="conum" data-value="1"></i><b>(1)</b>
+categories: blog development <i class="conum" data-value="2"></i><b>(2)</b>
+permalink: /sample/ <i class="conum" data-value="3"></i><b>(3)</b>
+tags: <i class="conum" data-value="4"></i><b>(4)</b>
+- github
+- jekyll
+- asciidoc
+excerpt: This is a sample page composed in AsciiDoc. <i class="conum" data-value="5"></i><b>(5)</b>
+comments: true
+author: rmpestano
+---</pre>
+</div>
+</div>
+<div class="colist arabic">
+<table>
+<tr>
+<td><i class="conum" data-value="1"></i><b>1</b></td>
+<td>layout/template padrão para posts</td>
+</tr>
+<tr>
+<td><i class="conum" data-value="2"></i><b>2</b></td>
+<td>categorias para agrupamento de posts, podem ser acessadas posteriormente <a href="http://rsjug.org/categories/" target="_blank">neste link</a>.</td>
+</tr>
+<tr>
+<td><i class="conum" data-value="3"></i><b>3</b></td>
+<td>Url "amigável" do post (invés do caminho absoluto até o html do post apenas o permalink pode ser usado)</td>
+</tr>
+<tr>
+<td><i class="conum" data-value="4"></i><b>4</b></td>
+<td>tags do post. Todas tags podem ser acessadas <a href="http://rsjug.org/tags/" target="_blank">neste endereço</a>.</td>
+</tr>
+<tr>
+<td><i class="conum" data-value="5"></i><b>5</b></td>
+<td>Pedaço de texto do post a ser exibido na listagem de posts, antes do usuário entrar no mesmo.</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sect2">
+<h3 id="exemplos_de_posts">Exemplos de posts</h3>
+<div class="paragraph">
+<p>Todos os posts estão no github <a href="https://github.com/rsjug/site/tree/master/_posts" target="_blank">neste caminho</a> e podem ser usados como exemplo.</p>
+</div>
+</div>
+</div>
+</div>
                 </div>
 	   	
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'rsjug'; // required: replace example with your forum shortname
+    //var disqus_developer = 1; // Comment out when the site is live
+    var disqus_identifier = "/novo-site/";
+
+    /* * * embed.js * * */
+    (function () {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * count.js * * */
+    (function () {
+        var s = document.createElement('script');
+        s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
 
             </div>
 	
@@ -188,11 +351,11 @@
   Tags:
   
   
-  <a href="/site/tags/#cats">cats<span style="color:#ddd"> | </span></a>
+  <a href="/site/tags/#rsjug">rsjug<span style="color:#ddd"> | </span></a>
   
-  <a href="/site/tags/#dogs">dogs<span style="color:#ddd"> | </span></a>
+  <a href="/site/tags/#site">site<span style="color:#ddd"> | </span></a>
   
-  <a href="/site/tags/#code">code
+  <a href="/site/tags/#lançamento">lançamento
   
 </div>
 

@@ -4,13 +4,169 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2017-04-03T12:58:11+00:00</updated>
+ <updated>2017-04-24T03:20:20+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Novo site do RSJug</title>
+   <link href="https://rsjug.github.io/site/novo-site/"/>
+   <updated>2017-04-03T15:59:00+00:00</updated>
+   <id>https://rsjug.github.io/site/novo-site-rsjug</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#melhorias_com_o_novo_site&quot;&gt;Melhorias com o novo site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#como_contribuir_para_o_site&quot;&gt;Como contribuir para o site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#criando_um_novo_post&quot;&gt;Criando um novo post&lt;/a&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#metatados_do_post&quot;&gt;Metatados do post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#exemplos_de_posts&quot;&gt;Exemplos de posts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Após quase 3 anos sem posts, o site do &lt;strong&gt;&lt;a href=&quot;https://rsjug.org&quot; target=&quot;_blank&quot;&gt;RSJug&lt;/a&gt;&lt;/strong&gt; está de cara nova!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-04/rsjug.png&quot; alt=&quot;rsjug&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;melhorias_com_o_novo_site&quot;&gt;Melhorias com o novo site&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O novo site conta com as seguintes melhorias:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Roda sob o &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;, uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hospedado no github para &lt;code&gt;facilitar contribuições&lt;/code&gt; e atualizações;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utilização de frameworks modernos como o &lt;strong&gt;Bootstrap&lt;/strong&gt; para tornar o site &lt;code&gt;responsívo&lt;/code&gt; e acessivel em dispositivos móveis;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utilização de linguagem de marcação leves, que focam no conteúdo ao invés da sintáxe, como &lt;code&gt;Markdown&lt;/code&gt; e &lt;code&gt;Asciidoc&lt;/code&gt; para criação dos posts;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mecanismo de busca no síte do lado cliente usando &lt;a href=&quot;http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/&quot; target=&quot;_blank&quot;&gt;lunr.js&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock important&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;i class=&quot;fa icon-important&quot; title=&quot;Important&quot;&gt;&lt;/i&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+Os posts antigos foram migrados para o novo site, o código usado para a migração também está &lt;a href=&quot;https://github.com/rsjug/blog-exporter&quot; target=&quot;_blank&quot;&gt;disponível no github&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;como_contribuir_para_o_site&quot;&gt;Como contribuir para o site&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Primeiramente faça um fork do site no &lt;a href=&quot;https://github.com/rsjug/&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;. A seguir siga os passos do README para &lt;a href=&quot;https://github.com/rsjug/site#running-it-locally&quot; target=&quot;_blank&quot;&gt;subir o site localemente&lt;/a&gt; assim como &lt;a href=&quot;https://github.com/rsjug/site#site-anatomy&quot; target=&quot;_blank&quot;&gt;entender como o site está organizado&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Após, basta enviar um pull request para iniciar o fluxo de aprovação do github com suas contribuições.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock tip&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;i class=&quot;fa icon-tip&quot; title=&quot;Tip&quot;&gt;&lt;/i&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+&lt;a href=&quot;https://github.com/rsjug/site/issues&quot; target=&quot;_blank&quot;&gt;Abra uma issue&lt;/a&gt; antes para discutirmos as possiveis contribuições.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;criando_um_novo_post&quot;&gt;Criando um novo post&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;ano&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;mes&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;dia&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;descrição&lt;/strong&gt;&lt;mark&gt;.&lt;/mark&gt;&lt;strong&gt;extensão&lt;/strong&gt;. onde extensão pode ser &lt;code&gt;md&lt;/code&gt; para posts no formato &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot; target=&quot;_blank&quot;&gt;Markdown&lt;/a&gt; ou &lt;code&gt;adoc&lt;/code&gt; para o formato &lt;a href=&quot;http://asciidoctor.org/&quot; target=&quot;_blank&quot;&gt;Asciidoc&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;metatados_do_post&quot;&gt;Metatados do post&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Os metados de um post no Jekyll são incluídos no inicio do post, delimitados por &lt;strong&gt;trés hifens&lt;/strong&gt;. Abaixo seguem exemplo dos principais metadados de um post:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Metadados de um post em Asciidoc&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;---
+layout: inner &lt;i class=&quot;conum&quot; data-value=&quot;1&quot;&gt;&lt;/i&gt;&lt;b&gt;(1)&lt;/b&gt;
+categories: blog development &lt;i class=&quot;conum&quot; data-value=&quot;2&quot;&gt;&lt;/i&gt;&lt;b&gt;(2)&lt;/b&gt;
+permalink: /sample/ &lt;i class=&quot;conum&quot; data-value=&quot;3&quot;&gt;&lt;/i&gt;&lt;b&gt;(3)&lt;/b&gt;
+tags: &lt;i class=&quot;conum&quot; data-value=&quot;4&quot;&gt;&lt;/i&gt;&lt;b&gt;(4)&lt;/b&gt;
+- github
+- jekyll
+- asciidoc
+excerpt: This is a sample page composed in AsciiDoc. &lt;i class=&quot;conum&quot; data-value=&quot;5&quot;&gt;&lt;/i&gt;&lt;b&gt;(5)&lt;/b&gt;
+comments: true
+author: rmpestano
+---&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;colist arabic&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;1&quot;&gt;&lt;/i&gt;&lt;b&gt;1&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;layout/template padrão para posts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;2&quot;&gt;&lt;/i&gt;&lt;b&gt;2&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;categorias para agrupamento de posts, podem ser acessadas posteriormente &lt;a href=&quot;http://rsjug.org/categories/&quot; target=&quot;_blank&quot;&gt;neste link&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;3&quot;&gt;&lt;/i&gt;&lt;b&gt;3&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;Url &quot;amigável&quot; do post (invés do caminho absoluto até o html do post apenas o permalink pode ser usado)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;4&quot;&gt;&lt;/i&gt;&lt;b&gt;4&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;tags do post. Todas tags podem ser acessadas &lt;a href=&quot;http://rsjug.org/tags/&quot; target=&quot;_blank&quot;&gt;neste endereço&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;5&quot;&gt;&lt;/i&gt;&lt;b&gt;5&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;Pedaço de texto do post a ser exibido na listagem de posts, antes do usuário entrar no mesmo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;exemplos_de_posts&quot;&gt;Exemplos de posts&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Todos os posts estão no github &lt;a href=&quot;https://github.com/rsjug/site/tree/master/_posts&quot; target=&quot;_blank&quot;&gt;neste caminho&lt;/a&gt; e podem ser usados como exemplo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title>Evento do RSJUG 30/janeiro/2014! Construindo uma DSL com Java e ANTLR</title>
@@ -250,48 +406,6 @@ Necessária experiência em programação Java (backend), My SQL, Linux, Shell S
 	&lt;li&gt;Inscrição ? &lt;a href=&quot;https://spreadsheets.google.com/viewform?hl=pt_BR&amp;#38;formkey=dDhiVnhybldsZHFoZVhxQUJ1UWNrVXc6MQ#gid=0&quot; target=&quot;_blank&quot;&gt;Gratuita, porém necessária (faça a inscrição clicando aqui)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>My First Video Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/my-first-video-post.html"/>
-   <updated>2010-08-31T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/my-first-video-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>My First Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/example-post.html"/>
-   <updated>2010-08-31T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/example-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>My First Normal Post on Jekyll</title>
-   <link href="https://rsjug.github.io/site/my-first-normal-post.html"/>
-   <updated>2010-08-15T13:26:34+00:00</updated>
-   <id>https://rsjug.github.io/site/my-first-normal-post</id>
-   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -1226,6 +1340,48 @@ This is rendered by &lt;a href=&quot;http://asciidoctor.org&quot; target=&quot;_
 &lt;a href=&quot;#_footnoteref_1&quot;&gt;1&lt;/a&gt;. &lt;a href=&quot;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&quot; class=&quot;bare&quot;&gt;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Video Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/my-first-video-post.html"/>
+   <updated>2000-08-31T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/my-first-video-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/example-post.html"/>
+   <updated>2000-08-31T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/example-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Normal Post on Jekyll</title>
+   <link href="https://rsjug.github.io/site/my-first-normal-post.html"/>
+   <updated>2000-08-15T13:26:34+00:00</updated>
+   <id>https://rsjug.github.io/site/my-first-normal-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
  </entry>
  
 

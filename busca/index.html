@@ -160,6 +160,15 @@
 <script>
     window.store = {
     
+        "novo-site": {
+        "title": "Novo site do RSJug",
+                "author": "",
+                "category": "",
+                "content": "Table of ContentsMelhorias com o novo siteComo contribuir para o siteCriando um novo postMetatados do postExemplos de postsApós quase 3 anos sem posts, o site do RSJug está de cara nova!Melhorias com o novo siteO novo site conta com as seguintes melhorias:Roda sob o Jekyll, uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);Hospedado no github para facilitar contribuições e atualizações;Utilização de frameworks modernos como o Bootstrap para tornar o site responsívo e acessivel em dispositivos móveis;Utilização de linguagem de marcação leves, que focam no conteúdo ao invés da sintáxe, como Markdown e Asciidoc para criação dos posts;Mecanismo de busca no síte do lado cliente usando lunr.js;Os posts antigos foram migrados para o novo site, o código usado para a migração também está disponível no github.Como contribuir para o sitePrimeiramente faça um fork do site no github. A seguir siga os passos do README para subir o site localemente assim como entender como o site está organizado.Após, basta enviar um pull request para iniciar o fluxo de aprovação do github com suas contribuições.Abra uma issue antes para discutirmos as possiveis contribuições.Criando um novo postA criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:ano-mes-dia-descrição.extensão. onde extensão pode ser md para posts no formato Markdown ou adoc para o formato Asciidoc.Metatados do postOs metados de um post no Jekyll são incluídos no inicio do post, delimitados por trés hifens. Abaixo seguem exemplo dos principais metadados de um post:Metadados de um post em Asciidoc---layout: inner (1)categories: blog development (2)permalink: /sample/ (3)tags: (4)- github- jekyll- asciidocexcerpt: This is a sample page composed in AsciiDoc. (5)comments: trueauthor: rmpestano---1layout/template padrão para posts2categorias para agrupamento de posts, podem ser acessadas posteriormente neste link.3Url \"amigável\" do post (invés do caminho absoluto até o html do post apenas o permalink pode ser usado)4tags do post. Todas tags podem ser acessadas neste endereço.5Pedaço de texto do post a ser exibido na listagem de posts, antes do usuário entrar no mesmo.Exemplos de postsTodos os posts estão no github neste caminho e podem ser usados como exemplo.",
+        "url": "/novo-site/"
+    }
+        ,
+        
         "evento-do-rsjug-30-janeiro-2014-construindo-uma-dsl-com-java-e-antlr-html": {
         "title": "Evento do RSJUG 30/janeiro/2014! Construindo uma DSL com Java e ANTLR",
                 "author": "",
@@ -265,33 +274,6 @@
                 "category": "",
                 "content": "O Dia da Liberdade de software (ou Freedom Software Day em inglês) é um dia comemorado todos anos, em diversas nações, para celebrar o software livre e sistemas livres/de código aberto.Oficialmente o SFD2010 vai ocorrer em diversas cidades do mundo, dia 18 de setembro. Específicamente em Porto Alegre e demais cidades do RS o evento será realizado dia 25 de setembro devido ao feriadão do 20 de setembro.A grade conta com diversos temas relacionados a software livre, incluindo algumas de desenvolvimento de software, especificamente Java, Python e Ruby.Resumindo:\tO que ? Software Freedom Day 2010 – Ed. Porto Alegre\tQuando ? 25 de setembro de 2010, das 13:30 até 18h\tOnde ? SindBancários, Rua General Câmara, 424\tGrade ? http://bit.ly/bxOteo\tInscrição ? Gratuita, porém necessária (faça a inscrição clicando aqui)",
         "url": "/Software-Freedom-Day-2010-Porto-Alegre.html"
-    }
-        ,
-        
-        "my-first-video-post-html": {
-        "title": "My First Video Post on Jekyll",
-                "author": "",
-                "category": "",
-                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
-        "url": "/my-first-video-post.html"
-    }
-        ,
-        
-        "example-post-html": {
-        "title": "My First Post on Jekyll",
-                "author": "",
-                "category": "",
-                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
-        "url": "/example-post.html"
-    }
-        ,
-        
-        "my-first-normal-post-html": {
-        "title": "My First Normal Post on Jekyll",
-                "author": "",
-                "category": "",
-                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
-        "url": "/my-first-normal-post.html"
     }
         ,
         
@@ -666,10 +648,37 @@
         
         "sample": {
         "title": "Sample Page",
-                "author": "rmpestano",
+                "author": "",
                 "category": "",
                 "content": "Table of ContentsFirst SectionA sub SectionSecond sectionThis is a sample page composed in AsciiDoc.Jekyll converts it to HTML using Asciidoctor.First Sectionitem 1item 2  123  public static main(String[] args) {        System.out::println(&quot;Hello Jekyll&quot;); (1)}1prints to output consoleThis is rendered by Asciidoctor.A sub SectionSubsection content.Second sectionAnother section with bold and italics and nested lists:List item 1List item 1.1List item 2More details see Asciidoctor quick syntax reference[1] or Asciidoctor user manual.1. http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/",
         "url": "/sample/"
+    }
+        ,
+        
+        "my-first-video-post-html": {
+        "title": "My First Video Post on Jekyll",
+                "author": "",
+                "category": "",
+                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
+        "url": "/my-first-video-post.html"
+    }
+        ,
+        
+        "example-post-html": {
+        "title": "My First Post on Jekyll",
+                "author": "",
+                "category": "",
+                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
+        "url": "/example-post.html"
+    }
+        ,
+        
+        "my-first-normal-post-html": {
+        "title": "My First Normal Post on Jekyll",
+                "author": "",
+                "category": "",
+                "content": "Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.",
+        "url": "/my-first-normal-post.html"
     }
         
         
