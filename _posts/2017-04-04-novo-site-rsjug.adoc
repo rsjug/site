@@ -42,7 +42,7 @@ TIP: https://github.com/rsjug/site/issues[Abra uma issue^] antes para discutirmo
 
 == Criando um novo post
 
-A criação de um novo post se dá através da criação de um arquivo na pasta posts, esse arquivo deve seguir a seguinte convenção de nome:
+A criação de um novo post se dá através da criação de um arquivo na pasta `posts`, esse arquivo deve seguir a seguinte convenção de nome:
 
 *ano*#-#*mes*#-#*dia*#-#*descrição*#.#*extensão*. onde extensão pode ser `md` para posts no formato https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet[Markdown^] ou `adoc` para o formato http://asciidoctor.org/[Asciidoc^].
 
