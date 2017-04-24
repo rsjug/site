@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Apr 2017 03:26:40 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2017 03:26:40 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2017 03:27:06 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2017 03:27:06 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -111,7 +111,7 @@ Os posts antigos foram migrados para o novo site, o código usado para a migraç
 &lt;p&gt;Os metados de um post no Jekyll são incluídos no inicio do post, delimitados por &lt;strong&gt;trés hifens&lt;/strong&gt;. Abaixo seguem exemplo dos principais metadados de um post:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;listingblock&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;Metadados de um post em Asciidoc&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;Metadados de um post&lt;/div&gt;
 &lt;div class=&quot;content&quot;&gt;
 &lt;pre&gt;---
 layout: inner &lt;i class=&quot;conum&quot; data-value=&quot;1&quot;&gt;&lt;/i&gt;&lt;b&gt;(1)&lt;/b&gt;
