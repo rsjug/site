@@ -38,7 +38,7 @@ image:posts/2017-05/20170520-encontro.png[]
 
 === TDC Floripa - Overview da Trilha Java
 
-Será mostra um overview geral do que acontecerá na http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java[Trilha Java do TDC Floripa^]. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!
+Será mostrado um overview geral do que acontecerá na http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java[Trilha Java do TDC Floripa^]. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!
 
 *Alexandre* é programador, apaixonado pelo que faz trabalha a mais de 13 anos com desenvolvimento de software atuando nos setores de gestão da cadeia logística (supply chain), mercado de capitais e automação. Hoje seu foco de estudos está direcionado para as metodologias TDD, DDD e Refactoring +
 https://www.linkedin.com/in/alexandre-rodrigues-35788ba5/
