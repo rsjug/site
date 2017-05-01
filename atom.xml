@@ -4,13 +4,104 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2017-04-24T03:27:06+00:00</updated>
+ <updated>2017-05-01T23:47:25+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>20 de Maio - <strong>Encontro RSJUG</strong></title>
+   <link href="https://rsjug.github.io/site/encontro-maio-2017/"/>
+   <updated>2017-05-01T23:40:00+00:00</updated>
+   <id>https://rsjug.github.io/site/encontro-rsjug-de-maio</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O próximo encontro da RSJUG já está confirmado, veja abaixo da data e o endereço!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; 20/05/2017&lt;br&gt;
+&lt;strong&gt;Hora:&lt;/strong&gt; 8:45 às 12:30&lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; &lt;a href=&quot;http://www.sucesurs.org.br/local/pucrsfacin-predio-32sala-517&quot; target=&quot;_blank&quot;&gt;PUCRS/FACIN - Prédio 32/Sala 517&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Neste novo encontro iremos falar um pouco sobre o que aconteceu na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;, e além disso teremos mais 3 palestras com o tema de microserviços em Java.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! &lt;strong&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-maio2017&quot; target=&quot;_blank&quot;&gt;Inscreva-se aqui!&lt;/a&gt;&lt;/strong&gt; Convidem seus amigos, colegas de trabalho e de faculdade! Vamos participar e ajudar a divulgar, esse evento é feito para vocês e por vocês!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-05/20170520-encontro.png&quot; alt=&quot;20170520 encontro&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Será mostrado um overview geral do que acontecerá na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Alexandre&lt;/strong&gt; é programador, apaixonado pelo que faz trabalha a mais de 13 anos com desenvolvimento de software atuando nos setores de gestão da cadeia logística (supply chain), mercado de capitais e automação. Hoje seu foco de estudos está direcionado para as metodologias TDD, DDD e Refactoring&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/alexandre-rodrigues-35788ba5/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/alexandre-rodrigues-35788ba5/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Thiago&lt;/strong&gt; desde os 13 anos imerso em desenvolvimento de software de Artesão de Software a Engenheiro de Software, andando entre diversas tecnologias e paradigmas de software, Gerente de projetos de Software, Garantia da Qualidade de Software, Java &amp;amp; Scala Developer, aprendiz em Big Data e Data Science, com Apache Spark e Apache Hadoop.
+Vintage Oracle Forms, Reports e PL/SQL Developer.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/thiago-marques-da-silva-74499622/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/thiago-marques-da-silva-74499622/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Jonathan&lt;/strong&gt; é desenvolvedor de software a 8 anos. Trabalhou em projetos da área financeira. Admirador de boas práticas e metodologias ágeis e leitor assíduo sobre tecnologias e tendências novas de mercado. Participante ativo de grupos de usuários Java. Ministrou cursos e palestras sobre tecnologia Java. Atualmente coordenador do Grupo de Usuários Java do Rio Grande do Sul (RSJUG).&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/jsouzasantos/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/jsouzasantos/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Bruno&lt;/strong&gt; é admirador do desenvolvimento de software e metodologias ágeis. Trabalhando a cerca de 10 anos como desenvolvedor, também é entusiasta de comunidades de desenvolvedores de sistemas, atuando como coordenador dos grupos JavaSF International Group (JavaSF) e Grupo de Usuários Java do Rio Grande do Sul (RSJUG).&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/brunomaomeh/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/brunomaomeh/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Mateus&lt;/strong&gt; é formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS). Tem experiência de dez anos na área. Certificado pela Oracle Corporation na plataforma Java como programador (OCJP) e também Java EE 6 Enterprise JavaBeans Developer (OCEEJBD). Desenvolvedor Java/JEE na DBServer.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/mateuscosta1987/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/mateuscosta1987/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Alison&lt;/strong&gt; é Bacharel em Ciência da Computação (UPF), atua há mais de 8 anos no mercado de tecnologia. Trabalha com desenvolvimento de software e praticante de testes automatizados e integração contínua com Java, além de ser praticante de Scrum e Kanban.
+Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title>Novo site do RSJug</title>
