@@ -1,0 +1,79 @@
+---
+layout: inner
+categories: eventos	
+permalink: /encontro-maio-2017/
+tags:
+- rsjug
+- evento
+- tdc
+- tdcfloripa
+- tdcflorianopolis
+- microservices
+- microservicos
+- swarm
+- wildfly
+- wildflyswarm
+- netflix
+excerpt: O próximo encontro da RSJUG já tem data e hora marcada!
+comments: true
+post_author: brunomaomeh
+---
+= 20 de Maio - *Encontro RSJUG* 
+:toc:
+:revdate: 2017-05-01 17:40:00 -0600
+:uri-rsjug-site: https://rsjug.org
+
+O próximo encontro da RSJUG já está confirmado, veja abaixo da data e o endereço!
+
+*Data:* 20/05/2017 +
+*Hora:* 8:45 às 12:30 +
+*Local:* http://www.sucesurs.org.br/local/pucrsfacin-predio-32sala-517[PUCRS/FACIN - Prédio 32/Sala 517^] 
+
+Neste novo encontro iremos falar um pouco sobre o que aconteceu na http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java[Trilha Java do TDC Floripa^], e além disso teremos mais 3 palestras com o tema de microserviços em Java.
+
+As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! *http://www.sucesurs.org.br/evento/encontro-rsjug-maio2017[Inscreva-se aqui!^]* Convidem seus amigos, colegas de trabalho e de faculdade! Vamos participar e ajudar a divulgar, esse evento é feito para vocês e por vocês!
+
+image:posts/2017-05/20170520-encontro.png[]
+
+
+=== TDC Floripa - Overview da Trilha Java
+
+Será mostra um overview geral do que acontecerá na http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java[Trilha Java do TDC Floripa^]. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!
+
+*Alexandre* é programador, apaixonado pelo que faz trabalha a mais de 13 anos com desenvolvimento de software atuando nos setores de gestão da cadeia logística (supply chain), mercado de capitais e automação. Hoje seu foco de estudos está direcionado para as metodologias TDD, DDD e Refactoring +
+https://www.linkedin.com/in/alexandre-rodrigues-35788ba5/
+
+*Thiago* desde os 13 anos imerso em desenvolvimento de software de Artesão de Software a Engenheiro de Software, andando entre diversas tecnologias e paradigmas de software, Gerente de projetos de Software, Garantia da Qualidade de Software, Java & Scala Developer, aprendiz em Big Data e Data Science, com Apache Spark e Apache Hadoop.
+Vintage Oracle Forms, Reports e PL/SQL Developer. +
+https://www.linkedin.com/in/thiago-marques-da-silva-74499622/
+
+*Jonathan* é desenvolvedor de software a 8 anos. Trabalhou em projetos da área financeira. Admirador de boas práticas e metodologias ágeis e leitor assíduo sobre tecnologias e tendências novas de mercado. Participante ativo de grupos de usuários Java. Ministrou cursos e palestras sobre tecnologia Java. Atualmente coordenador do Grupo de Usuários Java do Rio Grande do Sul (RSJUG). +
+https://www.linkedin.com/in/jsouzasantos/
+
+*Bruno* é admirador do desenvolvimento de software e metodologias ágeis. Trabalhando a cerca de 10 anos como desenvolvedor, também é entusiasta de comunidades de desenvolvedores de sistemas, atuando como coordenador dos grupos JavaSF International Group (JavaSF) e Grupo de Usuários Java do Rio Grande do Sul (RSJUG). +
+https://www.linkedin.com/in/brunomaomeh/
+
+
+=== Wildfly Swarm
+
+Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.
+
+*Mateus* é formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS). Tem experiência de dez anos na área. Certificado pela Oracle Corporation na plataforma Java como programador (OCJP) e também Java EE 6 Enterprise JavaBeans Developer (OCEEJBD). Desenvolvedor Java/JEE na DBServer. +
+https://www.linkedin.com/in/mateuscosta1987/
+
+
+=== Introdução a microservices, como começar.
+
+Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.
+
+*Alison* é Bacharel em Ciência da Computação (UPF), atua há mais de 8 anos no mercado de tecnologia. Trabalha com desenvolvimento de software e praticante de testes automatizados e integração contínua com Java, além de ser praticante de Scrum e Kanban. 
+Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA +
+https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/
+
+
+=== Plataforma de microserviços da NetFlix
+
+Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.
+
+*Cristiano* é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra. +
+https://www.linkedin.com/in/crisaltmann/
