@@ -36,7 +36,7 @@ As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! *http:
 image:posts/2017-05/20170520-encontro.png[]
 
 
-=== TDC Floripa - Overview da Trilha Java
+== TDC Floripa - Overview da Trilha Java
 
 Será mostrado um overview geral do que acontecerá na http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java[Trilha Java do TDC Floripa^]. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!
 
@@ -54,7 +54,7 @@ https://www.linkedin.com/in/jsouzasantos/
 https://www.linkedin.com/in/brunomaomeh/
 
 
-=== Wildfly Swarm
+== Wildfly Swarm
 
 Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.
 
@@ -62,7 +62,7 @@ Apresentando o Wildfly Swarm, suas principais características, e construindo um
 https://www.linkedin.com/in/mateuscosta1987/
 
 
-=== Introdução a microservices, como começar.
+== Introdução a microservices, como começar.
 
 Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.
 
@@ -71,7 +71,7 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA +
 https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/
 
 
-=== Plataforma de microserviços da NetFlix
+== Plataforma de microserviços da NetFlix
 
 Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.
 
