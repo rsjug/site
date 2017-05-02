@@ -33,7 +33,7 @@ Neste novo encontro iremos falar um pouco sobre o que aconteceu na http://www.th
 
 As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! *http://www.sucesurs.org.br/evento/encontro-rsjug-maio2017[Inscreva-se aqui!^]* Convidem seus amigos, colegas de trabalho e de faculdade! Vamos participar e ajudar a divulgar, esse evento é feito para vocês e por vocês!
 
-image:posts/2017-05/20170520-encontro.png[]
+image:posts/2017-05/20170520-encontro-new.png[]
 
 
 == TDC Floripa - Overview da Trilha Java
