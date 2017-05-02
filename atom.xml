@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2017-05-01T23:47:25+00:00</updated>
+ <updated>2017-05-02T12:16:47+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -19,7 +19,7 @@
    <id>https://rsjug.github.io/site/encontro-rsjug-de-maio</id>
    <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
 &lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
-&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/a&gt;&lt;/li&gt;
@@ -47,8 +47,9 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/h3&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Será mostrado um overview geral do que acontecerá na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!&lt;/p&gt;
 &lt;/div&gt;
@@ -70,8 +71,10 @@ Vintage Oracle Forms, Reports e PL/SQL Developer.&lt;br&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/brunomaomeh/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/brunomaomeh/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.&lt;/p&gt;
 &lt;/div&gt;
@@ -80,8 +83,10 @@ Vintage Oracle Forms, Reports e PL/SQL Developer.&lt;br&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/mateuscosta1987/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/mateuscosta1987/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.&lt;/p&gt;
 &lt;/div&gt;
@@ -91,14 +96,17 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&
 &lt;a href=&quot;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
  </entry>
