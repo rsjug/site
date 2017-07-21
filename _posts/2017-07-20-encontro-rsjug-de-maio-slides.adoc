@@ -1,0 +1,73 @@
+---
+layout: inner
+categories: eventos	
+permalink: /encontro-maio-2017-slides/
+tags:
+- rsjug
+- evento
+- slides
+- tdc
+- tdcfloripa
+- tdcflorianopolis
+- microservices
+- microservicos
+- swarm
+- wildfly
+- wildflyswarm
+- netflix
+excerpt: Slides do último encontro da RSJUG
+comments: true
+post_author: brunomaomeh
+---
+= Slides do último *Encontro da RSJUG* 
+:toc:
+:revdate: 2017-07-20 18:55:00 -0600
+:uri-rsjug-site: https://rsjug.org
+
+Demoramos, mas não falhamos!
+
+Pessoal, desculpem-nos a demora para postar os slides do nosso último encontro, que ocorreu no dia *20/05/2017*, mas esses últimos 2 meses foram de muita correria para nós coordenadores e só agora conseguimos um tempo para fazer esse post!
+
+Esperamos que tenham gostado do evento tanto quanto a gente e que tenha sido bastante proveitoso para vocês, pois é isso que importa! 
+
+Sabemos que estamos demorando para dar melhores informações sobre o nosso próximo encontro, adianto que já estamos planejando e que será em breve, mas isso é assunto para outro post! 
+
+Abaixo segue os slides do último encontro.
+
+
+=== Wildfly Swarm
+
+Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.
+
+++++
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kkN6N8dcfsOYMU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MateusCosta8/wildfly-swarm" title="WildFly Swarm" target="_blank">WildFly Swarm</a> </strong> de <strong><a target="_blank" href="https://www.slideshare.net/MateusCosta8">Mateus Costa</a></strong> </div>
+++++
+
+*Code*: https://github.com/mateusmcosta/cidade-service
+
+*Mateus* é formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS). Tem experiência de dez anos na área. Certificado pela Oracle Corporation na plataforma Java como programador (OCJP) e também Java EE 6 Enterprise JavaBeans Developer (OCEEJBD). Desenvolvedor Java/JEE na DBServer. +
+https://www.linkedin.com/in/mateuscosta1987/
+
+=== Introdução a microservices, como começar.
+
+Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.
+
+++++
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5bB7sTz9aFm2lj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alisonsouza/introducao-a-microservices" title="Introducao a Microservices" target="_blank">Introducao a Microservices</a> </strong> de <strong><a target="_blank" href="https://www.slideshare.net/alisonsouza">Alison Rodrigues de Souza</a></strong> </div>
+++++
+
+*Alison* é Bacharel em Ciência da Computação (UPF), atua há mais de 8 anos no mercado de tecnologia. Trabalha com desenvolvimento de software e praticante de testes automatizados e integração contínua com Java, além de ser praticante de Scrum e Kanban. 
+Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA +
+https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/
+
+
+=== Plataforma de microserviços da NetFlix
+
+Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.
+
+++++
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/11Sd1EPpxY2gH5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CristianoAltmann/netflix-oss" title="Netflix oss" target="_blank">Netflix oss</a> </strong> de <strong><a target="_blank" href="https://www.slideshare.net/CristianoAltmann">Cristiano Altmann</a></strong> </div>
+++++
+
+*Cristiano* é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra. +
+https://www.linkedin.com/in/crisaltmann/
