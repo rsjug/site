@@ -19,7 +19,7 @@ excerpt: Demoramos, mas não falhamos! Slides do encontro de Maio/2017 da RSJUG
 comments: true
 post_author: brunomaomeh
 ---
-= Slides do último *Encontro da RSJUG* 
+= Slides do *Encontro de Maio/2017 da RSJUG*
 :toc:
 :revdate: 2017-07-20 18:55:00 -0600
 :uri-rsjug-site: https://rsjug.org
@@ -32,10 +32,10 @@ Esperamos que tenham gostado do evento tanto quanto a gente e que tenha sido bas
 
 Sabemos que estamos demorando para dar melhores informações sobre o nosso próximo encontro, adianto que já estamos planejando e que será em breve, mas isso é assunto para outro post! 
 
-Abaixo segue os slides do último encontro.
+Abaixo segue os slides e fotos do último encontro.
 
 
-=== Wildfly Swarm
+== Wildfly Swarm
 
 Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.
 
@@ -48,7 +48,12 @@ Apresentando o Wildfly Swarm, suas principais características, e construindo um
 *Mateus* é formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS). Tem experiência de dez anos na área. Certificado pela Oracle Corporation na plataforma Java como programador (OCJP) e também Java EE 6 Enterprise JavaBeans Developer (OCEEJBD). Desenvolvedor Java/JEE na DBServer. +
 https://www.linkedin.com/in/mateuscosta1987/
 
-=== Introdução a microservices, como começar.
+image:posts/2017-05/swarm1.jpg[]
+
+image:posts/2017-05/swarm2.jpg[]
+
+
+== Introdução a microservices, como começar.
 
 Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.
 
@@ -60,8 +65,10 @@ Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados 
 Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA +
 https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/
 
+image:posts/2017-05/microservices.jpg[]
 
-=== Plataforma de microserviços da NetFlix
+
+== Plataforma de microserviços da NetFlix
 
 Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.
 
@@ -71,3 +78,15 @@ Além de ser uma referência em cloud, arquitetura de microserviços e na qualid
 
 *Cristiano* é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra. +
 https://www.linkedin.com/in/crisaltmann/
+
+image:posts/2017-05/netflix1.jpg[]
+
+image:posts/2017-05/netflix2.jpg[]
+
+== Agradecimentos
+
+Obrigado a todos que compareceram, é só com o apoio da comunidade que iremos difundir ainda mais o *Java* e todo o ecossistema em sua volta!
+
+image:posts/2017-05/galera1.jpg[]
+
+image:posts/2017-05/galera2.jpg[]
