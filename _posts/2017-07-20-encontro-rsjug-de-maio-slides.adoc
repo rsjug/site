@@ -15,7 +15,7 @@ tags:
 - wildfly
 - wildflyswarm
 - netflix
-excerpt: Slides do último encontro da RSJUG
+excerpt: Demoramos, mas não falhamos! Slides do encontro de Maio/2017 da RSJUG
 comments: true
 post_author: brunomaomeh
 ---
