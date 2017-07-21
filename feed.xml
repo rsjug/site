@@ -5,9 +5,108 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 May 2017 14:44:05 +0000</pubDate>
-    <lastBuildDate>Tue, 02 May 2017 14:44:05 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jul 2017 17:37:40 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Jul 2017 17:37:40 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Slides do último &lt;strong&gt;Encontro da RSJUG&lt;/strong&gt;</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Demoramos, mas não falhamos!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Pessoal, desculpem-nos a demora para postar os slides do nosso último encontro, que ocorreu no dia &lt;strong&gt;20/05/2017&lt;/strong&gt;, mas esses últimos 2 meses foram de muita correria para nós coordenadores e só agora conseguimos um tempo para fazer esse post!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Esperamos que tenham gostado do evento tanto quanto a gente e que tenha sido bastante proveitoso para vocês, pois é isso que importa!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Sabemos que estamos demorando para dar melhores informações sobre o nosso próximo encontro, adianto que já estamos planejando e que será em breve, mas isso é assunto para outro post!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Abaixo segue os slides do último encontro.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;wildfly_swarm&quot;&gt;Wildfly Swarm&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Apresentando o Wildfly Swarm, suas principais características, e construindo uma aplicação de exemplo. Para explorar suas configurações.&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/kkN6N8dcfsOYMU&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/MateusCosta8/wildfly-swarm&quot; title=&quot;WildFly Swarm&quot; target=&quot;_blank&quot;&gt;WildFly Swarm&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/MateusCosta8&quot;&gt;Mateus Costa&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Code&lt;/strong&gt;: &lt;a href=&quot;https://github.com/mateusmcosta/cidade-service&quot; class=&quot;bare&quot;&gt;https://github.com/mateusmcosta/cidade-service&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Mateus&lt;/strong&gt; é formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS). Tem experiência de dez anos na área. Certificado pela Oracle Corporation na plataforma Java como programador (OCJP) e também Java EE 6 Enterprise JavaBeans Developer (OCEEJBD). Desenvolvedor Java/JEE na DBServer.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/mateuscosta1987/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/mateuscosta1987/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;introdução_a_microservices_como_começar&quot;&gt;Introdução a microservices, como começar.&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Esta é uma talk introdutória sobre microservice. Primeiro serão apresentados conceitos relacionados à microservice tais como: o que são microservices, como funcionam e que problemas eles resolvem. Após, será apresentada de forma pratica como pode ser projetada uma solução baseada em microservice. Para finalizar irei demostrar a arquitetura de um projeto com microservice, enfatizando as vantagens obtidas com a utilização e, o que motivou a adoção de microservice.&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/5bB7sTz9aFm2lj&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/alisonsouza/introducao-a-microservices&quot; title=&quot;Introducao a Microservices&quot; target=&quot;_blank&quot;&gt;Introducao a Microservices&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/alisonsouza&quot;&gt;Alison Rodrigues de Souza&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Alison&lt;/strong&gt; é Bacharel em Ciência da Computação (UPF), atua há mais de 8 anos no mercado de tecnologia. Trabalha com desenvolvimento de software e praticante de testes automatizados e integração contínua com Java, além de ser praticante de Scrum e Kanban.
+Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/alison-rodrigues-de-souza-52412a18/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da NetFlix&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/11Sd1EPpxY2gH5&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/CristianoAltmann/netflix-oss&quot; title=&quot;Netflix oss&quot; target=&quot;_blank&quot;&gt;Netflix oss&lt;/a&gt; &lt;/strong&gt; de &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.slideshare.net/CristianoAltmann&quot;&gt;Cristiano Altmann&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Fri, 21 Jul 2017 00:55:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/encontro-maio-2017-slides/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/encontro-maio-2017-slides/</guid>
+        
+        <category>rsjug</category>
+        
+        <category>evento</category>
+        
+        <category>slides</category>
+        
+        <category>tdc</category>
+        
+        <category>tdcfloripa</category>
+        
+        <category>tdcflorianopolis</category>
+        
+        <category>microservices</category>
+        
+        <category>microservicos</category>
+        
+        <category>swarm</category>
+        
+        <category>wildfly</category>
+        
+        <category>wildflyswarm</category>
+        
+        <category>netflix</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>20 de Maio - &lt;strong&gt;Encontro RSJUG&lt;/strong&gt;</title>
@@ -28,13 +127,13 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; 20/05/2017&lt;br&gt;
 &lt;strong&gt;Hora:&lt;/strong&gt; 8:45 às 12:30&lt;br&gt;
-&lt;strong&gt;Local:&lt;/strong&gt; &lt;a href=&quot;http://www.sucesurs.org.br/local/pucrsfacin-predio-32sala-517&quot; target=&quot;_blank&quot;&gt;PUCRS/FACIN - Prédio 32/Sala 517&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; &lt;a href=&quot;http://www.sucesurs.org.br/local/pucrsfacin-predio-32sala-517&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PUCRS/FACIN - Prédio 32/Sala 517&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Neste novo encontro iremos falar um pouco sobre o que aconteceu na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;, e além disso teremos mais 3 palestras com o tema de microserviços em Java.&lt;/p&gt;
+&lt;p&gt;Neste novo encontro iremos falar um pouco sobre o que aconteceu na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;, e além disso teremos mais 3 palestras com o tema de microserviços em Java.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! &lt;strong&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-maio2017&quot; target=&quot;_blank&quot;&gt;Inscreva-se aqui!&lt;/a&gt;&lt;/strong&gt; Convidem seus amigos, colegas de trabalho e de faculdade! Vamos participar e ajudar a divulgar, esse evento é feito para vocês e por vocês!&lt;/p&gt;
+&lt;p&gt;As inscrições são gratuitas e podem ser feitas pelo site da SUCESU/RS! &lt;strong&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-maio2017&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Inscreva-se aqui!&lt;/a&gt;&lt;/strong&gt; Convidem seus amigos, colegas de trabalho e de faculdade! Vamos participar e ajudar a divulgar, esse evento é feito para vocês e por vocês!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-05/20170520-encontro-new.png&quot; alt=&quot;20170520 encontro new&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -45,7 +144,7 @@
 &lt;h2 id=&quot;tdc_floripa_overview_da_trilha_java&quot;&gt;TDC Floripa - Overview da Trilha Java&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Será mostrado um overview geral do que acontecerá na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!&lt;/p&gt;
+&lt;p&gt;Será mostrado um overview geral do que acontecerá na &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/trilha-java&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Trilha Java do TDC Floripa&lt;/a&gt;. O TDC Floripa será realizado entre os dias 03 e 06 de Maio, com a Trilha Java marcada para o dia 06. Para quem não puder ir, esta será uma ótima oportunidade de receber em primeira mão tudo o que estarão falando sobre o mundo Java pela visão de 4 palestrantes que irão repassar tudo o que será visto no dia!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;Alexandre&lt;/strong&gt; é programador, apaixonado pelo que faz trabalha a mais de 13 anos com desenvolvimento de software atuando nos setores de gestão da cadeia logística (supply chain), mercado de capitais e automação. Hoje seu foco de estudos está direcionado para as metodologias TDD, DDD e Refactoring&lt;br&gt;
@@ -152,7 +251,7 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&
 &lt;div id=&quot;preamble&quot;&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Após quase 3 anos sem posts, o site do &lt;strong&gt;&lt;a href=&quot;https://rsjug.org&quot; target=&quot;_blank&quot;&gt;RSJug&lt;/a&gt;&lt;/strong&gt; está de cara nova!&lt;/p&gt;
+&lt;p&gt;Após quase 3 anos sem posts, o site do &lt;strong&gt;&lt;a href=&quot;https://rsjug.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RSJug&lt;/a&gt;&lt;/strong&gt; está de cara nova!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-04/rsjug.png&quot; alt=&quot;rsjug&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -168,7 +267,7 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&
 &lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Roda sob o &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;, uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);&lt;/p&gt;
+&lt;p&gt;Roda sob o &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Jekyll&lt;/a&gt;, uma plataforma para criação de sites estáticos (a mesma utilizada pelo github pages);&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Hospedado no github para &lt;code&gt;facilitar contribuições&lt;/code&gt; e atualizações;&lt;/p&gt;
@@ -180,7 +279,7 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&
 &lt;p&gt;Utilização de linguagem de marcação leves, que focam no conteúdo ao invés da sintáxe, como &lt;code&gt;Markdown&lt;/code&gt; e &lt;code&gt;Asciidoc&lt;/code&gt; para criação dos posts;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Mecanismo de busca no síte do lado cliente usando &lt;a href=&quot;http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/&quot; target=&quot;_blank&quot;&gt;lunr.js&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;Mecanismo de busca no síte do lado cliente usando &lt;a href=&quot;http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;lunr.js&lt;/a&gt;;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -191,7 +290,7 @@ Para pensar fora da caixa ajudou a fundar o MeetUp de Design Thinking POA&lt;br&
 &lt;i class=&quot;fa icon-important&quot; title=&quot;Important&quot;&gt;&lt;/i&gt;
 &lt;/td&gt;
 &lt;td class=&quot;content&quot;&gt;
-Os posts antigos foram migrados para o novo site, o código usado para a migração também está &lt;a href=&quot;https://github.com/rsjug/blog-exporter&quot; target=&quot;_blank&quot;&gt;disponível no github&lt;/a&gt;.
+Os posts antigos foram migrados para o novo site, o código usado para a migração também está &lt;a href=&quot;https://github.com/rsjug/blog-exporter&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;disponível no github&lt;/a&gt;.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -202,7 +301,7 @@ Os posts antigos foram migrados para o novo site, o código usado para a migraç
 &lt;h2 id=&quot;como_contribuir_para_o_site&quot;&gt;Como contribuir para o site&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Primeiramente faça um fork do site no &lt;a href=&quot;https://github.com/rsjug/&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;. A seguir siga os passos do README para &lt;a href=&quot;https://github.com/rsjug/site#running-it-locally&quot; target=&quot;_blank&quot;&gt;subir o site localemente&lt;/a&gt; assim como &lt;a href=&quot;https://github.com/rsjug/site#site-anatomy&quot; target=&quot;_blank&quot;&gt;entender como o site está organizado&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Primeiramente faça um fork do site no &lt;a href=&quot;https://github.com/rsjug/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github&lt;/a&gt;. A seguir siga os passos do README para &lt;a href=&quot;https://github.com/rsjug/site#running-it-locally&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;subir o site localemente&lt;/a&gt; assim como &lt;a href=&quot;https://github.com/rsjug/site#site-anatomy&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;entender como o site está organizado&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Após, basta enviar um pull request para iniciar o fluxo de aprovação do github com suas contribuições.&lt;/p&gt;
@@ -214,7 +313,7 @@ Os posts antigos foram migrados para o novo site, o código usado para a migraç
 &lt;i class=&quot;fa icon-tip&quot; title=&quot;Tip&quot;&gt;&lt;/i&gt;
 &lt;/td&gt;
 &lt;td class=&quot;content&quot;&gt;
-&lt;a href=&quot;https://github.com/rsjug/site/issues&quot; target=&quot;_blank&quot;&gt;Abra uma issue&lt;/a&gt; antes para discutirmos as possiveis contribuições.
+&lt;a href=&quot;https://github.com/rsjug/site/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Abra uma issue&lt;/a&gt; antes para discutirmos as possiveis contribuições.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -228,7 +327,7 @@ Os posts antigos foram migrados para o novo site, o código usado para a migraç
 &lt;p&gt;A criação de um novo post se dá através da criação de um arquivo na pasta &lt;code&gt;posts&lt;/code&gt;, esse arquivo deve seguir a seguinte convenção de nome:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;ano&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;mes&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;dia&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;descrição&lt;/strong&gt;&lt;mark&gt;.&lt;/mark&gt;&lt;strong&gt;extensão&lt;/strong&gt;. onde extensão pode ser &lt;code&gt;md&lt;/code&gt; para posts no formato &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot; target=&quot;_blank&quot;&gt;Markdown&lt;/a&gt; ou &lt;code&gt;adoc&lt;/code&gt; para o formato &lt;a href=&quot;http://asciidoctor.org/&quot; target=&quot;_blank&quot;&gt;Asciidoc&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ano&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;mes&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;dia&lt;/strong&gt;&lt;mark&gt;-&lt;/mark&gt;&lt;strong&gt;descrição&lt;/strong&gt;&lt;mark&gt;.&lt;/mark&gt;&lt;strong&gt;extensão&lt;/strong&gt;. onde extensão pode ser &lt;code&gt;md&lt;/code&gt; para posts no formato &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Markdown&lt;/a&gt; ou &lt;code&gt;adoc&lt;/code&gt; para o formato &lt;a href=&quot;http://asciidoctor.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Asciidoc&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect2&quot;&gt;
 &lt;h3 id=&quot;metatados_do_post&quot;&gt;Metatados do post&lt;/h3&gt;
@@ -260,7 +359,7 @@ author: rmpestano
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;2&quot;&gt;&lt;/i&gt;&lt;b&gt;2&lt;/b&gt;&lt;/td&gt;
-&lt;td&gt;categorias para agrupamento de posts, podem ser acessadas posteriormente &lt;a href=&quot;http://rsjug.org/categories/&quot; target=&quot;_blank&quot;&gt;neste link&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;categorias para agrupamento de posts, podem ser acessadas posteriormente &lt;a href=&quot;http://rsjug.org/categories/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;neste link&lt;/a&gt;.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;3&quot;&gt;&lt;/i&gt;&lt;b&gt;3&lt;/b&gt;&lt;/td&gt;
@@ -268,7 +367,7 @@ author: rmpestano
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;4&quot;&gt;&lt;/i&gt;&lt;b&gt;4&lt;/b&gt;&lt;/td&gt;
-&lt;td&gt;tags do post. Todas tags podem ser acessadas &lt;a href=&quot;http://rsjug.org/tags/&quot; target=&quot;_blank&quot;&gt;neste endereço&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;tags do post. Todas tags podem ser acessadas &lt;a href=&quot;http://rsjug.org/tags/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;neste endereço&lt;/a&gt;.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;i class=&quot;conum&quot; data-value=&quot;5&quot;&gt;&lt;/i&gt;&lt;b&gt;5&lt;/b&gt;&lt;/td&gt;
@@ -280,7 +379,7 @@ author: rmpestano
 &lt;div class=&quot;sect2&quot;&gt;
 &lt;h3 id=&quot;exemplos_de_posts&quot;&gt;Exemplos de posts&lt;/h3&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Todos os posts estão no github &lt;a href=&quot;https://github.com/rsjug/site/tree/master/_posts&quot; target=&quot;_blank&quot;&gt;neste caminho&lt;/a&gt; e podem ser usados como exemplo.&lt;/p&gt;
+&lt;p&gt;Todos os posts estão no github &lt;a href=&quot;https://github.com/rsjug/site/tree/master/_posts&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;neste caminho&lt;/a&gt; e podem ser usados como exemplo.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -460,51 +559,6 @@ author: rmpestano
         <category>Calendário</category>
         
         <category>Evento</category>
-        
-      </item>
-    
-      <item>
-        <title>RSJUG! Retomada da comunidade! Reunião almoço!</title>
-        <description>&lt;p&gt;O RSJUG, Rio Grande do Sul Java Users Group é reconhecido como o &lt;a href=&quot;http://www.rsjug.org/?page_id=2&quot;&gt;primeiro JUG Brasileiro&lt;/a&gt;, iniciado em 1996, na época chamado de JavaRS, por &lt;a href=&quot;http://www.facebook.com/indrusiak&quot;&gt;Leandro Indrusiak&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em 2002, o grupo teve uma renovação, com a entrada de &lt;a href=&quot;http://www.linkedin.com/in/maurovalle&quot;&gt;Mauro do Valle&lt;/a&gt; e uma galera que apoiou a iniciativa.&lt;/p&gt;
-
-&lt;p&gt;Ao longo dos anos, vários eventos legais aconteceram, e chegou a hora de uma retomada da comunidade Java do RS.&lt;/p&gt;
-
-&lt;p&gt;Então você se pergunta: quem deve se inscrever neste evento? Pessoas que querem ajudar o grupo para fazer eventos, apoiar no processo de localizar palestrantes. Fazer parte da comunidade de voluntários que vão ajudar o RSJUG a se tornar novamente uma das grandes comunidades Java do Brasil!&lt;/p&gt;
-
-&lt;p&gt;E aí, está a fim do desafio?&lt;/p&gt;
-
-&lt;p&gt;Requisitos e ou desafios para quem estiver no grupo:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Ter disponibilidade para apoiar nos eventos mensais do grupo. Normalmente os eventos são organizados em pares. Queremos ter um grupo de 6-8 coordenadores e mais alguns colaboradores. Em 2013, iremos fazer eventos em Março, Junho, Agosto, Outubro e Dezembro. Sendo que em Outubro iremos fazer um RSJUG Day, evento maior. Também iremos apoiar iniciativas como TDC e GUDay.&lt;/li&gt;
-	&lt;li&gt;Querer criar conhecimento e ajudar a comunidade a se desenvolver. Ajudar a manter o grupo através das listas de discussão e outros canais de comunicação (Blog, Twitter, Facebook).&lt;/li&gt;
-	&lt;li&gt;Ajudar na organização de iniciativas no interior do estado, através de apoio para organizar eventos. Bom para quem tem família no interior ou mora no interior e quer apoiar o RSJUG.&lt;/li&gt;
-	&lt;li&gt;Estar a fim de trabalhar em um grupo de voluntários, que tem suas vidas para viver e querem disponibilizar algumas horas por mês para apoiar a comunidade Java.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Importante deixar claro que:&lt;/p&gt;
-&lt;ol&gt;
-	&lt;li&gt;É um trabalho voluntário. Você não vai ser remunerado financeiramente por isto.&lt;/li&gt;
-	&lt;li&gt;É um trabalho voluntário. Você deve se divertir ao fazer isto. Se não estiver sendo uma diversão, lembre que você pode sair a qualquer momento, e dar a chance a outras pessoas que querem desenvolver voluntariado e apoiar a comunidade Java através do RSJUG.&lt;/li&gt;
-	&lt;li&gt;É um trabalho voluntário. O RSJUG vai ajudar você a aumentar sua rede de contatos (networking) e ajudar a desenvolver características de liderança, cooperação e comunicação.&lt;/li&gt;
-	&lt;li&gt;Já falei que é um trabalho voluntário? :-)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Era isto. &lt;strong&gt;&lt;a href=&quot;https://www.sympla.com.br/rsjug-retomada-da-comunidade-reuniao-almoco__11316.html?lang=pt&quot;&gt;Se você entende que esta causa é sua, se inscreva, e nos falamos no dia 22/novembro lá na PUC-RS para este almoço!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Nov 2012 16:30:18 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/RSJUG!-Retomada-da-comunidade!-Reuni%C3%A3o-almo%C3%A7o!.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/RSJUG!-Retomada-da-comunidade!-Reuni%C3%A3o-almo%C3%A7o!.html</guid>
-        
-        <category>almoço</category>
-        
-        <category>comunidade</category>
-        
-        
-        <category>Notícias</category>
-        
-        <category>RSJUG</category>
         
       </item>
     
