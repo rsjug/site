@@ -43,3 +43,7 @@ Além de ser uma referência em cloud, arquitetura de microserviços e na qualid
 
 *Cristiano* é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra. +
 https://www.linkedin.com/in/crisaltmann/
+
+==== Programação
+
+image:posts/2017-08/20170815-guday01.png[]
