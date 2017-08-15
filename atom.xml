@@ -4,13 +4,66 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2017-07-21T19:11:05+00:00</updated>
+ <updated>2017-08-15T21:32:22+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>GUDay <strong>26 de Agosto de 2017</strong></title>
+   <link href="https://rsjug.github.io/site/guday-2017"/>
+   <updated>2017-08-15T23:20:00+00:00</updated>
+   <id>https://rsjug.github.io/site/guday-2017</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel3&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#apresentação&quot;&gt;Apresentação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;GUDay 2017&lt;/strong&gt;: &quot;Tecnologia a favor dos negócios, desafios e perspectivas&quot;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;apresentação&quot;&gt;Apresentação&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O &lt;strong&gt;GUDay&lt;/strong&gt; é um evento anual criado da parceria entre a &lt;a href=&quot;http://www.sucesurs.org.br&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SUCESU-RS&lt;/a&gt; com os &lt;em&gt;Grupos de Usuários do Rio Grande do Sul&lt;/em&gt;, que já tem data marcada no calendário gaúcho e esse ano apresentará o tema a &lt;strong&gt;Tecnologia a favor dos negócios, desafios e perspectivas&lt;/strong&gt;. O evento contará com 2 trilhas simultâneas, &lt;em&gt;Gestão&lt;/em&gt; e &lt;em&gt;Técnica&lt;/em&gt;, onde o tema será tratado dos mais diferentes pontos de vista, seja &lt;em&gt;Business Inteligence&lt;/em&gt;, &lt;em&gt;Governança&lt;/em&gt; e &lt;em&gt;Analise de Negócios&lt;/em&gt;, passando por &lt;em&gt;Métodos Ágeis&lt;/em&gt;, &lt;em&gt;Mobilidade&lt;/em&gt;, &lt;em&gt;Infraestrutra&lt;/em&gt; e muito mais.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Esse ano a &lt;strong&gt;RSJUG&lt;/strong&gt; tem o orgulho de ser representada pelo &lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Cristiano Altmann&lt;/a&gt; e a sua palestra sobre a &lt;strong&gt;Plataforma de microserviços da Netflix&lt;/strong&gt;, a mesma que já foi apresentada no &lt;a href=&quot;encontro-maio-2017/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;nosso encontro do mês de Maio&lt;/a&gt;. Então se você perdeu a chance de assistir a primeira vez, terá uma nova chance, e eu sei que agora você não vai querer perder! E para quem já assistiu à esta palestra, com certeza encontrará outras palestras de seu interesse, então corre lá e faz logo a tua inscrição!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;: 26 de Agosto de 2017&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Local&lt;/strong&gt;: Unisinos Campus Porto Alegre (&lt;a href=&quot;https://goo.gl/maps/Zf1uqH8LUrx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mapa&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Todas as informações e incrições podem ser encontradas no site da &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday2017/apresentacao&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SUCESU-RS&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title>Slides do <strong>Encontro de Maio/2017 da RSJUG</strong></title>
