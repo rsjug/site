@@ -1,0 +1,45 @@
+---
+layout: inner
+categories: eventos	
+permalink: /guday-2017
+tags:
+- rsjug
+- evento
+- guday
+- guday2017
+- guday-2017
+- sucesu
+- sucesurs
+- sucesu-rs
+- netflix
+excerpt: Tecnologia a favor dos negócios, desafios e perspectivas
+comments: true
+post_author: brunomaomeh
+---
+= GUDay *26 de Agosto de 2017*
+:toc:
+:revdate: 2017-08-15 17:20:00 -0600
+:uri-rsjug-site: https://rsjug.org
+
+*GUDay 2017*: "Tecnologia a favor dos negócios, desafios e perspectivas"
+
+==== Apresentação
+
+O *GUDay* é um evento anual criado da parceria entre a http://www.sucesurs.org.br[SUCESU-RS^] com os _Grupos de Usuários do Rio Grande do Sul_, que já tem data marcada no calendário gaúcho e esse ano apresentará o tema a *Tecnologia a favor dos negócios, desafios e perspectivas*. O evento contará com 2 trilhas simultâneas, _Gestão_ e _Técnica_, onde o tema será tratado dos mais diferentes pontos de vista, seja _Business Inteligence_, _Governança_ e _Analise de Negócios_, passando por _Métodos Ágeis_, _Mobilidade_, _Infraestrutra_ e muito mais.
+
+Esse ano a *RSJUG* tem o orgulho de ser representada pelo https://www.linkedin.com/in/crisaltmann/[Cristiano Altmann^] e a sua palestra sobre a *Plataforma de microserviços da Netflix*, a mesma que já foi apresentada no link:encontro-maio-2017/[nosso encontro do mês de Maio^]. Então se você perdeu a chance de assistir a primeira vez, terá uma nova chance, e eu sei que agora você não vai querer perder! E para quem já assistiu à esta palestra, com certeza encontrará outras palestras de seu interesse, então corre lá e faz logo a tua inscrição!
+
+==== Data e local do evento
+
+*Data*: 26 de Agosto de 2017
+
+*Local*: Unisinos Campus Porto Alegre (https://goo.gl/maps/Zf1uqH8LUrx[mapa^])
+
+Todas as informações e incrições podem ser encontradas no site da http://www.sucesurs.org.br/eventos/guday2017/apresentacao[SUCESU-RS^]
+
+==== Plataforma de microserviços da Netflix
+
+Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.
+
+*Cristiano* é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra. +
+https://www.linkedin.com/in/crisaltmann/
