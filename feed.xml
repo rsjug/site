@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2017 21:32:22 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 21:32:22 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2017 21:39:13 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2017 21:39:13 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -17,6 +17,7 @@
 &lt;li&gt;&lt;a href=&quot;#apresentação&quot;&gt;Apresentação&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&quot;preamble&quot;&gt;
@@ -55,6 +56,12 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;programação&quot;&gt;Programação&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-08/20170815-guday01.png&quot; alt=&quot;20170815 guday01&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Tue, 15 Aug 2017 23:20:00 +0000</pubDate>

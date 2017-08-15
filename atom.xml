@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2017-08-15T21:32:22+00:00</updated>
+ <updated>2017-08-15T21:39:13+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -23,6 +23,7 @@
 &lt;li&gt;&lt;a href=&quot;#apresentação&quot;&gt;Apresentação&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&quot;preamble&quot;&gt;
@@ -61,6 +62,12 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;programação&quot;&gt;Programação&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-08/20170815-guday01.png&quot; alt=&quot;20170815 guday01&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
  </entry>
