@@ -25,14 +25,14 @@ O *The Developer's Conference Porto Alegre 2017* contará 40 trilhas e 10 worksh
 
 Assim como nos outros anos, a *RSJug* estará presente no *TDC-Porto Alegre*. Com a ajuda da nossa amiga https://twitter.com/machadfe[Fernanda Machado^], nós estaremos coordenando a http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-java[Trilha Java^], e estamos muito ansiosos com a sua participação!
 
-Agora gostaríamos de convidá-los a fazer parte do *TDC* como palestrante. Se você deseja palestrar nesse mega evento, não perca a chance e submeta agora a sua palestra: http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/call4papers[Call4Papers^]. E vê se não demora, pois as inscrições estão abertas até o dia 03/09 (isso mesmo, só até a próxima segunda-feira, então corre e submete logo a tua palestra). Ficaremos muito felizes em ver você e a sua palestra lá, tanto na *Trilha Java* como nas outras trilhas do evento! As inscrições estão abertas tanto para as trilhas como para os workshops..
+Agora gostaríamos de convidá-los a fazer parte do *TDC* como palestrante. Se você deseja palestrar nesse mega evento, não perca a chance e submeta agora a sua palestra: http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/call4papers[Call4Papers^]. E vê se não demora, pois as inscrições estão abertas até o dia 03/09 (isso mesmo, só até a próxima segunda-feira, então corre e submete logo a tua palestra). Ficaremos muito felizes em ver você e a sua palestra lá, tanto na *Trilha Java* como nas outras trilhas do evento! As inscrições estão abertas tanto para as trilhas como para os workshops.
 
 http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/call4papers[image:https://3.bp.blogspot.com/-vhJrxdiz7EE/WZb3WOOX89I/AAAAAAAAHXU/KcDoVWZgGuYv6wQC7ovM-TAwe1ygRR3sACLcBGAs/s1600/2017-08-18_11-18-39.png[,920]^]
 
 
 ==== Conselhos da Yara
 
-Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, a https://twitter.com/yarasenger[Yara Senger^] fez um video ajudando um pouco sobre o processo.
+Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, a https://twitter.com/yarasenger[Yara Senger^] fez um vídeo ajudando um pouco sobre o processo.
 ++++
 <iframe width="920" height="479" src="https://www.youtube.com/embed/PMXd2haNtew?rel=0" frameborder="0" allowfullscreen></iframe>
 ++++
@@ -55,7 +55,7 @@ Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua pales
 
 *Local*: UniRitter - Campus Zona Sul (https://goo.gl/maps/6QxHaEJHXuE2[mapa^])
 
-Toda a progração do evento pode ser encontrado no site do http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas[TDC^] (A grade de palestras começará a ser publicada a partir de 11 de Setembro.)
+Toda a programação do evento pode ser encontrado no site do http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas[TDC^] (A grade de palestras começará a ser publicada a partir de 11 de Setembro.)
 
 
 ==== Brindes RSJUG
