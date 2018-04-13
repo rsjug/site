@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-04-13T18:45:13+00:00</updated>
+ <updated>2018-04-13T18:59:49+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -81,7 +81,7 @@
 &lt;p&gt;Segue link para o código da demo: &lt;strong&gt;TODO-LINK-DEMO&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/bruno-kotlin.jpg&quot; alt=&quot;bruno kotlin&quot; width=&quot;300&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-04/bruno-kotlin.jpg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/bruno-kotlin.jpg&quot; alt=&quot;bruno kotlin&quot; width=&quot;300&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -95,10 +95,10 @@
 &lt;p&gt;Fizemos apenas duas rodadas onde o problema a ser resolvido era o &lt;a href=&quot;https://en.wikipedia.org/wiki/Fizz_buzz&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;FizzBuzz&lt;/strong&gt;&lt;/a&gt; usando Kotlin.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;No final, a palestrante Larissa mostrou como resolver o problema usando o operador &lt;code&gt;when&lt;/code&gt; e extension functions do Kotlin:&lt;/p&gt;
+&lt;p&gt;No final, a palestrante Larissa mostrou como resolver o problema usando o operador &lt;code&gt;when&lt;/code&gt; e &lt;a href=&quot;https://kotlinlang.org/docs/reference/extensions.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;extension functions&lt;/a&gt; do Kotlin:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-fizzbuzz.jpg&quot; alt=&quot;kotlin fizzbuzz&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-04/kotlin-fizzbuzz.jpg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-fizzbuzz.jpg&quot; alt=&quot;kotlin fizzbuzz&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -109,7 +109,7 @@
 &lt;p&gt;Obrigado a todos os participantes e palestrantes por tornarem o evento possível!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-rsjug.jpg&quot; alt=&quot;kotlin rsjug&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-04/kotlin-rsjug.jpg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-rsjug.jpg&quot; alt=&quot;kotlin rsjug&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
