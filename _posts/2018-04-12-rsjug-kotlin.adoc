@@ -50,7 +50,7 @@ No final da palestra vimos um pouco de testes unitários usando as bibliotecas h
 
 Segue link para o código da demo: *TODO-LINK-DEMO*
 
-image:posts/2018-04/bruno-kotlin.jpg[width=300,height=250]
+image:posts/2018-04/bruno-kotlin.jpg[link="https://rsjug.github.io/site/img/posts/2018-04/bruno-kotlin.jpg", width=300, height=250]
 
 == Coding dojo
 
@@ -60,10 +60,10 @@ Fizemos apenas duas rodadas onde o problema a ser resolvido era o https://en.wik
 
 No final, a palestrante Larissa mostrou como resolver o problema usando o operador `when` e extension functions do Kotlin: 
 
-image:posts/2018-04/kotlin-fizzbuzz.jpg[width=400,height=250]   
+image:posts/2018-04/kotlin-fizzbuzz.jpg[link="https://rsjug.github.io/site/img/posts/2018-04/kotlin-fizzbuzz.jpg", width=400,height=250]   
 
 == Agradecimentos
 
 Obrigado a todos os participantes e palestrantes por tornarem o evento possível! 
 
-image:posts/2018-04/kotlin-rsjug.jpg[width=400,height=250]   
+image:posts/2018-04/kotlin-rsjug.jpg[link="https://rsjug.github.io/site/img/posts/2018-04/kotlin-rsjug.jpg", width=400,height=250]   
