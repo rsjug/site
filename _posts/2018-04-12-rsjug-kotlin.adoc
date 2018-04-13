@@ -58,7 +58,7 @@ Como as palestras foram muito interessantes e tivemos bastante engajamento dos p
 
 Fizemos apenas duas rodadas onde o problema a ser resolvido era o https://en.wikipedia.org/wiki/Fizz_buzz[*FizzBuzz*^] usando Kotlin. 
 
-No final, a palestrante Larissa mostrou como resolver o problema usando o operador `when` e extension functions do Kotlin: 
+No final, a palestrante Larissa mostrou como resolver o problema usando o operador `when` e https://kotlinlang.org/docs/reference/extensions.html[extension functions^] do Kotlin: 
 
 image:posts/2018-04/kotlin-fizzbuzz.jpg[link="https://rsjug.github.io/site/img/posts/2018-04/kotlin-fizzbuzz.jpg", width=400,height=250]   
 
