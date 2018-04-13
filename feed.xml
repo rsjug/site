@@ -5,9 +5,130 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Apr 2018 23:15:13 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Apr 2018 23:15:13 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 18:45:13 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 18:45:13 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;Kotlin&lt;/strong&gt; no RSJug</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bem_vindo_ao_kotlin&quot;&gt;Bem-vindo ao Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kotlin_na_vida_real&quot;&gt;Kotlin na vida real&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#coding_dojo&quot;&gt;Coding dojo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#agradecimentos&quot;&gt;Agradecimentos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Em nosso ultimo encontro vimos a linguagem funcional &lt;a href=&quot;https://kotlinlang.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kotlin&lt;/a&gt;, uma demo com SpringBoot e Kotlin e ainda realizamos um coding dojo também usando o Kotlin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O encontro ocorreu na &lt;strong&gt;Zenvia&lt;/strong&gt; e tivemos cerca de 15 participantes já que divulgamos o evento poucos dias antes do mesmo (aspecto à melhorar).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/rsjug-zenvia.jpg&quot; alt=&quot;rsjug zenvia&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/larissayasin/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Larissa Yasin Gonçalves&lt;/strong&gt;&lt;/a&gt; - Bem-vindo ao Kotlin&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/brunomaomeh/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bruno &quot;Maomeh&quot; Soares&lt;/strong&gt;&lt;/a&gt; - Kotlin na vida real&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bem_vindo_ao_kotlin&quot;&gt;Bem-vindo ao Kotlin&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A primeira palestra foi uma introdução ao Kotlin com o objetivo de dar a base para a segunda palestra do evento. A galera engajou bastante fazendo muitas perguntas sobre a linguagem. Todos se mostraram bastante impressionados com o poder e a simplicidade com que a linguagem resolve problemas e facilita a vida do desenvolvedor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Outro fator que chamou à atenção dos participantes é a interoperabilidade do Kotlin com Java.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem slides da palestra: TODO-LINK-SLIDES&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kotlin_na_vida_real&quot;&gt;Kotlin na vida real&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Na segunda palestra vimos uma demo baseada em um projeto real. Na demo o Bruno mostrou um projeto em &lt;code&gt;Kotlin&lt;/code&gt; usando a stack do &lt;strong&gt;SpringBoot&lt;/strong&gt; (SpringMVC, SpringJDBC etc.. ) integrado com o &lt;a href=&quot;https://github.com/JetBrains/Exposed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Exposed&lt;/strong&gt;&lt;/a&gt;, um framework ORM desenvolvido pela JetBrains. A demo ainda usava Liquibase (integrado ao SpringBoot) para migrations de banco.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O pessoal se mostrou muito interessado e tivemos diversas perguntas sobre varios aspectos da demo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;No final da palestra vimos um pouco de testes unitários usando as bibliotecas &lt;a href=&quot;https://github.com/oleksiyp/mockk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Mokk&lt;/strong&gt;&lt;/a&gt; e &lt;a href=&quot;http://spekframework.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Spek&lt;/strong&gt;&lt;/a&gt; rodando em cima da plataforma (engine) do JUuit5.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Segue link para o código da demo: &lt;strong&gt;TODO-LINK-DEMO&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/bruno-kotlin.jpg&quot; alt=&quot;bruno kotlin&quot; width=&quot;300&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;coding_dojo&quot;&gt;Coding dojo&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Como as palestras foram muito interessantes e tivemos bastante engajamento dos participantes acabou sobrando pouco tempo para o dojo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Fizemos apenas duas rodadas onde o problema a ser resolvido era o &lt;a href=&quot;https://en.wikipedia.org/wiki/Fizz_buzz&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;FizzBuzz&lt;/strong&gt;&lt;/a&gt; usando Kotlin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;No final, a palestrante Larissa mostrou como resolver o problema usando o operador &lt;code&gt;when&lt;/code&gt; e extension functions do Kotlin:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-fizzbuzz.jpg&quot; alt=&quot;kotlin fizzbuzz&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Obrigado a todos os participantes e palestrantes por tornarem o evento possível!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-rsjug.jpg&quot; alt=&quot;kotlin rsjug&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Thu, 12 Apr 2018 23:40:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/rsjug-kotlin/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/rsjug-kotlin/</guid>
+        
+        <category>evento</category>
+        
+        <category>kotlin</category>
+        
+        <category>explosed</category>
+        
+        <category>mokk</category>
+        
+        <category>spekk</category>
+        
+        <category>dojo</category>
+        
+        <category>jetbrains</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>The Developer&amp;#8217;s Conference - &lt;strong&gt;Porto Alegre 2017&lt;/strong&gt;</title>
@@ -704,37 +825,6 @@ author: rmpestano
         <category>guday</category>
         
         <category>torquebox</category>
-        
-        
-        <category>Calendário</category>
-        
-        <category>Evento</category>
-        
-      </item>
-    
-      <item>
-        <title>Dia 4 de abril tem evento do RSJUG! Vamos &quot;scalar&quot;!</title>
-        <description>&lt;p&gt;No dia 4 de abril, na parte da noite, faremos o &lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;primeiro evento do RSJUG de 2013&lt;/a&gt;. Vamos nos reunir na PUC-RS, na sala 516 do prédio 32 a partir das 19h!&lt;/p&gt;
-
-&lt;p&gt;Teremos duas palestras para falar sobre &lt;a href=&quot;http://www.scala-lang.org/&quot; target=&quot;_blank&quot;&gt;Scala&lt;/a&gt;, uma linguagem da JVM. Depois das duas palestras, iremos fazer um bate papo no formato &lt;a href=&quot;http://en.wikipedia.org/wiki/Fishbowl_(conversation)&quot; target=&quot;_blank&quot;&gt;fishbowl&lt;/a&gt; para encerrar a discussão.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição pelo site da SUCESU-RS&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;O evento inicia com uma palestra de &lt;a href=&quot;http://www.linkedin.com/in/nilseupadilha&quot; target=&quot;_blank&quot;&gt;Nilseu Padilha&lt;/a&gt;, com o título &lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;strong&gt;Programação Funcional para Desenvolvedores Java&lt;/strong&gt;. O que vai ser apresentado? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Estruturas de Dados Recursivas, Recursividade e Side-Effect-Functions do ponto de vista do programador Java serão abordados. O objetivo é facilitar a migração do programador OO para o paradigma de programação funcional. &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Quem é o Nilseu? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Nilseu Padilha é consultor independente em Arquitetura de Software e Engenharia de Processos e Professor Universitário. Possui mais de 15 anos de experiência em TI nas áreas de desenvolvimento, engenharia de software e gerência de projetos, e arquitetura de software.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Depois quem segue nas apresentações é o &lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;a href=&quot;http://www.linkedin.com/in/diegopachecors&quot; target=&quot;_blank&quot;&gt;Diego Pacheco&lt;/a&gt;, com a palestra &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;&lt;strong&gt;Scala 2.10: Da Programação funcional até as novas Features&lt;/strong&gt;. &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Veja como ter o máximo de produtividade e diversão com programação funcional utilizando scala 2.10. Quem é o Diego? &lt;/span&gt;&lt;span style=&quot;font-size: 13px; line-height: 19px;&quot;&gt;Profisional com mais de 10 anos de experiencia em TI, Arquiteto de Software / Agile coach com experiencia em projetos internacionais com Kanban/XP, SOA, Scala e Java. Guitarrista nas horas vagas, apreciador de linguagens funcionais como clojure e haskell. “Mantem” o blog: &lt;a href=&quot;http://diego-pacheco.blogspot.com.br/&quot; target=&quot;_blank&quot;&gt;http://diego-pacheco.blogspot.com.br/&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Para fechar a noite, vamos fazer um &lt;a href=&quot;http://en.wikipedia.org/wiki/Fishbowl_(conversation)&quot; target=&quot;_blank&quot;&gt;fishbowl&lt;/a&gt; para encerrar perguntas a definir o próximo evento.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/vamos-scalar-evento-do-rsjug&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição!&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Apr 2013 23:04:56 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/Dia-4-de-abril-tem-evento-do-RSJUG!-Vamos-scalar!.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/Dia-4-de-abril-tem-evento-do-RSJUG!-Vamos-scalar!.html</guid>
-        
-        <category>Evento</category>
-        
-        <category>scala</category>
         
         
         <category>Calendário</category>

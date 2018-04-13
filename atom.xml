@@ -4,13 +4,116 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-04-11T23:15:13+00:00</updated>
+ <updated>2018-04-13T18:45:13+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>Kotlin</strong> no RSJug</title>
+   <link href="https://rsjug.github.io/site/rsjug-kotlin/"/>
+   <updated>2018-04-12T23:40:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-kotlin</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bem_vindo_ao_kotlin&quot;&gt;Bem-vindo ao Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kotlin_na_vida_real&quot;&gt;Kotlin na vida real&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#coding_dojo&quot;&gt;Coding dojo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#agradecimentos&quot;&gt;Agradecimentos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Em nosso ultimo encontro vimos a linguagem funcional &lt;a href=&quot;https://kotlinlang.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kotlin&lt;/a&gt;, uma demo com SpringBoot e Kotlin e ainda realizamos um coding dojo também usando o Kotlin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O encontro ocorreu na &lt;strong&gt;Zenvia&lt;/strong&gt; e tivemos cerca de 15 participantes já que divulgamos o evento poucos dias antes do mesmo (aspecto à melhorar).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/rsjug-zenvia.jpg&quot; alt=&quot;rsjug zenvia&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/larissayasin/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Larissa Yasin Gonçalves&lt;/strong&gt;&lt;/a&gt; - Bem-vindo ao Kotlin&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/brunomaomeh/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bruno &quot;Maomeh&quot; Soares&lt;/strong&gt;&lt;/a&gt; - Kotlin na vida real&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bem_vindo_ao_kotlin&quot;&gt;Bem-vindo ao Kotlin&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A primeira palestra foi uma introdução ao Kotlin com o objetivo de dar a base para a segunda palestra do evento. A galera engajou bastante fazendo muitas perguntas sobre a linguagem. Todos se mostraram bastante impressionados com o poder e a simplicidade com que a linguagem resolve problemas e facilita a vida do desenvolvedor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Outro fator que chamou à atenção dos participantes é a interoperabilidade do Kotlin com Java.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem slides da palestra: TODO-LINK-SLIDES&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kotlin_na_vida_real&quot;&gt;Kotlin na vida real&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Na segunda palestra vimos uma demo baseada em um projeto real. Na demo o Bruno mostrou um projeto em &lt;code&gt;Kotlin&lt;/code&gt; usando a stack do &lt;strong&gt;SpringBoot&lt;/strong&gt; (SpringMVC, SpringJDBC etc.. ) integrado com o &lt;a href=&quot;https://github.com/JetBrains/Exposed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Exposed&lt;/strong&gt;&lt;/a&gt;, um framework ORM desenvolvido pela JetBrains. A demo ainda usava Liquibase (integrado ao SpringBoot) para migrations de banco.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O pessoal se mostrou muito interessado e tivemos diversas perguntas sobre varios aspectos da demo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;No final da palestra vimos um pouco de testes unitários usando as bibliotecas &lt;a href=&quot;https://github.com/oleksiyp/mockk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Mokk&lt;/strong&gt;&lt;/a&gt; e &lt;a href=&quot;http://spekframework.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Spek&lt;/strong&gt;&lt;/a&gt; rodando em cima da plataforma (engine) do JUuit5.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Segue link para o código da demo: &lt;strong&gt;TODO-LINK-DEMO&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/bruno-kotlin.jpg&quot; alt=&quot;bruno kotlin&quot; width=&quot;300&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;coding_dojo&quot;&gt;Coding dojo&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Como as palestras foram muito interessantes e tivemos bastante engajamento dos participantes acabou sobrando pouco tempo para o dojo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Fizemos apenas duas rodadas onde o problema a ser resolvido era o &lt;a href=&quot;https://en.wikipedia.org/wiki/Fizz_buzz&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;FizzBuzz&lt;/strong&gt;&lt;/a&gt; usando Kotlin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;No final, a palestrante Larissa mostrou como resolver o problema usando o operador &lt;code&gt;when&lt;/code&gt; e extension functions do Kotlin:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-fizzbuzz.jpg&quot; alt=&quot;kotlin fizzbuzz&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Obrigado a todos os participantes e palestrantes por tornarem o evento possível!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/kotlin-rsjug.jpg&quot; alt=&quot;kotlin rsjug&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title>The Developer&#8217;s Conference - <strong>Porto Alegre 2017</strong></title>
