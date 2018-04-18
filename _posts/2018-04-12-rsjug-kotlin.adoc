@@ -37,7 +37,7 @@ A primeira palestra foi uma introdução ao Kotlin com o objetivo de dar a base 
 
 Outro fator que chamou à atenção dos participantes é a interoperabilidade do Kotlin com Java. 
 
-Seguem slides da palestra: TODO-LINK-SLIDES
+Os slides da palestra podem ser baixados https://github.com/rsjug/site/releases/download/1.0.0/kotlin.pdf[neste link^]. 
 
 == Kotlin na vida real
 
@@ -48,7 +48,7 @@ O pessoal se mostrou muito interessado e tivemos diversas perguntas sobre varios
 
 No final da palestra vimos um pouco de testes unitários usando as bibliotecas https://github.com/oleksiyp/mockk[*Mokk*^] e http://spekframework.org/[*Spek*^] rodando em cima da plataforma (engine) do JUuit5.      
 
-Segue link para o código da demo: *TODO-LINK-DEMO*
+Segue link para o código da demo: https://github.com/rsjug/rsjug-kotlin-real
 
 image:posts/2018-04/bruno-kotlin.jpg[link="https://rsjug.github.io/site/img/posts/2018-04/bruno-kotlin.jpg", width=300, height=250]
 
