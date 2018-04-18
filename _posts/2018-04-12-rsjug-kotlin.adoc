@@ -6,7 +6,7 @@ tags:
 - evento
 - kotlin
 - explosed
-- mokk
+- mockk
 - spekk
 - dojo
 - jetbrains
@@ -46,7 +46,7 @@ Na segunda palestra vimos uma demo baseada em um projeto real. Na demo o Bruno m
 
 O pessoal se mostrou muito interessado e tivemos diversas perguntas sobre varios aspectos da demo. 
 
-No final da palestra vimos um pouco de testes unitários usando as bibliotecas https://github.com/oleksiyp/mockk[*Mokk*^] e http://spekframework.org/[*Spek*^] rodando em cima da plataforma (engine) do JUuit5.      
+No final da palestra vimos um pouco de testes unitários usando as bibliotecas https://github.com/oleksiyp/mockk[*mockk*^] e http://spekframework.org/[*Spek*^] rodando em cima da plataforma (engine) do JUuit5.      
 
 Segue link para o código da demo: https://github.com/rsjug/rsjug-kotlin-real
 
