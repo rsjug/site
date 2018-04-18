@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-04-18T14:02:39+00:00</updated>
+ <updated>2018-04-18T14:05:05+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -61,7 +61,7 @@
 &lt;p&gt;Outro fator que chamou à atenção dos participantes é a interoperabilidade do Kotlin com Java.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Seguem slides da palestra: TODO-LINK-SLIDES&lt;/p&gt;
+&lt;p&gt;Os slides da palestra podem ser baixados &lt;a href=&quot;https://github.com/rsjug/site/releases/download/1.0.0/kotlin.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -78,7 +78,7 @@
 &lt;p&gt;No final da palestra vimos um pouco de testes unitários usando as bibliotecas &lt;a href=&quot;https://github.com/oleksiyp/mockk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Mokk&lt;/strong&gt;&lt;/a&gt; e &lt;a href=&quot;http://spekframework.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Spek&lt;/strong&gt;&lt;/a&gt; rodando em cima da plataforma (engine) do JUuit5.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Segue link para o código da demo: &lt;strong&gt;TODO-LINK-DEMO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Segue link para o código da demo: &lt;a href=&quot;https://github.com/rsjug/rsjug-kotlin-real&quot; class=&quot;bare&quot;&gt;https://github.com/rsjug/rsjug-kotlin-real&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-04/bruno-kotlin.jpg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-04/bruno-kotlin.jpg&quot; alt=&quot;bruno kotlin&quot; width=&quot;300&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
