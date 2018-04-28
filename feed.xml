@@ -5,9 +5,78 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Apr 2018 12:16:00 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Apr 2018 12:16:00 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Apr 2018 12:49:53 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Apr 2018 12:49:53 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;RSJUG encontro de Maio&lt;/strong&gt; no RSJug</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O Grupo de Usuários Java do RS, o RSJUG, se reúne no dia 05 de Maio para realizar um encontro com palestras de DDD, Domain Events e Events Sourcing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação:&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/daniel-everling-a1668457/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Daniel Everling&lt;/strong&gt;&lt;/a&gt; - Domain Driven Design. O que é? O que não é?  Como implementar os contextos de negócio? Preciso de DDD pro meu micro serviço?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Profissional com mais de 8 anos de experiência na área de desenvolvimento de aplicações web. Pós-graduado em Engenharia de Software e Pós-graduando em Arquitetura de Software. Entusiasta quando o assunto é arquitetura, qualidade de software, testes, clean code e DDD.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;site-linkedin[&lt;strong&gt;Antonio Vilmar Silveira Castro&lt;/strong&gt;^] - Comunicando contextos de negócio com eventos de domínio&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Desenvolvedor de Software Full Stack na DBServer, entusiasta quando o assunto é OO, arquitetura, qualidade de software, agile, clean code e pessoas. Pós graduado-Especialista em Engenharia de Software, possui 10 anos de experiência na área. Atua também como professor e consultor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/humbertostreb/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Humberto Streb&lt;/strong&gt;&lt;/a&gt; - Event Sourcing e o poder do desacoplamento&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Arquiteto de software na Unicred, entusiasta de Programação Funcional, desbravando os desafios de criar sistemas distribuídos com Event-Sourcing e CQRS. Possui experiência em consultoria e desenvolvimento de produtos, utilizando Java e Scala para criar sistemas reativos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Bora trocar conhecimento e aumentar o networking.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/evento-rs-jug-maio-2018/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Inscreva-se aqui&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 05 May 2018 15:00:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/rsjug-encontro-maio/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/rsjug-encontro-maio/</guid>
+        
+        <category>evento</category>
+        
+        <category>encontro</category>
+        
+        <category>ddd</category>
+        
+        <category>domainevents</category>
+        
+        <category>eventssourcing</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>&lt;strong&gt;Kotlin&lt;/strong&gt; no RSJug</title>
@@ -799,35 +868,6 @@ author: rmpestano
         
         <category>Evento</category>
         
-        
-        <category>Evento</category>
-        
-      </item>
-    
-      <item>
-        <title>Quer ver papo sobre Akka e Torquebox? Venha para o GUDay!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/inscricao&quot; target=&quot;_blank&quot;&gt;No dia 27 de abril ocorre na PUC-RS, lá no prédio 32, o GUDay&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;É uma iniciativa para reunir os diversos &lt;a href=&quot;http://www.sucesurs.org.br/gu&quot; target=&quot;_blank&quot;&gt;Grupos de Usuários da SUCESU-RS&lt;/a&gt;. O tema deste ano é Convergência.&lt;/p&gt;
-
-&lt;p&gt;O RSJUG vai fazer palestras falando sobre o Java convergente. Iremos fazer papos sobre &lt;a href=&quot;http://akka.io/&quot; target=&quot;_blank&quot;&gt;Akka&lt;/a&gt; e sobre &lt;a href=&quot;http://torquebox.org/&quot; target=&quot;_blank&quot;&gt;Torquebox&lt;/a&gt;! &lt;a href=&quot;http://twitter.com/diego_pacheco&quot; target=&quot;_blank&quot;&gt;Diego Pacheco&lt;/a&gt; e &lt;a href=&quot;http://twitter.com/guilhermelias&quot; target=&quot;_blank&quot;&gt;Guilherme Elias&lt;/a&gt; serão os palestrantes! É um espaço misturando RSJUG e GURU-RS, o Grupo de usuários Ruby do RS.&lt;/p&gt;
-
-&lt;p&gt;Veja o &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/programa&quot; target=&quot;_blank&quot;&gt;programa do evento&lt;/a&gt; e &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday/inscricao&quot; target=&quot;_blank&quot;&gt;venha participar&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Apr 2013 08:45:59 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/Quer-ver-papo-sobre-Akka-e-Torquebox-Venha-para-o-GUDay!.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/Quer-ver-papo-sobre-Akka-e-Torquebox-Venha-para-o-GUDay!.html</guid>
-        
-        <category>akka</category>
-        
-        <category>Evento</category>
-        
-        <category>guday</category>
-        
-        <category>torquebox</category>
-        
-        
-        <category>Calendário</category>
         
         <category>Evento</category>
         

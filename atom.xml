@@ -4,13 +4,68 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-04-28T12:16:00+00:00</updated>
+ <updated>2018-04-28T12:49:53+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>RSJUG encontro de Maio</strong> no RSJug</title>
+   <link href="https://rsjug.github.io/site/rsjug-encontro-maio/"/>
+   <updated>2018-05-05T15:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-encontro-maio</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O Grupo de Usuários Java do RS, o RSJUG, se reúne no dia 05 de Maio para realizar um encontro com palestras de DDD, Domain Events e Events Sourcing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação:&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/daniel-everling-a1668457/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Daniel Everling&lt;/strong&gt;&lt;/a&gt; - Domain Driven Design. O que é? O que não é?  Como implementar os contextos de negócio? Preciso de DDD pro meu micro serviço?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Profissional com mais de 8 anos de experiência na área de desenvolvimento de aplicações web. Pós-graduado em Engenharia de Software e Pós-graduando em Arquitetura de Software. Entusiasta quando o assunto é arquitetura, qualidade de software, testes, clean code e DDD.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;site-linkedin[&lt;strong&gt;Antonio Vilmar Silveira Castro&lt;/strong&gt;^] - Comunicando contextos de negócio com eventos de domínio&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Desenvolvedor de Software Full Stack na DBServer, entusiasta quando o assunto é OO, arquitetura, qualidade de software, agile, clean code e pessoas. Pós graduado-Especialista em Engenharia de Software, possui 10 anos de experiência na área. Atua também como professor e consultor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/humbertostreb/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Humberto Streb&lt;/strong&gt;&lt;/a&gt; - Event Sourcing e o poder do desacoplamento&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Arquiteto de software na Unicred, entusiasta de Programação Funcional, desbravando os desafios de criar sistemas distribuídos com Event-Sourcing e CQRS. Possui experiência em consultoria e desenvolvimento de produtos, utilizando Java e Scala para criar sistemas reativos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Bora trocar conhecimento e aumentar o networking.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/evento-rs-jug-maio-2018/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Inscreva-se aqui&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>Kotlin</strong> no RSJug</title>
