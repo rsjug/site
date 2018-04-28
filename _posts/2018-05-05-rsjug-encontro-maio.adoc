@@ -1,0 +1,42 @@
+---
+layout: inner
+categories: eventos	
+permalink: /rsjug-encontro-maio/
+tags:
+- evento
+- encontro
+- ddd
+- domainevents
+- eventssourcing
+excerpt: Venha participar do nosso próximo encontro, onde iremos abortar temas como DDD, Domain Events e Event Sourcing 
+comments: true
+post_author: jsouzadev
+---
+= *RSJUG encontro de Maio* no RSJug
+:toc:
+:revdate: 2018-05-05 09:00:00 -0600
+:uri-rsjug-site: https://rsjug.org
+
+O Grupo de Usuários Java do RS, o RSJUG, se reúne no dia 05 de Maio para realizar um encontro com palestras de DDD, Domain Events e Events Sourcing.
+
+== Programação:
+
+https://www.linkedin.com/in/daniel-everling-a1668457/[*Daniel Everling*^] - Domain Driven Design. O que é? O que não é?  Como implementar os contextos de negócio? Preciso de DDD pro meu micro serviço?
+
+Profissional com mais de 8 anos de experiência na área de desenvolvimento de aplicações web. Pós-graduado em Engenharia de Software e Pós-graduando em Arquitetura de Software. Entusiasta quando o assunto é arquitetura, qualidade de software, testes, clean code e DDD.
+
+
+site-linkedin[*Antonio Vilmar Silveira Castro*^] - Comunicando contextos de negócio com eventos de domínio
+
+Desenvolvedor de Software Full Stack na DBServer, entusiasta quando o assunto é OO, arquitetura, qualidade de software, agile, clean code e pessoas. Pós graduado-Especialista em Engenharia de Software, possui 10 anos de experiência na área. Atua também como professor e consultor.
+
+ 
+https://www.linkedin.com/in/humbertostreb/[*Humberto Streb*^] - Event Sourcing e o poder do desacoplamento
+
+Arquiteto de software na Unicred, entusiasta de Programação Funcional, desbravando os desafios de criar sistemas distribuídos com Event-Sourcing e CQRS. Possui experiência em consultoria e desenvolvimento de produtos, utilizando Java e Scala para criar sistemas reativos.
+
+== Inscrições
+
+Bora trocar conhecimento e aumentar o networking.
+
+http://www.sucesurs.org.br/evento/evento-rs-jug-maio-2018/[*Inscreva-se aqui*^]
