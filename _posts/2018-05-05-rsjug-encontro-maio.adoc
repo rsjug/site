@@ -14,10 +14,10 @@ post_author: jsouzadev
 ---
 = *RSJUG encontro de Maio* no RSJug
 :toc:
-:revdate: 2018-05-05 09:00:00 GMT-0300
+:revdate: 2018-04-30 06:00:00 GMT-0300
 :uri-rsjug-site: https://rsjug.org
 
-O Grupo de Usuários Java do RS, o RSJUG, se reúne no dia 05 de Maio para realizar um encontro com palestras de DDD, Domain Events e Events Sourcing.
+O Grupo de Usuários Java do RS, o RSJUG, se reúne no dia *05 de Maio de 2015* para realizar um encontro com palestras de DDD, Domain Events e Events Sourcing.
 
 == Programação:
 
