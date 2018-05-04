@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-04-30T23:15:33+00:00</updated>
+ <updated>2018-05-04T12:52:06+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -15,7 +15,7 @@
  <entry>
    <title><strong>RSJUG encontro de Maio</strong> no RSJug</title>
    <link href="https://rsjug.github.io/site/rsjug-encontro-maio/"/>
-   <updated>2018-05-05T15:00:00+00:00</updated>
+   <updated>2018-05-05T12:00:00+00:00</updated>
    <id>https://rsjug.github.io/site/rsjug-encontro-maio</id>
    <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
 &lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
@@ -1839,13 +1839,13 @@ This is rendered by &lt;a href=&quot;http://asciidoctor.org&quot; target=&quot;_
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;More details see Asciidoctor quick syntax reference&lt;sup class=&quot;footnote&quot;&gt;[&lt;a id=&quot;_footnoteref_1&quot; class=&quot;footnote&quot; href=&quot;#_footnote_1&quot; title=&quot;View footnote.&quot;&gt;1&lt;/a&gt;]&lt;/sup&gt; or &lt;a href=&quot;http://asciidoctor.org/docs/user-manual/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Asciidoctor user manual&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details see Asciidoctor quick syntax reference&lt;sup class=&quot;footnote&quot;&gt;[&lt;a id=&quot;_footnoteref_1&quot; class=&quot;footnote&quot; href=&quot;#_footnotedef_1&quot; title=&quot;View footnote.&quot;&gt;1&lt;/a&gt;]&lt;/sup&gt; or &lt;a href=&quot;http://asciidoctor.org/docs/user-manual/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Asciidoctor user manual&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&quot;footnotes&quot;&gt;
 &lt;hr&gt;
-&lt;div class=&quot;footnote&quot; id=&quot;_footnote_1&quot;&gt;
+&lt;div class=&quot;footnote&quot; id=&quot;_footnotedef_1&quot;&gt;
 &lt;a href=&quot;#_footnoteref_1&quot;&gt;1&lt;/a&gt;. &lt;a href=&quot;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&quot; class=&quot;bare&quot;&gt;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
