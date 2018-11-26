@@ -1,0 +1,48 @@
+---
+layout: inner
+categories: eventos	
+permalink: /transformacao-digital/
+tags:
+- evento
+- clean code
+- solid
+- transformação digital
+- ci
+- cd
+- jenkins
+- pipeline
+excerpt: O Grupo de Usuários Java do RS se reuniu para realizar um encontro com palestras sobre transformação digital, príncipios de clean code e integração contínua.
+comments: true
+author: rmpestano
+---
+= *Encontro sobre Transformação digital*
+:toc:
+:revdate: 2018-11-22 19:00:00 GMT-0300
+:uri-rsjug-site: https://rsjug.org
+
+O Grupo de Usuários Java do RS, o RSJUG, se reuniu no dia `22 de Novembro de 2018` para realizar um encontro com palestras de transformação digital, príncipios de clean code e integração contínua.
+
+== Palestrantes
+
+https://www.linkedin.com/in/giovanisalvador/[*Giovani Salvador*^] - Transformação digital – Estratégias e Tecnologias
+https://www.linkedin.com/in/alexandre-rodrigues-35788ba5[*Alexandre Rodrigues^] - Clean code + SOLID
+https://www.linkedin.com/in/rafael-pestano-5722a653/[Rafael Pestano^] - Pipeline como código usando Jenkins, Docker e Sonar 
+ 
+== Slides
+
+Seguem os slides de cada palestra
+
+* link:/site/img/posts/2018-11/transformacao_digital.pdf[Transformação digital – Estratégias e Tecnologias^]
+* link:/site/img/posts/2018-11/apresentacao_solid.pptx[Clean code + SOLID^] (link:/site/img/posts/2018-11/codigos.zip[baixar códigos fonte^])
+* http://rmpestano.github.io/talks/slides/javaee-pipeline/index-en.html#/[Pipeline como código usando Jenkins, Docker e Sonar^]  
+ 
+== Fotos
+
+Seguem alguns registros do evento:
+
+image:posts/2018-11/img1.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img1.jpeg", width=400,height=250]   
+image:posts/2018-11/img2.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img2.jpeg", width=400,height=250]   
+image:posts/2018-11/img3.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img3.jpeg", width=400,height=250]   
+
+
+
