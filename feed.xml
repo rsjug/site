@@ -5,9 +5,96 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Nov 2018 16:00:55 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Nov 2018 16:00:55 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Nov 2018 22:37:19 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Nov 2018 22:37:19 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;Encontro sobre Transformação digital&lt;/strong&gt;</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#slides&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fotos&quot;&gt;Fotos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O Grupo de Usuários Java do RS, o RSJUG, se reuniu no dia &lt;code&gt;22 de Novembro de 2018&lt;/code&gt; para realizar um encontro com palestras de transformação digital, príncipios de clean code e integração contínua.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/giovanisalvador/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Giovani Salvador&lt;/strong&gt;&lt;/a&gt; - Transformação digital – Estratégias e Tecnologias
+&lt;a href=&quot;https://www.linkedin.com/in/alexandre-rodrigues-35788ba5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;*Alexandre Rodrigues&lt;/a&gt; - Clean code + SOLID
+&lt;a href=&quot;https://www.linkedin.com/in/rafael-pestano-5722a653/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Rafael Pestano&lt;/a&gt; - Pipeline como código usando Jenkins, Docker e Sonar&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;slides&quot;&gt;Slides&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem os slides de cada palestra&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;/site/img/posts/2018-11/transformacao_digital.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Transformação digital – Estratégias e Tecnologias&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;/site/img/posts/2018-11/apresentacao_solid.pptx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Clean code + SOLID&lt;/a&gt; (&lt;a href=&quot;/site/img/posts/2018-11/codigos.zip&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;baixar códigos fonte&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://rmpestano.github.io/talks/slides/javaee-pipeline/index-en.html#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pipeline como código usando Jenkins, Docker e Sonar&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;fotos&quot;&gt;Fotos&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem alguns registros do evento:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img1.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img1.jpeg&quot; alt=&quot;img1&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img4.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img4.jpeg&quot; alt=&quot;img4&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img2.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img2.jpeg&quot; alt=&quot;img2&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img3.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img3.jpeg&quot; alt=&quot;img3&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Thu, 22 Nov 2018 22:00:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/transformacao-digital/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/transformacao-digital/</guid>
+        
+        <category>evento</category>
+        
+        <category>clean code</category>
+        
+        <category>solid</category>
+        
+        <category>transformação digital</category>
+        
+        <category>ci</category>
+        
+        <category>cd</category>
+        
+        <category>jenkins</category>
+        
+        <category>pipeline</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>&lt;strong&gt;RSJUG encontro de Maio&lt;/strong&gt; no RSJug</title>
@@ -849,27 +936,6 @@ author: rmpestano
         <category>Notícias</category>
         
         <category>RSJUG</category>
-        
-      </item>
-    
-      <item>
-        <title>Coding Dojo de Junho foi show! E que venham outros! </title>
-        <description>&lt;p&gt;Dia 24 de junho fizemos um &lt;a href=&quot;http://blog.danielwildt.com/2013/06/06/quer-praticar-programacao-coding-dojo/&quot; target=&quot;_blank&quot;&gt;Coding Dojo&lt;/a&gt; lá na PUC-RS, reunindo a galera. O &lt;a href=&quot;http://twitter.com/dionatanmoura&quot; target=&quot;_blank&quot;&gt;Dionatan Moura&lt;/a&gt; selecionou um problema bem legal e fizemos um dojo bacana pensando sobre &lt;a href=&quot;http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals&quot; target=&quot;_blank&quot;&gt;números romanos&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Tiramos umas fotos com a galera que participou &lt;a href=&quot;http://t.co/Ng0rNx12lc&quot; target=&quot;_blank&quot;&gt;[1]&lt;/a&gt; &lt;a href=&quot;http://t.co/J45S4ppXSF&quot; target=&quot;_blank&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 Jul 2013 11:45:26 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/Coding-Dojo-de-Junho-foi-show!-E-que-venham-outros!.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/Coding-Dojo-de-Junho-foi-show!-E-que-venham-outros!.html</guid>
-        
-        <category>coding</category>
-        
-        <category>dojo</category>
-        
-        <category>Evento</category>
-        
-        
-        <category>Evento</category>
         
       </item>
     

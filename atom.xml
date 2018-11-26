@@ -4,13 +4,80 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2018-11-26T16:00:55+00:00</updated>
+ <updated>2018-11-26T22:37:19+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>Encontro sobre Transformação digital</strong></title>
+   <link href="https://rsjug.github.io/site/transformacao-digital/"/>
+   <updated>2018-11-22T22:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/encontro-transformacao-digital</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#slides&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fotos&quot;&gt;Fotos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O Grupo de Usuários Java do RS, o RSJUG, se reuniu no dia &lt;code&gt;22 de Novembro de 2018&lt;/code&gt; para realizar um encontro com palestras de transformação digital, príncipios de clean code e integração contínua.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/giovanisalvador/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Giovani Salvador&lt;/strong&gt;&lt;/a&gt; - Transformação digital – Estratégias e Tecnologias
+&lt;a href=&quot;https://www.linkedin.com/in/alexandre-rodrigues-35788ba5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;*Alexandre Rodrigues&lt;/a&gt; - Clean code + SOLID
+&lt;a href=&quot;https://www.linkedin.com/in/rafael-pestano-5722a653/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Rafael Pestano&lt;/a&gt; - Pipeline como código usando Jenkins, Docker e Sonar&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;slides&quot;&gt;Slides&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem os slides de cada palestra&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;/site/img/posts/2018-11/transformacao_digital.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Transformação digital – Estratégias e Tecnologias&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;/site/img/posts/2018-11/apresentacao_solid.pptx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Clean code + SOLID&lt;/a&gt; (&lt;a href=&quot;/site/img/posts/2018-11/codigos.zip&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;baixar códigos fonte&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://rmpestano.github.io/talks/slides/javaee-pipeline/index-en.html#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pipeline como código usando Jenkins, Docker e Sonar&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;fotos&quot;&gt;Fotos&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Seguem alguns registros do evento:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img1.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img1.jpeg&quot; alt=&quot;img1&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img4.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img4.jpeg&quot; alt=&quot;img4&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img2.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img2.jpeg&quot; alt=&quot;img2&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;a class=&quot;image&quot; href=&quot;https://rsjug.github.io/site/img/posts/2018-11/img3.jpeg&quot;&gt;&lt;img src=&quot;/site/img/posts/2018-11/img3.jpeg&quot; alt=&quot;img3&quot; width=&quot;400&quot; height=&quot;250&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>RSJUG encontro de Maio</strong> no RSJug</title>
