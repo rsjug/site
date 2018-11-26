@@ -62,9 +62,9 @@ IMPORTANT: If you receive the error `can't find header files for ruby at /usr/sh
 +
 ----
 //fedora
-sudo dnf install -y gcc ruby-devel rubygems libxml2 libxml2-devel libxslt libxslt-devel
+sudo dnf install -y gcc ruby-devel build-essential rubygems libxml2 libxml2-devel libxslt libxslt-devel
 //ubuntu
-sudo apt-get install ruby-dev 
+sudo apt-get install ruby-dev build-essential
 //or
 sudo apt-get install ruby2.0-dev
 //or
