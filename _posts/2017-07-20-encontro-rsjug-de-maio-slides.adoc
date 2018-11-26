@@ -17,7 +17,7 @@ tags:
 - netflix
 excerpt: Demoramos, mas não falhamos! Slides do encontro de Maio/2017 da RSJUG
 comments: true
-post_author: brunomaomeh
+author: brunomaomeh
 ---
 = Slides do *Encontro de Maio/2017 da RSJUG*
 :toc:

@@ -1,4 +1,4 @@
-{% assign author = site.data.authors[page.author] %}
+{% assign author = site.authors[post.author] %}
 <div class="tile">
     {% if post.featured_image or post.featured_video_id %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="featurette">

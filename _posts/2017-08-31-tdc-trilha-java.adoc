@@ -12,7 +12,7 @@ tags:
 - trilhajava
 excerpt: Estamos no TDC - Trilha Java
 comments: true
-post_author: brunomaomeh
+author: brunomaomeh
 ---
 = The Developer's Conference - *Porto Alegre 2017*
 :toc:

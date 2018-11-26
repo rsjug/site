@@ -8,7 +8,7 @@ tags:
 - lançamento
 excerpt: O RSJug.org está de cara nova!
 comments: true
-post_author: rmpestano
+author: rmpestano
 ---
 = Novo site do RSJug
 :toc:
