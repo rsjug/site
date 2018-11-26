@@ -10,7 +10,7 @@ tags:
 - eventssourcing
 excerpt: Venha participar do nosso próximo encontro, onde iremos abortar temas como DDD, Domain Events e Event Sourcing 
 comments: true
-post_author: jsouzadev
+author: jsouzadev
 ---
 = *RSJUG encontro de Maio* no RSJug
 :toc:

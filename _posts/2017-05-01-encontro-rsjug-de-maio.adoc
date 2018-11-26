@@ -16,7 +16,7 @@ tags:
 - netflix
 excerpt: O próximo encontro da RSJUG já tem data e hora marcada!
 comments: true
-post_author: brunomaomeh
+author: brunomaomeh
 ---
 = 20 de Maio - *Encontro RSJUG* 
 :toc:

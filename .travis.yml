@@ -3,7 +3,10 @@ cache: bundler
 rvm:
 - 2.2.0
 sudo: false
-script: bundle exec rake deploy
+script: 
+- if [[ $TRAVIS_PULL_REQUEST == "false" ]] && [[ $TRAVIS_BRANCH == "master" ]]; then bundle exec rake deploy ; fi ;
+- if [[ $TRAVIS_PULL_REQUEST == "true" ]]; then jekyll build ; fi ;
+
 env:
   global:
     secure: FYdXMNimQloI5yt/bhiVQxttAei8rV8XlCdsVlvQ+zGoOjQgnyHwd+7g/+lJ1V6s+w/tvEjyOhHBkCK3cdmmQOe288/Zi387FgbFfUp+yR4CDPkxVLbUWr//cBhdQoxtW96wQ+IJ216irGGDGh0YlJ6GkITSh6GFMFNwrwDXkH3jRrh5o2X6JOgGwLbhgna0S+wbYegUIFQqPYjcAnfouwWzPeuVLzwFusMT88G/u11hknNrfxEZLe+Wpc31UlJoSEvqo8fGqdj9XHwBjwXnzbqXs7QRKA58HnnSBW6zN/hfGdGeBDp6BRsoMnFUoLZEGUL1XLzlILRODdKNs1IRrkr9hKMskBHAZurzoa30KHdmtpijqKWkVYbQpQqBwkSMb23aelXZOOYFGtmvtlELB0khnnGY6AwBdwBXh9a9fdGlg6wBPOv506E50XpKfO4Vjj0xGMEgVhUhEV0CgfS1HxX4OjRGO0wjsLlfZUMpkEmvhxTH0FWvtzgHqhGBUrrcjkpp7UV0crTgkoPzg+Se+hAn3rWYcWf3RrmwP29JypSyQVjdgPxDM/udfqW/3rl5JC5Z09Qk99GTwjqCeqkdgM8V2oNBBVISHwZkM0Jxdj+vUQfbUQ5cKS44Tomq6RwN26/x3j7/G8qA+EKjjiyflh3ywBYOqX8tMPLxllurTAk=

@@ -12,7 +12,7 @@ tags:
 - jetbrains
 excerpt: Em nosso último encontro vimos a linguagem Kotlin, SpringBoot, testes e realizamos um coding dojo 
 comments: true
-post_author: rmpestano
+author: rmpestano
 ---
 = *Kotlin* no RSJug
 :toc:

@@ -1,3 +1,4 @@
+{% assign author = site.authors[page.author] %}
 {% if page.featured_image or page.featured_video_id %}
     <div class="topper">
         {% if page.featured_image %}
@@ -24,6 +25,9 @@
     </h1>
     {% if page.id %}
     <aside>
+     	{% if author %}
+        Por <a href="{{author.site}}" target="_blank">{{author.name}}</a> -
+        {% endif %}
         {{ page.date | date: "%d/%m/%Y %H:%M:%S" }}
         {% if page.categories != empty %}
             <span style="color:#ddd"> | </span>

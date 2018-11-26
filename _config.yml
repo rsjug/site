@@ -85,3 +85,17 @@ exclude:
 
 disqus:
     shortname: 'rsjug'
+    
+authors:
+  rmpestano:
+    name: Rafael Pestano
+    email: rmpestano@gmail.com
+    site: https://github.com/rmpestano/
+  jsouzadev:
+    name: Jonathan Souza Santos
+    email: jonathan.programmer@gmail.com
+    site: http://rsjug.org/       
+  brunomaomeh:
+    name: Bruno Maomeh
+    email: brunomaomeh@gmail.com
+    site: https://brunomaomeh.wordpress.com/  
