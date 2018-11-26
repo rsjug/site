@@ -41,6 +41,7 @@ Seguem os slides de cada palestra
 Seguem alguns registros do evento:
 
 image:posts/2018-11/img1.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img1.jpeg", width=400,height=250]   
+image:posts/2018-11/img4.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img4.jpeg", width=400,height=250]   
 image:posts/2018-11/img2.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img2.jpeg", width=400,height=250]   
 image:posts/2018-11/img3.jpeg[link="https://rsjug.github.io/site/img/posts/2018-11/img3.jpeg", width=400,height=250]   
 
