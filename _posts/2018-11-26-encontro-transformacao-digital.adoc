@@ -19,13 +19,14 @@ author: rmpestano
 :toc:
 :revdate: 2018-11-22 19:00:00 GMT-0300
 :uri-rsjug-site: https://rsjug.org
+:hardbreaks:
 
 O Grupo de Usuários Java do RS, o RSJUG, se reuniu no dia `22 de Novembro de 2018` para realizar um encontro com palestras de transformação digital, príncipios de clean code e integração contínua.
 
 == Palestrantes
 
 https://www.linkedin.com/in/giovanisalvador/[*Giovani Salvador*^] - Transformação digital – Estratégias e Tecnologias
-https://www.linkedin.com/in/alexandre-rodrigues-35788ba5[*Alexandre Rodrigues*^] - Clean code \+ SOLID
+https://www.linkedin.com/in/alexandre-rodrigues-35788ba5[*Alexandre Rodrigues*^] - Clean code + SOLID
 https://www.linkedin.com/in/rafael-pestano-5722a653/[*Rafael Pestano*^] - Pipeline como código usando Jenkins, Docker e Sonar 
  
 == Slides
