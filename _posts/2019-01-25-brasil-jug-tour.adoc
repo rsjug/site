@@ -15,6 +15,7 @@ excerpt: Brasil JugTour trará para Porto Alegre um dois maiores palestrantes do
 comments: true
 author: rmpestano
 ---
+
 = *Brasil JugTour com Bruno Souza (BRJavaMan) e Venkat Subramaniam*
 :toc:
 :revdate: 2019-01-26 19:00:00 GMT-0300
