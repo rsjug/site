@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-01-26T11:12:53+00:00</updated>
+ <updated>2019-01-26T11:28:36+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -13,15 +13,15 @@
 
  
  <entry>
-   <title><strong>Brasil JugTour com Bruno Souza (BRJavaMan) e Venkat Subramaniam</strong></title>
-   <link href="https://rsjug.github.io/site/2019-01-25-brasil-jug-tour.html"/>
+   <title><strong>Brasil JugTour com Bruno Souza (JavaMan) e Venkat Subramaniam</strong></title>
+   <link href="https://rsjug.github.io/site/brasil-jug-tour/"/>
    <updated>2019-01-26T22:00:00+00:00</updated>
-   <id>https://rsjug.github.io/site/2019-01-25-brasil-jug-tour</id>
+   <id>https://rsjug.github.io/site/brasil-jug-tour</id>
    <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
 &lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
 &lt;ul class=&quot;sectlevel1&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;
-&lt;ul class=&quot;sectlevel3&quot;&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#dr_venkat_subramaniam&quot;&gt;Dr. Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#bruno_souza_javaman&quot;&gt;Bruno Souza (JavaMan)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -38,7 +38,7 @@
 &lt;div id=&quot;preamble&quot;&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;o RSJUG estará participando da &lt;strong&gt;Brasil JUG Tour deste ano&lt;/strong&gt;, um baita evento que ocorrerá no dia &lt;strong&gt;1 de Fevereiro&lt;/strong&gt; em Porto Alegre, com as presenças confirmadas dos Java Champions &lt;strong&gt;Dr. Venkat Subramaniam&lt;/strong&gt; e &lt;strong&gt;Bruno Souza (JavaMan)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O RSJUG estará participando da &lt;strong&gt;Brasil JUG Tour deste ano&lt;/strong&gt;, um baita evento que ocorrerá no dia &lt;strong&gt;1 de Fevereiro&lt;/strong&gt; em Porto Alegre, com as presenças confirmadas dos Java Champions &lt;strong&gt;Dr. Venkat Subramaniam&lt;/strong&gt; e &lt;strong&gt;Bruno Souza (JavaMan)&lt;/strong&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/brasil-jug-tour-2019.jpg&quot; alt=&quot;brasil jug tour 2019&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -51,8 +51,8 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/bruno-venkat.jpeg&quot; alt=&quot;bruno venkat&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;dr_venkat_subramaniam&quot;&gt;Dr. Venkat Subramaniam&lt;/h4&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;dr_venkat_subramaniam&quot;&gt;Dr. Venkat Subramaniam&lt;/h3&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Venkat é considerado um dos melhores palestrantes do mundo Java, tendo por 3 ano consecutivos ganhado o prêmio de &lt;code&gt;JavaOne Rockstar&lt;/code&gt;. Para mais informações sobre o Venkat acesse &lt;a href=&quot;https://agiledeveloper.com/aboutus.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este link&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
