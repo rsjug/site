@@ -1,0 +1,69 @@
+---
+layout: inner
+categories: eventos	
+permalink: /brasil-jug-tour/
+tags:
+- evento
+- software design
+- JavaMan
+- Venkat
+- VenkaTchê
+- liderança
+- opensource
+- carreira
+excerpt: Brasil JugTour trará para Porto Alegre um dois maiores palestrantes do mundo:  Dr. Venkat Subramaniam, seguido de um dos evangelistas mais influentes do mundo Java: Bruno Souza, o JavaMan!
+comments: true
+author: rmpestano
+---
+= *Brasil JugTour com Bruno Souza (BRJavaMan) e Venkat Subramaniam*
+:toc:
+:revdate: 2019-01-26 19:00:00 GMT-0300
+:uri-rsjug-site: https://rsjug.org
+
+o RSJUG estará participando da *Brasil JUG Tour deste ano*, um baita evento que ocorrerá no dia *1 de Fevereiro* em Porto Alegre, com as presenças confirmadas dos Java Champions *Dr. Venkat Subramaniam* e *Bruno Souza (JavaMan)*. 
+
+image:posts/2019-01/brasil-jug-tour-2019.jpg[]
+
+== Palestrantes
+
+image:posts/2019-01/bruno-venkat.jpeg[]
+
+==== Dr. Venkat Subramaniam 
+
+Venkat é considerado um dos melhores palestrantes do mundo Java, tendo por 3 ano consecutivos ganhado o prêmio de `JavaOne Rockstar`. Para mais informações sobre o Venkat acesse https://agiledeveloper.com/aboutus.html[este link^].
+
+Em Porto Alegre Venkat falará sobre *Software Design Principles for Programmers* (Princípios Básicos de Design de Software para Programadores).
+
+=== Bruno Souza (JavaMan)
+
+Bruno JavaMan é um evangelista Java e open source conhecido mundialmente, fundador e presidente do SOUJava e um dos representantes brasileiros do JCP.
+
+Em Porto Alegre ele falará sobre *Java e Open Source: tudo o que você quer saber*, este evento é `totalmente gratuito` para a comunidade. 
+
+Ainda na parte da tarde o Bruno irá ministrar um *workshop sobre liderança*  que tem como objetivo `alavancar a sua carreira facilitando a conquista de seus objetivos`. Para o workshop será cobrado um valor simbolico para viabilizar a vinda dos dois palestrantes.
+ 
+== Inscrições
+
+Teremos `dois eventos`, um *workshop a tarde* ministrado pelo Bruno e palestras a noite.
+
+* Workshop sobre liderança (a tarde): http://www.sucesurs.org.br/evento/workshop-rsjug-fevereiro-2019-workshop-com-bruno-souza-javaman-sobre-lideranca/
+* Evento com palestras (a noite): http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/
+
+== Patrocinadores
+
+Para tornar esse evento possível contamos com os seguintes patrocinadores:
+
+=== CWI Software 
+
+image:posts/2019-01/CWI.jpeg[]
+
+Agradecemos a CWI, `a primeira patrocinadora` deste evento, por ajudar a comunidade e a tornar possível este evento!
+
+
+Site: https://cwi.com.br/
+Facebook https://www.facebook.com/CWIsoftwareLtda/
+
+
+== NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!
+
+
