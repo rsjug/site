@@ -7,21 +7,20 @@ tags:
 - software design
 - JavaMan
 - Venkat
-- VenkaTchê
-- liderança
+- VenkaTche
+- lideranca
 - opensource
 - carreira
-excerpt: Brasil JugTour trará para Porto Alegre um dois maiores palestrantes do mundo:  Dr. Venkat Subramaniam, seguido de um dos evangelistas mais influentes do mundo Java: Bruno Souza, o JavaMan!
+excerpt: Brasil JugTour trará para Porto Alegre um dois maiores palestrantes do mundo o Dr. Venkat Subramaniam seguido de um dos evangelistas mais influentes do mundo Java Bruno Souza, o JavaMan!
 comments: true
 author: rmpestano
 ---
-
-= *Brasil JugTour com Bruno Souza (BRJavaMan) e Venkat Subramaniam*
+= *Brasil JugTour com Bruno Souza (JavaMan) e Venkat Subramaniam*
 :toc:
 :revdate: 2019-01-26 19:00:00 GMT-0300
 :uri-rsjug-site: https://rsjug.org
 
-o RSJUG estará participando da *Brasil JUG Tour deste ano*, um baita evento que ocorrerá no dia *1 de Fevereiro* em Porto Alegre, com as presenças confirmadas dos Java Champions *Dr. Venkat Subramaniam* e *Bruno Souza (JavaMan)*. 
+O RSJUG estará participando da *Brasil JUG Tour deste ano*, um baita evento que ocorrerá no dia *1 de Fevereiro* em Porto Alegre, com as presenças confirmadas dos Java Champions *Dr. Venkat Subramaniam* e *Bruno Souza (JavaMan)*. 
 
 image:posts/2019-01/brasil-jug-tour-2019.jpg[]
 
@@ -29,7 +28,7 @@ image:posts/2019-01/brasil-jug-tour-2019.jpg[]
 
 image:posts/2019-01/bruno-venkat.jpeg[]
 
-==== Dr. Venkat Subramaniam 
+=== Dr. Venkat Subramaniam 
 
 Venkat é considerado um dos melhores palestrantes do mundo Java, tendo por 3 ano consecutivos ganhado o prêmio de `JavaOne Rockstar`. Para mais informações sobre o Venkat acesse https://agiledeveloper.com/aboutus.html[este link^].
 
