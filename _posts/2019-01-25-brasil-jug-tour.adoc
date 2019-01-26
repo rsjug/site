@@ -11,7 +11,7 @@ tags:
 - lideranca
 - opensource
 - carreira
-excerpt: Brasil JugTour trará para Porto Alegre um dois maiores palestrantes do mundo o Dr. Venkat Subramaniam seguido de um dos evangelistas mais influentes do mundo Java, Bruno Souza o JavaMan!
+excerpt: Brasil JugTour trará para Porto Alegre um dos maiores palestrantes do mundo o Dr. Venkat Subramaniam seguido de um dos evangelistas mais influentes do mundo Java, Bruno Souza o JavaMan!
 comments: true
 author: rmpestano
 ---
