@@ -5,9 +5,120 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Nov 2018 00:22:47 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Nov 2018 00:22:47 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jan 2019 11:06:29 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jan 2019 11:06:29 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;Brasil JugTour com Bruno Souza (BRJavaMan) e Venkat Subramaniam&lt;/strong&gt;</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;
+&lt;ul class=&quot;sectlevel3&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#dr_venkat_subramaniam&quot;&gt;Dr. Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bruno_souza_javaman&quot;&gt;Bruno Souza (JavaMan)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#patrocinadores&quot;&gt;Patrocinadores&lt;/a&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#cwi_software&quot;&gt;CWI Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#nÃo_perca_esta_oportunidade_as_vagas_sÃo_limitadas&quot;&gt;NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;o RSJUG estará participando da &lt;strong&gt;Brasil JUG Tour deste ano&lt;/strong&gt;, um baita evento que ocorrerá no dia &lt;strong&gt;1 de Fevereiro&lt;/strong&gt; em Porto Alegre, com as presenças confirmadas dos Java Champions &lt;strong&gt;Dr. Venkat Subramaniam&lt;/strong&gt; e &lt;strong&gt;Bruno Souza (JavaMan)&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/brasil-jug-tour-2019.jpg&quot; alt=&quot;brasil jug tour 2019&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/bruno-venkat.jpeg&quot; alt=&quot;bruno venkat&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;dr_venkat_subramaniam&quot;&gt;Dr. Venkat Subramaniam&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Venkat é considerado um dos melhores palestrantes do mundo Java, tendo por 3 ano consecutivos ganhado o prêmio de &lt;code&gt;JavaOne Rockstar&lt;/code&gt;. Para mais informações sobre o Venkat acesse &lt;a href=&quot;https://agiledeveloper.com/aboutus.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este link&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Em Porto Alegre Venkat falará sobre &lt;strong&gt;Software Design Principles for Programmers&lt;/strong&gt; (Princípios Básicos de Design de Software para Programadores).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;bruno_souza_javaman&quot;&gt;Bruno Souza (JavaMan)&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Bruno JavaMan é um evangelista Java e open source conhecido mundialmente, fundador e presidente do SOUJava e um dos representantes brasileiros do JCP.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Em Porto Alegre ele falará sobre &lt;strong&gt;Java e Open Source: tudo o que você quer saber&lt;/strong&gt;, este evento é &lt;code&gt;totalmente gratuito&lt;/code&gt; para a comunidade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Ainda na parte da tarde o Bruno irá ministrar um &lt;strong&gt;workshop sobre liderança&lt;/strong&gt;  que tem como objetivo &lt;code&gt;alavancar a sua carreira facilitando a conquista de seus objetivos&lt;/code&gt;. Para o workshop será cobrado um valor simbolico para viabilizar a vinda dos dois palestrantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Teremos &lt;code&gt;dois eventos&lt;/code&gt;, um &lt;strong&gt;workshop a tarde&lt;/strong&gt; ministrado pelo Bruno e palestras a noite.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Workshop sobre liderança (a tarde): &lt;a href=&quot;http://www.sucesurs.org.br/evento/workshop-rsjug-fevereiro-2019-workshop-com-bruno-souza-javaman-sobre-lideranca/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/workshop-rsjug-fevereiro-2019-workshop-com-bruno-souza-javaman-sobre-lideranca/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evento com palestras (a noite): &lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;patrocinadores&quot;&gt;Patrocinadores&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Para tornar esse evento possível contamos com os seguintes patrocinadores:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;cwi_software&quot;&gt;CWI Software&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/CWI.jpeg&quot; alt=&quot;CWI&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Agradecemos a CWI, &lt;code&gt;a primeira patrocinadora&lt;/code&gt; deste evento, por ajudar a comunidade e a tornar possível este evento!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Site: &lt;a href=&quot;https://cwi.com.br/&quot; class=&quot;bare&quot;&gt;https://cwi.com.br/&lt;/a&gt;
+Facebook &lt;a href=&quot;https://www.facebook.com/CWIsoftwareLtda/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/CWIsoftwareLtda/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;nÃo_perca_esta_oportunidade_as_vagas_sÃo_limitadas&quot;&gt;NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 26 Jan 2019 22:00:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/2019-01-25-brasil-jug-tour.html</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/2019-01-25-brasil-jug-tour.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>&lt;strong&gt;Encontro sobre Transformação digital&lt;/strong&gt;</title>
@@ -919,23 +1030,6 @@ author: rmpestano
         <category>Calendário</category>
         
         <category>Evento</category>
-        
-      </item>
-    
-      <item>
-        <title>Confira a agenda de eventos do RSJUG para 2014! </title>
-        <description>&lt;p&gt;Confira o &lt;a href=&quot;http://www.sucesurs.org.br/definido-calendario-de-eventos-do-rsjug-para-2014&quot; target=&quot;_blank&quot;&gt;post no site da SUCESU-RS&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;E estamos procurando empresas interessadas em patrocinar o grupo e também pessoas interessadas em palestrar nos nossos eventos.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Nov 2013 00:50:35 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/Confira-a-agenda-de-eventos-do-RSJUG-para-2014!.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/Confira-a-agenda-de-eventos-do-RSJUG-para-2014!.html</guid>
-        
-        
-        <category>Notícias</category>
-        
-        <category>RSJUG</category>
         
       </item>
     
