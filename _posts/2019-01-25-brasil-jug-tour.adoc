@@ -60,24 +60,25 @@ image:posts/2019-01/CWI.jpeg[]
 Agradecemos a CWI, `a primeira patrocinadora` deste evento, por ajudar a comunidade e a tornar possível este evento!
 
 
-Site: https://cwi.com.br/
-Facebook https://www.facebook.com/CWIsoftwareLtda/
+* Site: https://cwi.com.br/
+* Facebook https://www.facebook.com/CWIsoftwareLtda/
+* Twitter: https://twitter.com/CWISoftware
 
 === DBServer 
 
 image:posts/2019-01/DBSERVER.png[]
 
-Site: www.dbserver.com.br/ 	
-Facebook https://www.facebook.com/DBServer_TI/
-Twiiter: https://twitter.com/DBServer_TI
+* Site: www.dbserver.com.br/
+* Facebook https://www.facebook.com/DBServer_TI/
+* Twitter: https://twitter.com/DBServer_TI
 
 
 === DeliverIT
 
 image:posts/2019-01/DELIVERIT.png[]
 
-Site: http://www.deliverit.com.br/
-Facebook https://www.facebook.com/DBServer_TI/
+* Site: http://www.deliverit.com.br/
+* Facebook https://www.facebook.com/DBServer_TI/
 
 
 == NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!
