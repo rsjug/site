@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jan 2019 16:16:47 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Jan 2019 16:16:47 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 16:21:16 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 16:21:16 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -102,9 +102,18 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Agradecemos a CWI, &lt;code&gt;a primeira patrocinadora&lt;/code&gt; deste evento, por ajudar a comunidade e a tornar possível este evento!&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Site: &lt;a href=&quot;https://cwi.com.br/&quot; class=&quot;bare&quot;&gt;https://cwi.com.br/&lt;/a&gt;
-Facebook &lt;a href=&quot;https://www.facebook.com/CWIsoftwareLtda/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/CWIsoftwareLtda/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Site: &lt;a href=&quot;https://cwi.com.br/&quot; class=&quot;bare&quot;&gt;https://cwi.com.br/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook &lt;a href=&quot;https://www.facebook.com/CWIsoftwareLtda/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/CWIsoftwareLtda/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/CWISoftware&quot; class=&quot;bare&quot;&gt;https://twitter.com/CWISoftware&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect2&quot;&gt;
@@ -112,10 +121,18 @@ Facebook &lt;a href=&quot;https://www.facebook.com/CWIsoftwareLtda/&quot; class=
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/DBSERVER.png&quot; alt=&quot;DBSERVER&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Site: www.dbserver.com.br/
-Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;
-Twiiter: &lt;a href=&quot;https://twitter.com/DBServer_TI&quot; class=&quot;bare&quot;&gt;https://twitter.com/DBServer_TI&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Site: www.dbserver.com.br/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/DBServer_TI&quot; class=&quot;bare&quot;&gt;https://twitter.com/DBServer_TI&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect2&quot;&gt;
@@ -123,9 +140,15 @@ Twiiter: &lt;a href=&quot;https://twitter.com/DBServer_TI&quot; class=&quot;bare
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/DELIVERIT.png&quot; alt=&quot;DELIVERIT&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Site: &lt;a href=&quot;http://www.deliverit.com.br/&quot; class=&quot;bare&quot;&gt;http://www.deliverit.com.br/&lt;/a&gt;
-Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Site: &lt;a href=&quot;http://www.deliverit.com.br/&quot; class=&quot;bare&quot;&gt;http://www.deliverit.com.br/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
