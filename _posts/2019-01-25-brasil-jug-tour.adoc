@@ -63,6 +63,22 @@ Agradecemos a CWI, `a primeira patrocinadora` deste evento, por ajudar a comunid
 Site: https://cwi.com.br/
 Facebook https://www.facebook.com/CWIsoftwareLtda/
 
+=== DBServer 
+
+image:posts/2019-01/DBSERVER.png[]
+
+Site: www.dbserver.com.br/ 	
+Facebook https://www.facebook.com/DBServer_TI/
+Twiiter: https://twitter.com/DBServer_TI
+
+
+=== DeliverIT
+
+image:posts/2019-01/DELIVERIT.png[]
+
+Site: http://www.deliverit.com.br/
+Facebook https://www.facebook.com/DBServer_TI/
+
 
 == NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!
 
