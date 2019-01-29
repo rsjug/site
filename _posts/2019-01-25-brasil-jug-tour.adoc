@@ -72,13 +72,12 @@ image:posts/2019-01/DBSERVER.png[]
 * Facebook https://www.facebook.com/DBServer_TI/
 * Twitter: https://twitter.com/DBServer_TI
 
-
 === DeliverIT
 
 image:posts/2019-01/DELIVERIT.png[]
 
 * Site: http://www.deliverit.com.br/
-* Facebook https://www.facebook.com/DBServer_TI/
+* Facebook: https://www.facebook.com/deliverit.brasil/
 
 
 == NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!
