@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Jan 2019 23:36:08 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Jan 2019 23:36:08 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 16:16:47 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 16:16:47 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -24,6 +24,8 @@
 &lt;li&gt;&lt;a href=&quot;#patrocinadores&quot;&gt;Patrocinadores&lt;/a&gt;
 &lt;ul class=&quot;sectlevel2&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#cwi_software&quot;&gt;CWI Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dbserver&quot;&gt;DBServer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#deliverit&quot;&gt;DeliverIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#nÃo_perca_esta_oportunidade_as_vagas_sÃo_limitadas&quot;&gt;NÃO PERCA ESTA OPORTUNIDADE, AS VAGAS SÃO LIMITADAS!&lt;/a&gt;&lt;/li&gt;
@@ -103,6 +105,27 @@
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Site: &lt;a href=&quot;https://cwi.com.br/&quot; class=&quot;bare&quot;&gt;https://cwi.com.br/&lt;/a&gt;
 Facebook &lt;a href=&quot;https://www.facebook.com/CWIsoftwareLtda/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/CWIsoftwareLtda/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;dbserver&quot;&gt;DBServer&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/DBSERVER.png&quot; alt=&quot;DBSERVER&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Site: www.dbserver.com.br/
+Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;
+Twiiter: &lt;a href=&quot;https://twitter.com/DBServer_TI&quot; class=&quot;bare&quot;&gt;https://twitter.com/DBServer_TI&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;deliverit&quot;&gt;DeliverIT&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-01/DELIVERIT.png&quot; alt=&quot;DELIVERIT&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Site: &lt;a href=&quot;http://www.deliverit.com.br/&quot; class=&quot;bare&quot;&gt;http://www.deliverit.com.br/&lt;/a&gt;
+Facebook &lt;a href=&quot;https://www.facebook.com/DBServer_TI/&quot; class=&quot;bare&quot;&gt;https://www.facebook.com/DBServer_TI/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
