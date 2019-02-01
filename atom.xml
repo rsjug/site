@@ -4,7 +4,7 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-02-01T19:51:57+00:00</updated>
+ <updated>2019-02-01T20:04:19+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
@@ -26,7 +26,8 @@
 &lt;li&gt;&lt;a href=&quot;#bruno_souza_javaman&quot;&gt;Bruno Souza (JavaMan)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#nscrições&quot;&gt;nscrições&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#patrocinadores&quot;&gt;Patrocinadores&lt;/a&gt;
 &lt;ul class=&quot;sectlevel2&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#cwi_software&quot;&gt;CWI Software&lt;/a&gt;&lt;/li&gt;
@@ -78,7 +79,15 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O evento ocorrerá no &lt;strong&gt;prédio 99-A na sala 204&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;nscrições&quot;&gt;nscrições&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Teremos &lt;code&gt;dois eventos&lt;/code&gt;, um &lt;strong&gt;workshop a tarde&lt;/strong&gt; ministrado pelo Bruno e palestras a noite.&lt;/p&gt;
@@ -89,7 +98,7 @@
 &lt;p&gt;Workshop sobre liderança (a tarde): &lt;a href=&quot;http://www.sucesurs.org.br/evento/workshop-rsjug-fevereiro-2019-workshop-com-bruno-souza-javaman-sobre-lideranca/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/workshop-rsjug-fevereiro-2019-workshop-com-bruno-souza-javaman-sobre-lideranca/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Evento com palestras (a noite): *Sala 204 do predio 99-A * tecnopuc: &lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Evento com palestras (a noite): &lt;strong&gt;Sala 204 do predio 99-A&lt;/strong&gt; tecnopuc: &lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/encontro-rsjug-fevereiro-2019-um-dos-maiores-palestrante-do-mundo-java-em-porto-alegre/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
