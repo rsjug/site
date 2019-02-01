@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 20:04:19 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 20:04:19 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 20:05:47 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 20:05:47 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -21,7 +21,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#nscrições&quot;&gt;nscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#incrições&quot;&gt;Incrições&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#patrocinadores&quot;&gt;Patrocinadores&lt;/a&gt;
 &lt;ul class=&quot;sectlevel2&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;#cwi_software&quot;&gt;CWI Software&lt;/a&gt;&lt;/li&gt;
@@ -81,7 +81,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;nscrições&quot;&gt;nscrições&lt;/h2&gt;
+&lt;h2 id=&quot;incrições&quot;&gt;Incrições&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Teremos &lt;code&gt;dois eventos&lt;/code&gt;, um &lt;strong&gt;workshop a tarde&lt;/strong&gt; ministrado pelo Bruno e palestras a noite.&lt;/p&gt;
