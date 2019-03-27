@@ -5,9 +5,122 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 20:05:47 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 20:05:47 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2019 12:40:31 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2019 12:40:31 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;Encontro DevJava Girls &amp;amp; RSJug&lt;/strong&gt;</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#thaiane_braga&quot;&gt;Thaiane Braga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ruan_victor&quot;&gt;Ruan Victor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#savanna_denega&quot;&gt;Savanna Denega&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#sebastian_webber&quot;&gt;Sebastian Webber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#heleno_da_silva_alves&quot;&gt;Heleno da Silva Alves&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre &lt;code&gt;DevOps&lt;/code&gt; e  &lt;code&gt;micro serviços&lt;/code&gt;. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Participe e aumente sua rede de contatos junto com o grupo &lt;code&gt;Devs JavaGirls&lt;/code&gt; que estão inseridas num contexto nacional e o &lt;code&gt;RSJug&lt;/code&gt; que atua fortemente no contexto regional.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;thaiane_braga&quot;&gt;Thaiane Braga&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Rubista, feminista e ativista. Engenheira de Software pela Universidade de Brasília e consultora desenvolvedora na Thoughtworks – Porto Alegre. Coorganizadora do Afropython.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;ruan_victor&quot;&gt;Ruan Victor&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Baiano, viciado em Bojack Horseman. Consultor e pedreiro de software na Thoughtworks. De vez em quando escreve para a Training Center.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;savanna_denega&quot;&gt;Savanna Denega&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Savanna já esteve atuando nas áreas de Robótica e Pesquisa/Iniciação Científica. Hoje trabalha como desenvolvedora back-end Java na IBM, é estudante de Ciência da Computação e adora participar e compartilhar conhecimento nas comunidades de tecnologia, assim participando da comunidade Devs Java Girls de POA e apoiando outros projetos, como o Django Girls.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;sebastian_webber&quot;&gt;Sebastian Webber&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Sou um profissional da área de TI com mais de 10 anos de experiência, especialmente em desenvolvimento de software e administração de banco de dados. Trabalho com PostgreSQL desde a versão 8.0 e hoje trabalho como SRE em alguns projetos. Eu amo aprender novas tecnologias mas hoje me emociono criando ferramentas de automação usando a linguagem de programação Go e compartilhar minhas experiências nos eventos de TI.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;heleno_da_silva_alves&quot;&gt;Heleno da Silva Alves&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Engenheiro de Software – +14 Anos de Experiência.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 09:00 Recepção / Abertura (Devs JavaGirls + RSJUG)&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 09:15 Palestra Desafios de segurança em arquitetura de microsserviços com Thaiane Braga e Ruan Victor&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 10:00 Palestra DevOps na prática com Savannah&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 10:45 Coffee&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:00 Palestra Coding Challenges em Java – Além dos Frameworks com Heleno da Silva Alves&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:45 Palestra Domando o Java sob containers com Sebastian Webber&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 12:30 Encerramento&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;TECNOPUC, Av. Ipiranga, 6681, Predio 99A Sala 204&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Inscrições gratuitas em &lt;a href=&quot;http://www.sucesurs.org.br/evento/encontro-devjava-girls-rsjug/&quot; class=&quot;bare&quot;&gt;http://www.sucesurs.org.br/evento/encontro-devjava-girls-rsjug/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Wed, 27 Mar 2019 13:00:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/rsjug-devjava-girls/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/rsjug-devjava-girls/</guid>
+        
+        <category>evento</category>
+        
+        <category>software design</category>
+        
+        <category>Devjava Girls</category>
+        
+        <category>Venkat</category>
+        
+        <category>carreira</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>&lt;strong&gt;Brasil JugTour com Bruno Souza (JavaMan) e Venkat Subramaniam&lt;/strong&gt;</title>
@@ -1095,31 +1208,6 @@ author: rmpestano
         
         
         <category>noticias</category>
-        
-      </item>
-    
-      <item>
-        <title>Evento do RSJUG 30/janeiro/2014! Construindo uma DSL com Java e ANTLR</title>
-        <description>&lt;p&gt;Temos evento confirmado no dia 30/janeiro/2014!&lt;/p&gt;
-
-&lt;p&gt;Palestrante: &lt;span&gt;Marcos Vinícius (ThoughtWorks)&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/evento/coding-dojo-palestras-rsjug-janeiro2014&quot; target=&quot;_blank&quot;&gt;Faça a sua inscrição&lt;/a&gt;. As vagas são limitadas.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Jan 2014 15:21:42 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/Evento-do-RSJUG-30-janeiro-2014!-Construindo-uma-DSL-com-Java-e-ANTLR.html</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/Evento-do-RSJUG-30-janeiro-2014!-Construindo-uma-DSL-com-Java-e-ANTLR.html</guid>
-        
-        <category>dsl</category>
-        
-        <category>Evento</category>
-        
-        <category>java</category>
-        
-        
-        <category>Calendário</category>
-        
-        <category>Evento</category>
         
       </item>
     
