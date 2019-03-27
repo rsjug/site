@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Mar 2019 12:40:31 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Mar 2019 12:40:31 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2019 12:45:57 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2019 12:45:57 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -31,7 +31,7 @@
 &lt;div id=&quot;preamble&quot;&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre &lt;code&gt;DevOps&lt;/code&gt; e  &lt;code&gt;micro serviços&lt;/code&gt;. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências.&lt;/p&gt;
+&lt;p&gt;Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre &lt;code&gt;DevOps&lt;/code&gt; e &lt;code&gt;micro serviços&lt;/code&gt;. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Participe e aumente sua rede de contatos junto com o grupo &lt;code&gt;Devs JavaGirls&lt;/code&gt; que estão inseridas num contexto nacional e o &lt;code&gt;RSJug&lt;/code&gt; que atua fortemente no contexto regional.&lt;/p&gt;
@@ -78,11 +78,11 @@
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 09:00 Recepção / Abertura (Devs JavaGirls + RSJUG)&lt;br&gt;
-&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 09:15 Palestra Desafios de segurança em arquitetura de microsserviços com Thaiane Braga e Ruan Victor&lt;br&gt;
-&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 10:00 Palestra DevOps na prática com Savannah&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 09:15 Palestra &lt;strong&gt;Desafios de segurança em arquitetura de microsserviços&lt;/strong&gt; com Thaiane Braga e Ruan Victor&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 10:00 Palestra &lt;strong&gt;DevOps na prática&lt;/strong&gt; com Savannah&lt;br&gt;
 &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 10:45 Coffee&lt;br&gt;
-&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:00 Palestra Coding Challenges em Java – Além dos Frameworks com Heleno da Silva Alves&lt;br&gt;
-&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:45 Palestra Domando o Java sob containers com Sebastian Webber&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:00 Palestra &lt;strong&gt;Coding Challenges em Java&lt;/strong&gt; – Além dos Frameworks com Heleno da Silva Alves&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 11:45 Palestra &lt;strong&gt;Domando o Java sob containers com Sebastian Webber&lt;/strong&gt;&lt;br&gt;
 &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 12:30 Encerramento&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -113,9 +113,11 @@
         
         <category>Devjava Girls</category>
         
-        <category>Venkat</category>
+        <category>Microserviços</category>
         
-        <category>carreira</category>
+        <category>Containers</category>
+        
+        <category>devops</category>
         
         
         <category>eventos</category>
