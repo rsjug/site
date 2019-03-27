@@ -6,9 +6,10 @@ tags:
 - evento
 - software design
 - Devjava Girls
-- Venkat
-- carreira
-excerpt: Brasil JugTour trará para Porto Alegre um dos maiores palestrantes do mundo o Dr. Venkat Subramaniam seguido de um dos evangelistas mais influentes do mundo Java, Bruno Souza o JavaMan!
+- Microserviços
+- Containers
+- devops
+excerpt: Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre DevOps e microserviços.  
 comments: true
 author: rmpestano
 ---
@@ -19,7 +20,7 @@ author: rmpestano
 :revdate: 2019-03-27 10:00:00 GMT-0300
 :link-inscricoes: http://www.sucesurs.org.br/evento/encontro-devjava-girls-rsjug/
 
-Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre `DevOps` e  `micro serviços`. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências.
+Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre `DevOps` e `micro serviços`. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências.
 
 Participe e aumente sua rede de contatos junto com o grupo `Devs JavaGirls` que estão inseridas num contexto nacional e o `RSJug` que atua fortemente no contexto regional.
  
@@ -55,11 +56,11 @@ Engenheiro de Software – +14 Anos de Experiência.
 == Programação
 
 icon:check-square-o[] 09:00 Recepção / Abertura (Devs JavaGirls + RSJUG)
-icon:check-square-o[] 09:15 Palestra Desafios de segurança em arquitetura de microsserviços com Thaiane Braga e Ruan Victor
-icon:check-square-o[] 10:00 Palestra DevOps na prática com Savannah
+icon:check-square-o[] 09:15 Palestra *Desafios de segurança em arquitetura de microsserviços* com Thaiane Braga e Ruan Victor
+icon:check-square-o[] 10:00 Palestra *DevOps na prática* com Savannah
 icon:check-square-o[] 10:45 Coffee
-icon:check-square-o[] 11:00 Palestra Coding Challenges em Java – Além dos Frameworks com Heleno da Silva Alves
-icon:check-square-o[] 11:45 Palestra Domando o Java sob containers com Sebastian Webber
+icon:check-square-o[] 11:00 Palestra *Coding Challenges em Java* – Além dos Frameworks com Heleno da Silva Alves
+icon:check-square-o[] 11:45 Palestra *Domando o Java sob containers com Sebastian Webber*
 icon:check-square-o[] 12:30 Encerramento
  
 == Local
