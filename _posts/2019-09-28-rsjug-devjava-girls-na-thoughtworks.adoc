@@ -11,7 +11,7 @@ tags:
 - boas prasticas
 excerpt: Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento na ThoughtWorks com palestras sobre carreira e boas práticas de APIs.  
 comments: true
-author: rmpestano
+author: jsouzajava
 ---
 = *Encontro DevJava Girls & RSJUG de Setembro*
 :toc:
