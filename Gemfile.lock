@@ -1,12 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     asciidoctor (1.5.8)
     coderay (1.1.2)
     colorator (1.1.0)
-    ffi (1.10.0)
+    ffi (1.11.1)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -36,7 +36,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     posix-spawn (0.3.13)
-    public_suffix (3.0.3)
+    public_suffix (3.1.1)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
@@ -48,7 +48,7 @@ GEM
       ffi (~> 1.0)
     rouge (1.11.1)
     safe_yaml (1.0.5)
-    sass (3.7.3)
+    sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -68,4 +68,4 @@ DEPENDENCIES
   rake-jekyll (~> 1.1.0)
 
 BUNDLED WITH
-   1.16.6
+   1.17.3

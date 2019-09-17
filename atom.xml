@@ -4,13 +4,108 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-03-27T13:59:33+00:00</updated>
+ <updated>2019-09-17T19:51:55+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>Encontro DevJava Girls &amp; RSJUG de Setembro</strong></title>
+   <link href="https://rsjug.github.io/site/rsjug-devjava-girls-na-thoughtworks/"/>
+   <updated>2019-09-28T17:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-devjava-girls-na-thoughtworks</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#palestrantes&quot;&gt;Palestrantes&lt;/a&gt;
+&lt;ul class=&quot;sectlevel2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#fabiane_marques&quot;&gt;Fabiane Marques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lilian_cavalet&quot;&gt;Lilian Cavalet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#alessandro_silva_da_silva&quot;&gt;Alessandro Silva da Silva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kaio_ferreira&quot;&gt;Kaio Ferreira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento com palestras sobre carreira e Java. Unindo todos para uma troca de conhecimentos, compartilhamento de ideias e experiências. Participe e aumente sua rede de contatos junto com o grupo Devs JavaGirls que estão inseridas num contexto nacional e o RSJUG que atua fortemente no contexto regional.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Promover um evento com tecnologias de Java, APIs e melhores práticas, com palestras falando sobre o contexto do spring e suas peculiaridades. Como as empresas estão trabalhando neste contexto novo, e exemplos práticos de como é usado no mercado de trabalho.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O evento ocorrerá no dia &lt;strong&gt;28 de setembro&lt;/strong&gt; das &lt;strong&gt;14:00 às 18:90&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;palestrantes&quot;&gt;Palestrantes&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;fabiane_marques&quot;&gt;Fabiane Marques&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Desenvolvedora de software há mais de 10 anos, formada em Sistemas de Informação. Entusiasta de java, apaixonada por livros e praias.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;lilian_cavalet&quot;&gt;Lilian Cavalet&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Encontra-se em uma carreira na área de desenvolvimento de softwares. Ela possui 7 anos de experiência no meio acadêmico e está há dois anos no meio corporativo. Atualmente cursa Informática Biomédica e tem trabalhado com desenvolvimento em Java. Entre seus maiores interesses, estão: aprender, experimentar culinárias distintas e board games.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;alessandro_silva_da_silva&quot;&gt;Alessandro Silva da Silva&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Profissional de TI com início das suas atividades no ano de 2009, atuando com suporte, implantação de sistemas, ingressou na área de desenvolvimento em 2014, atualmente trabalha em projetos com arquitetura de microsserviços. Gosta de aprender e ensinar, apaixonado por música, futebol, churrasco e chimarrão.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;kaio_ferreira&quot;&gt;Kaio Ferreira&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Analista de Sistemas/Desenvolvedor Java, trabalhando atualmente com arquitetura de microsserviços, que adora aprender e compartilhar assuntos referentes ao ecossistema Java. Minha missão é ajudar quem queira aprender sobre programação, evoluindo em sua jornada profissional e pessoal.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 14:00 Recepção / Abertura (Devs JavaGirls + RSJUG)&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 14:15 Palestra &lt;strong&gt;Yes, she codes&lt;/strong&gt; Fabiane Marques&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 15:00 Palestra &lt;strong&gt;Annotations: do Java 5 ao SpringBoot&lt;/strong&gt; Lilian Cavalet&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 15:45 Coffee&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 16:00 Palestra &lt;strong&gt;Introdução ao REST e ao mapeamento de sua API RESTful&lt;/strong&gt; Alessandro Silva da Silva&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 16:45 Palestra &lt;strong&gt;Boas práticas no Versionamento APIs&lt;/strong&gt; Kaio Ferreira&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 17:30 Encerramento&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Av. Ipiranga, 6681, TECNOPUC, ThoughtWorks Brazil - Prédio, 99A - 14 andar - sala 1402&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Inscrições gratuitas em &lt;a href=&quot;http://sucesurs.org.br/evento/dev-java-girls-rsjug-evento-thoughtworks/&quot; class=&quot;bare&quot;&gt;http://sucesurs.org.br/evento/dev-java-girls-rsjug-evento-thoughtworks/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>Encontro DevJava Girls &amp; RSJug</strong></title>
