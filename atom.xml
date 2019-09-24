@@ -4,13 +4,88 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-09-24T00:03:10+00:00</updated>
+ <updated>2019-09-24T00:23:48+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>RSJUG participa mais um ano do The Developers Conference</strong></title>
+   <link href="https://rsjug.github.io/site/rsjug-participa-da-coordenacao-do-tdc/"/>
+   <updated>2019-09-30T03:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-participa-do-tdc-poa-2019-</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#submeta_sua_palestra&quot;&gt;Submeta sua palestra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#conselhos_do_bruno_souza&quot;&gt;Conselhos do Bruno Souza&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;É com grande empolgação que informamos que o RSJUG estará compondo, assim como nos outros anos, a coordenação de algumas trilhas de um dos maiores eventos de tecnologia do Brasil, &lt;strong&gt;o TDC (The Developers Conference)&lt;/strong&gt;, que acontecerá em Porto Alegre. Este ano vamos contar com 3 coordenadores envolvidos durante os 3 dias do evento. O evento ocorrerá do dia &lt;strong&gt;27 a 30 de Novembro&lt;/strong&gt; das &lt;strong&gt;09:00 às 19:00&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/brunomaomeh/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bruno &quot;Maomeh&quot; Soares&lt;/strong&gt;&lt;/a&gt; estará atuando na Trilha Java.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/jsouzajava/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Jonathan Souza&lt;/strong&gt;&lt;/a&gt; estará atuando na Trilha Containers.&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/rodrigo-freitas-26b973101/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Rodrigo de Freitas&lt;/strong&gt;&lt;/a&gt; estára atuando na Trilha Arquitetura Java.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Agora gostaríamos de convidá-los a fazer parte do &lt;strong&gt;TDC&lt;/strong&gt; como palestrante ou como participante. Se você deseja palestrar nesse mega evento, não perca a chance e submeta agora a sua palestra. E vê se não demora, pois as inscrições estão abertas até o dia &lt;strong&gt;25 de Setembro&lt;/strong&gt; (isso mesmo, só até quarta-feira desta semana, então corre e submete logo a tua palestra). Ficaremos muito felizes em ver você e a sua palestra lá, tanto nas trilhas que estamos participando como nas outras trilhas do evento! As inscrições estão abertas tanto para as trilhas como para os workshops.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;submeta_sua_palestra&quot;&gt;Submeta sua palestra&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Para submeter sua palestra entre em &lt;a href=&quot;http://cfp-poa.thedevconf.com.br/&quot; class=&quot;bare&quot;&gt;http://cfp-poa.thedevconf.com.br/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;UniRitter - &lt;a href=&quot;https://www.uniritter.edu.br&quot; class=&quot;bare&quot;&gt;https://www.uniritter.edu.br&lt;/a&gt;&lt;br&gt;
+Rua Orfanotrófio, 555, Alto - Teresópolis, Porto Alegre - RS, 90840-440&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;conselhos_do_bruno_souza&quot;&gt;Conselhos do Bruno Souza&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, o &lt;a href=&quot;https://twitter.com/brjavaman&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bruno Souza &quot;javaman&quot;&lt;/strong&gt;&lt;/a&gt; fez um vídeo ajudando um pouco sobre o processo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe width=&quot;920&quot; height=&quot;479&quot; src=&quot;https://www.youtube.com/watch?v=yXBfloG4wMM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Analise a grade de palestras das edições anteriores e invista tempo na escolha do tema e título.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Leve a sério: peça aos amigos para fazerem uma leitura crítica do texto e claro, uma boa revisão ortográfica e escreva uma descrição legal da palestra, não apenas uma linha.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mini biografia coerente com o tema da palestra: Procure enviar uma mini biografia que seja coerente com a palestra submetida. Pegar aquela minibio que você usa há 5 anos e está desatualizada reduz as suas chances de vitória!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Seja criativo e não blefe. Submeta palestras sobre os assuntos que você tem conhecimento e experiência. Assim, teremos um evento melhor para todos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;O passo mais importante para ser aprovado como palestrante é sem dúvida nenhuma submeter pelo menos uma palestra. Então, independente de qualquer coisa, participe, arrisque e divulgue.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>Encontro DevJava Girls &amp; RSJUG de Setembro</strong></title>
