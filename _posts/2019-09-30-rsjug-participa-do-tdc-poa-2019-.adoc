@@ -43,7 +43,7 @@ Rua Orfanotrófio, 555, Alto - Teresópolis, Porto Alegre - RS, 90840-440
 
 Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, o https://twitter.com/brjavaman[*Bruno Souza "javaman"*^] fez um vídeo ajudando um pouco sobre o processo.
 ++++
-<iframe width="920" height="479" src="https://www.youtube.com/watch?v=yXBfloG4wMM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="920" height="479" src="https://www.youtube.com/embed/yXBfloG4wMM?rel=0" frameborder="0" allowfullscreen></iframe>
 ++++
 
 * Analise a grade de palestras das edições anteriores e invista tempo na escolha do tema e título.
