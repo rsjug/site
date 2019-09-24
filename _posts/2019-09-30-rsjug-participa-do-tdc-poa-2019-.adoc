@@ -39,7 +39,7 @@ Para submeter sua palestra entre em {link-cfp-poa}.
 UniRitter - https://www.uniritter.edu.br
 Rua Orfanotrófio, 555, Alto - Teresópolis, Porto Alegre - RS, 90840-440
 
-=== Conselhos do Bruno Souza
+== Conselhos do Bruno Souza
 
 Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, o https://twitter.com/brjavaman[*Bruno Souza "javaman"*^] fez um vídeo ajudando um pouco sobre o processo.
 ++++
