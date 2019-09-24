@@ -1,0 +1,54 @@
+---
+layout: inner
+categories: eventos	
+permalink: /rsjug-participa-da-coordenacao-do-tdc/
+tags:
+- eventos
+- thedevconf
+- thedevconf2019
+- tdcpoa
+- tdcpoa2019
+- java
+- arquiteturajava
+- containers
+excerpt: RSJUG participa da coordenação de algumas trilhas e convida a comunidade para submeter palestras.  
+comments: true
+author: jsouzajava
+---
+= *RSJUG participa mais um ano do The Developers Conference*
+:toc:
+:icons: font
+:hardbreaks:
+:revdate: 2019-09-30 00:00:00 GMT-0300
+:link-cfp-poa: http://cfp-poa.thedevconf.com.br/
+
+É com grande empolgação que informamos que o RSJUG estará compondo, assim como nos outros anos, a coordenação de algumas trilhas de um dos maiores eventos de tecnologia do Brasil, *o TDC (The Developers Conference)*, que acontecerá em Porto Alegre. Este ano vamos contar com 3 coordenadores envolvidos durante os 3 dias do evento. O evento ocorrerá do dia *27 a 30 de Novembro* das *09:00 às 19:00*. 
+
+https://www.linkedin.com/in/brunomaomeh/[*Bruno "Maomeh" Soares*^] estará atuando na Trilha Java.
+https://www.linkedin.com/in/jsouzajava/[*Jonathan Souza*^] estará atuando na Trilha Containers.
+https://www.linkedin.com/in/rodrigo-freitas-26b973101/[*Rodrigo de Freitas*^] estára atuando na Trilha Arquitetura Java.
+
+Agora gostaríamos de convidá-los a fazer parte do *TDC* como palestrante ou como participante. Se você deseja palestrar nesse mega evento, não perca a chance e submeta agora a sua palestra. E vê se não demora, pois as inscrições estão abertas até o dia *25 de Setembro* (isso mesmo, só até quarta-feira desta semana, então corre e submete logo a tua palestra). Ficaremos muito felizes em ver você e a sua palestra lá, tanto nas trilhas que estamos participando como nas outras trilhas do evento! As inscrições estão abertas tanto para as trilhas como para os workshops.
+
+== Submeta sua palestra
+
+Para submeter sua palestra entre em {link-cfp-poa}.
+
+== Local
+
+UniRitter - https://www.uniritter.edu.br
+Rua Orfanotrófio, 555, Alto - Teresópolis, Porto Alegre - RS, 90840-440
+
+=== Conselhos do Bruno Souza
+
+Mas se você ainda tem alguma dúvida sobre como fazer a submissão da sua palestra, o https://twitter.com/brjavaman[*Bruno Souza "javaman"*^] fez um vídeo ajudando um pouco sobre o processo.
+++++
+<iframe width="920" height="479" src="https://www.youtube.com/watch?v=yXBfloG4wMM?rel=0" frameborder="0" allowfullscreen></iframe>
+++++
+
+* Analise a grade de palestras das edições anteriores e invista tempo na escolha do tema e título.
+* Leve a sério: peça aos amigos para fazerem uma leitura crítica do texto e claro, uma boa revisão ortográfica e escreva uma descrição legal da palestra, não apenas uma linha.
+* Mini biografia coerente com o tema da palestra: Procure enviar uma mini biografia que seja coerente com a palestra submetida. Pegar aquela minibio que você usa há 5 anos e está desatualizada reduz as suas chances de vitória!
+* Seja criativo e não blefe. Submeta palestras sobre os assuntos que você tem conhecimento e experiência. Assim, teremos um evento melhor para todos.
+
+*O passo mais importante para ser aprovado como palestrante é sem dúvida nenhuma submeter pelo menos uma palestra. Então, independente de qualquer coisa, participe, arrisque e divulgue.*
