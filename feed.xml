@@ -5,8 +5,8 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Sep 2019 02:20:44 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Sep 2019 02:20:44 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Sep 2019 00:03:10 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2019 00:03:10 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -36,7 +36,7 @@
 &lt;p&gt;Promover um evento com tecnologias de Java, APIs e melhores práticas, com palestras falando sobre o contexto do spring e suas peculiaridades. Como as empresas estão trabalhando neste contexto novo, e exemplos práticos de como é usado no mercado de trabalho.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;O evento ocorrerá no dia &lt;strong&gt;28 de setembro&lt;/strong&gt; das &lt;strong&gt;14:00 às 18:90&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O evento ocorrerá no dia &lt;strong&gt;28 de setembro&lt;/strong&gt; das &lt;strong&gt;14:00 às 18:00&lt;/strong&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -105,15 +105,17 @@
         
         <category>evento</category>
         
-        <category>devs java girls</category>
+        <category>devsjavagirls</category>
         
         <category>apis</category>
         
-        <category>microservices</category>
+        <category>microservicos</category>
         
-        <category>monolotic</category>
+        <category>monolitico</category>
         
-        <category>boas prasticas</category>
+        <category>boaspraticas</category>
+        
+        <category>versionamento</category>
         
         
         <category>eventos</category>
