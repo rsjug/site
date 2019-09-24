@@ -4,11 +4,12 @@ categories: eventos
 permalink: /rsjug-devjava-girls-na-thoughtworks/
 tags:
 - evento
-- devs java girls
+- devsjavagirls
 - apis
-- microservices
-- monolotic
-- boas prasticas
+- microservicos
+- monolitico
+- boaspraticas
+- versionamento
 excerpt: Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promovem um evento na ThoughtWorks com palestras sobre carreira e boas práticas de APIs.  
 comments: true
 author: jsouzajava
@@ -24,7 +25,7 @@ Duas das maiores comunidades de desenvolvedores Java do Rio Grande do Sul promov
 
 Promover um evento com tecnologias de Java, APIs e melhores práticas, com palestras falando sobre o contexto do spring e suas peculiaridades. Como as empresas estão trabalhando neste contexto novo, e exemplos práticos de como é usado no mercado de trabalho.
  
-O evento ocorrerá no dia *28 de setembro* das *14:00 às 18:90*.
+O evento ocorrerá no dia *28 de setembro* das *14:00 às 18:00*.
 
 == Palestrantes
 
