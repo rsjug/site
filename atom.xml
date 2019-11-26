@@ -4,13 +4,86 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-09-24T00:46:19+00:00</updated>
+ <updated>2019-11-26T14:47:49+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>RSJUG &amp; GUMA promove evento sobre plataforma Java na uMov.me Arena</strong></title>
+   <link href="https://rsjug.github.io/site/rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena/"/>
+   <updated>2019-11-28T03:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;O RSJUG está promovendo um evento com um palestrante internacional. Victor Orozco é um Java Champion e está em Porto Alegre para o TDC (The Developers Conference). Sobretudo, se dispôs para participar de um meetup do RSJUG. Reconhecimento mundialmente em eventos sobre a tecnologia Java, está compartilhando seu conhecimento conosco, e trazendo informações sobre tendências de mercado.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Além disto, também temos um pessoal falando sobre estratégias de deploy de suas aplicações Java utilizando AWS (Amazon Web Services, que é uma plataforma de serviços de computação em nuvem), que também é tendência de grandes empresas do mercado.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Venha participar do evento para trocar experiências, analisar novas oportunidades em cima dessas tech stacks e também fazer aquele networking, não fique fora dessa.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-11/victor.jpeg&quot; alt=&quot;victor&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/victororozco/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Victor Orozco&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-11/robson.jpeg&quot; alt=&quot;robson&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/robsonbittencourt/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Robson Bittencourt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-11/marcelo.jpeg&quot; alt=&quot;marcelo&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/marcelo-fleck-hexsel-446a3330/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Marcelo Hexsel&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2019-11/guilherme.jpeg&quot; alt=&quot;guilherme&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/guilhermeeilas/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Guilherme Elias&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Para se inscrever no evento entre em &lt;a href=&quot;http://sucesurs.org.br/eventos/rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena&quot; class=&quot;bare&quot;&gt;http://sucesurs.org.br/eventos/rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;uMov.me Arena - &lt;a href=&quot;https://www.umov.me/arena/&quot; class=&quot;bare&quot;&gt;https://www.umov.me/arena/&lt;/a&gt;&lt;br&gt;
+R. Prof. Cristiano Fischer, 464 - Térreo - Petrópolis, Porto Alegre - RS, 91410-001&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 18:45 Recepção / Abertura (RSJUG + GUMA)&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 19:15 Palestra &lt;strong&gt;MicroProfile for the busy developer&lt;/strong&gt; com Victor Orozco&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 20:15 Coffee&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 20:40 Palestra &lt;strong&gt;Evoluindo a Estratégia de Deployment de Aplicações Java com AWS&lt;/strong&gt; com Marcelo, Robson e Guilherme Elias&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 21:40 Encerramento&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>RSJUG participa mais um ano do The Developers Conference</strong></title>
