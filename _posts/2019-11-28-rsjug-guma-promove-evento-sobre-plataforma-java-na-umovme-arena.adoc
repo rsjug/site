@@ -1,0 +1,55 @@
+---
+layout: inner
+categories: eventos	
+permalink: /rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena/
+tags:
+- eventos
+- java
+- microprofile
+- aws
+- arquitetura
+excerpt: RSJUG & GUMA promove evento sobre plataforma Java na uMov.me Arena.  
+comments: true
+author: jsouzajava
+---
+= *RSJUG & GUMA promove evento sobre plataforma Java na uMov.me Arena*
+:toc:
+:icons: font
+:hardbreaks:
+:revdate: 2019-11-28 00:00:00 GMT-0300
+:link-inscricoes: http://sucesurs.org.br/eventos/rsjug-guma-promove-evento-sobre-plataforma-java-na-umovme-arena
+
+O RSJUG está promovendo um evento com um palestrante internacional. Victor Orozco é um Java Champion e está em Porto Alegre para o TDC (The Developers Conference). Sobretudo, se dispôs para participar de um meetup do RSJUG. Reconhecimento mundialmente em eventos sobre a tecnologia Java, está compartilhando seu conhecimento conosco, e trazendo informações sobre tendências de mercado.
+
+Além disto, também temos um pessoal falando sobre estratégias de deploy de suas aplicações Java utilizando AWS (Amazon Web Services, que é uma plataforma de serviços de computação em nuvem), que também é tendência de grandes empresas do mercado.
+
+Venha participar do evento para trocar experiências, analisar novas oportunidades em cima dessas tech stacks e também fazer aquele networking, não fique fora dessa.
+
+image:posts/2019-11/victor.jpeg[]
+https://www.linkedin.com/in/victororozco/[*Victor Orozco*^]
+
+image:posts/2019-11/robson.jpeg[]
+https://www.linkedin.com/in/robsonbittencourt/[*Robson Bittencourt*^]
+
+image:posts/2019-11/marcelo.jpeg[]
+https://www.linkedin.com/in/marcelo-fleck-hexsel-446a3330/[*Marcelo Hexsel*^]
+
+image:posts/2019-11/guilherme.jpeg[]
+https://www.linkedin.com/in/guilhermeeilas/[*Guilherme Elias*^]
+
+== Inscrições
+
+Para se inscrever no evento entre em {link-inscricoes}.
+
+== Local
+
+uMov.me Arena - https://www.umov.me/arena/
+R. Prof. Cristiano Fischer, 464 - Térreo - Petrópolis, Porto Alegre - RS, 91410-001
+
+== Programação
+
+icon:check-square-o[] 18:45 Recepção / Abertura (RSJUG + GUMA)
+icon:check-square-o[] 19:15 Palestra *MicroProfile for the busy developer* com Victor Orozco
+icon:check-square-o[] 20:15 Coffee
+icon:check-square-o[] 20:40 Palestra *Evoluindo a Estratégia de Deployment de Aplicações Java com AWS* com Marcelo, Robson e Guilherme Elias
+icon:check-square-o[] 21:40 Encerramento
