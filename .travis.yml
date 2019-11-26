@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler
 rvm:
-- 2.2.0
+- 2.2.7
 sudo: false
 script: 
 - if [[ $TRAVIS_PULL_REQUEST == "false" ]] && [[ $TRAVIS_BRANCH == "master" ]]; then bundle exec rake deploy ; fi ;
