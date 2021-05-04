@@ -5,9 +5,83 @@
     <description>Grupo de Usuários Java do Rio Grande do Sul</description>
     <link>https://rsjug.github.io/site/site/</link>
     <atom:link href="https://rsjug.github.io/site/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Nov 2019 15:47:34 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2019 15:47:34 +0000</lastBuildDate>
+    <pubDate>Tue, 04 May 2021 20:22:44 +0000</pubDate>
+    <lastBuildDate>Tue, 04 May 2021 20:22:44 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>&lt;strong&gt;Analisando a saúde do seu código com DR-Tools Suite&lt;/strong&gt;</title>
+        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;RSJUG promove evento sobre qualidade de código e melhoria de código a partir do entendimento de smells e técnicas de refactoring.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Analisando a saúde do seu código com DR-Tools Suite&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Guilherme Lacerda&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Pioneiro em Metodologias Ágeis no Brasil, onde atua desde 2001. Professor na Unisinos. Doutorando em Ciência da Computação  na UFRGS.  Tem ajudado empresas e times, de diferentes nichos de negócio privado, público, indústria, na melhoria contínua de suas práticas em engenharia de software, gestão e desenvolvimento de produtos. Mentor na Wildtech e criador do DR-Tools Suite (drtools.site).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2021-05/Lacerda.jpg&quot; alt=&quot;Lacerda&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/guilhermelacerda/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Guilherme Lacerda&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Para se inscrever no evento entre em &lt;a href=&quot;https://encontrorsjugmaio202.eventize.com.br/inscricao&quot; class=&quot;bare&quot;&gt;https://encontrorsjugmaio202.eventize.com.br/inscricao&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Os inscritos receberão o link para sala virtual.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 19:15 Recepção / Abertura (RSJUG)&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 19:30 Palestra &lt;strong&gt;Analisando a saúde do seu código com DR-Tools Suite&amp;#8230;&amp;#8203;&lt;/strong&gt; com Guilherme Lacerda&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 20:30 Discussão aberta com participantes&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 21:00 Encerramento&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sun, 05 Apr 2020 03:00:00 +0000</pubDate>
+        <link>https://rsjug.github.io/site/site/2021-04-05-rsjug-qualidade-melhoria-codigo-smells-tecnicas-refactoring/</link>
+        <guid isPermaLink="true">https://rsjug.github.io/site/site/2021-04-05-rsjug-qualidade-melhoria-codigo-smells-tecnicas-refactoring/</guid>
+        
+        <category>eventos</category>
+        
+        <category>java</category>
+        
+        <category>qualidade</category>
+        
+        <category>codigo</category>
+        
+        
+        <category>eventos</category>
+        
+      </item>
     
       <item>
         <title>&lt;strong&gt;RSJUG &amp;amp; GUMA promove evento sobre plataforma Java na uMov.me Arena&lt;/strong&gt;</title>
@@ -997,88 +1071,6 @@ Rua Orfanotrófio, 555, Alto - Teresópolis, Porto Alegre - RS, 90840-440&lt;/p&
         <category>java</category>
         
         <category>trilhajava</category>
-        
-        
-        <category>eventos</category>
-        
-      </item>
-    
-      <item>
-        <title>GUDay &lt;strong&gt;26 de Agosto de 2017&lt;/strong&gt;</title>
-        <description>&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
-&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
-&lt;ul class=&quot;sectlevel3&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;#apresentação&quot;&gt;Apresentação&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;GUDay 2017&lt;/strong&gt;: &quot;Tecnologia a favor dos negócios, desafios e perspectivas&quot;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;apresentação&quot;&gt;Apresentação&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;O &lt;strong&gt;GUDay&lt;/strong&gt; é um evento anual criado da parceria entre a &lt;a href=&quot;http://www.sucesurs.org.br&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SUCESU-RS&lt;/a&gt; com os &lt;em&gt;Grupos de Usuários do Rio Grande do Sul&lt;/em&gt;, que já tem data marcada no calendário gaúcho e esse ano apresentará o tema a &lt;strong&gt;Tecnologia a favor dos negócios, desafios e perspectivas&lt;/strong&gt;. O evento contará com 2 trilhas simultâneas, &lt;em&gt;Gestão&lt;/em&gt; e &lt;em&gt;Técnica&lt;/em&gt;, onde o tema será tratado dos mais diferentes pontos de vista, seja &lt;em&gt;Business Inteligence&lt;/em&gt;, &lt;em&gt;Governança&lt;/em&gt; e &lt;em&gt;Analise de Negócios&lt;/em&gt;, passando por &lt;em&gt;Métodos Ágeis&lt;/em&gt;, &lt;em&gt;Mobilidade&lt;/em&gt;, &lt;em&gt;Infraestrutra&lt;/em&gt; e muito mais.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Esse ano a &lt;strong&gt;RSJUG&lt;/strong&gt; estará presente na trilha &lt;em&gt;Técinica&lt;/em&gt; e tem o orgulho de ser representada pelo &lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Cristiano Altmann&lt;/a&gt; e a sua palestra sobre a &lt;strong&gt;Plataforma de microserviços da Netflix&lt;/strong&gt;, a mesma que já foi apresentada no &lt;a href=&quot;encontro-maio-2017/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;nosso encontro do mês de Maio&lt;/a&gt;. Então se você perdeu a chance de assistir a primeira vez, terá uma nova chance, e eu sei que agora você não vai querer perder! E para quem já assistiu à esta palestra, com certeza encontrará outras palestras de seu interesse, então corre lá e faz logo a tua inscrição!&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;data_e_local_do_evento&quot;&gt;Data e local do evento&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;: 26 de Agosto de 2017&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Local&lt;/strong&gt;: Unisinos Campus Porto Alegre (&lt;a href=&quot;https://goo.gl/maps/Zf1uqH8LUrx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mapa&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Todas as informações e incrições podem ser encontradas no site da &lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday2017/apresentacao&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SUCESU-RS&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;plataforma_de_microserviços_da_netflix&quot;&gt;Plataforma de microserviços da Netflix&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Além de ser uma referência em cloud, arquitetura de microserviços e na qualidade de seus serviços, a Netflix colabora com a comunidade disponibilizando algumas de suas ferramentas como open source. Nesta palestra pretendo apresentar algumas destas ferramentas, o seu uso e quais as vantagens que oferecem.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Cristiano&lt;/strong&gt; é desenvolvedor de software a 9 anos, atuando em diferentes tipos de projeto principalmente com a plataforma Java. Entusiasta em diferentes tipos de arquitetura e modelos de desenvolvimento, atualmente atuo como arquiteto pela consultoria Ilegra.&lt;br&gt;
-&lt;a href=&quot;https://www.linkedin.com/in/crisaltmann/&quot; class=&quot;bare&quot;&gt;https://www.linkedin.com/in/crisaltmann/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;programação&quot;&gt;Programação&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.sucesurs.org.br/eventos/guday2017/inscricao&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2017-08/20170815-guday01.png&quot; alt=&quot;20170815 guday01&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Tue, 15 Aug 2017 23:20:00 +0000</pubDate>
-        <link>https://rsjug.github.io/site/site/guday-2017</link>
-        <guid isPermaLink="true">https://rsjug.github.io/site/site/guday-2017</guid>
-        
-        <category>rsjug</category>
-        
-        <category>evento</category>
-        
-        <category>guday</category>
-        
-        <category>guday2017</category>
-        
-        <category>guday-2017</category>
-        
-        <category>sucesu</category>
-        
-        <category>sucesurs</category>
-        
-        <category>sucesu-rs</category>
-        
-        <category>netflix</category>
         
         
         <category>eventos</category>

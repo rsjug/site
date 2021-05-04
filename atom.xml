@@ -4,13 +4,75 @@
  <title>RSJUG</title>
  <link href="/site/atom.xml" rel="self"/>
  <link href="/site/"/>
- <updated>2019-11-26T15:47:34+00:00</updated>
+ <updated>2021-05-04T20:22:44+00:00</updated>
  <id>https://rsjug.github.io/site</id>
  <author>
    <name>rsjug</name>
    <email>rsjug@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title><strong>Analisando a saúde do seu código com DR-Tools Suite</strong></title>
+   <link href="https://rsjug.github.io/site/2021-04-05-rsjug-qualidade-melhoria-codigo-smells-tecnicas-refactoring/"/>
+   <updated>2020-04-05T03:00:00+00:00</updated>
+   <id>https://rsjug.github.io/site/rsjug-qualidade-melhoria-codigo-smells-tecnicas-refactoring</id>
+   <content type="html">&lt;div id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+&lt;div id=&quot;toctitle&quot;&gt;Table of Contents&lt;/div&gt;
+&lt;ul class=&quot;sectlevel1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#inscrições&quot;&gt;Inscrições&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#programação&quot;&gt;Programação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;RSJUG promove evento sobre qualidade de código e melhoria de código a partir do entendimento de smells e técnicas de refactoring.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Analisando a saúde do seu código com DR-Tools Suite&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Guilherme Lacerda&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Pioneiro em Metodologias Ágeis no Brasil, onde atua desde 2001. Professor na Unisinos. Doutorando em Ciência da Computação  na UFRGS.  Tem ajudado empresas e times, de diferentes nichos de negócio privado, público, indústria, na melhoria contínua de suas práticas em engenharia de software, gestão e desenvolvimento de produtos. Mentor na Wildtech e criador do DR-Tools Suite (drtools.site).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/site/img/posts/2021-05/Lacerda.jpg&quot; alt=&quot;Lacerda&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/guilhermelacerda/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Guilherme Lacerda&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;inscrições&quot;&gt;Inscrições&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Para se inscrever no evento entre em &lt;a href=&quot;https://encontrorsjugmaio202.eventize.com.br/inscricao&quot; class=&quot;bare&quot;&gt;https://encontrorsjugmaio202.eventize.com.br/inscricao&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;local&quot;&gt;Local&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Os inscritos receberão o link para sala virtual.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;programação&quot;&gt;Programação&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 19:15 Recepção / Abertura (RSJUG)&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 19:30 Palestra &lt;strong&gt;Analisando a saúde do seu código com DR-Tools Suite&amp;#8230;&amp;#8203;&lt;/strong&gt; com Guilherme Lacerda&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 20:30 Discussão aberta com participantes&lt;br&gt;
+&lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt;&lt;/span&gt; 21:00 Encerramento&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+ </entry>
  
  <entry>
    <title><strong>RSJUG &amp; GUMA promove evento sobre plataforma Java na uMov.me Arena</strong></title>
