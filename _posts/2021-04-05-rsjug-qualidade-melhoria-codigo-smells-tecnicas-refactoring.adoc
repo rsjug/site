@@ -26,8 +26,8 @@ RSJUG promove evento sobre qualidade de código e melhoria de código a partir d
 
 Pioneiro em Metodologias Ágeis no Brasil, onde atua desde 2001. Professor na Unisinos. Doutorando em Ciência da Computação  na UFRGS.  Tem ajudado empresas e times, de diferentes nichos de negócio privado, público, indústria, na melhoria contínua de suas práticas em engenharia de software, gestão e desenvolvimento de produtos. Mentor na Wildtech e criador do DR-Tools Suite (drtools.site).
 
-image:posts/2021-05/Lacerda.jpg[]
-https://www.linkedin.com/in/guilhermelacerda/[*Guilherme Lacerda*^]
+image:posts/2021-05/Lacerda.jpeg[]
+https://www.guilhermelacerda.net/[*Guilherme Lacerda*^]
 
 == Inscrições
 
